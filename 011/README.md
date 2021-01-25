@@ -10,6 +10,8 @@ And there’s even [a crappy little video I made to go along with it, which you 
 
 [**“Fate’s Warlock, Fortune’s Witch: The Magelet”**](https://oddjobs.codeberg.page/guides/magelet/)
 
+(You can also [read the guide on the MapleLegends forums](https://forum.maplelegends.com/index.php?threads/fate’s-warlock-fortune’s-witch-the-magelet.36860/).)
+
 ## Tryna OPQ
 
 OPQ was off to a bit of a rocky 🪨🪨 start, just trying to get a party going:
