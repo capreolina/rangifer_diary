@@ -18,8 +18,7 @@ OPQ was off to a bit of a rocky 🪨🪨 start, just trying to get a party going
 
 ![Tryna recruit for OPQ](tryna-recruit-for-opq.png "Tryna recruit for OPQ")
 
-The other 5%, of course, is when we’re doing [the Sealed
-Room ⚖️](https://maplelegends.com/lib/map?id=920010500)…
+The other 5%, of course, is when we’re doing [the Sealed Room ⚖️](https://maplelegends.com/lib/map?id=920010500)…
 
 We did manage to pull together a party 🥳, though, and my newly-priest 🛐 (congrats~!) friend **BishopXeph** was streaming 📹 on [Twitch](https://www.twitch.tv/) and wanted to try OPQ before outleveling it for good! And try it, he did; we only managed two OPQs before the party disintegrated enough to preclude further OPQs, and an arduous two OPQs they were… I was the only one in either of the PQs who had done OPQ before (or at least, had done it in recent memory), so there was a considerably higher teaching-to-doing-ratio than in your average OPQ. It’s always a good thing, though! Indoctrinating — excuse me, I mean _welcoming_ — new people into the (O/M/E/L/etc.)PQ world is a fun and healthy thing, especially if it means more active PQs!! 😃
 
