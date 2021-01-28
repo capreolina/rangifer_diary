@@ -10,7 +10,7 @@ Boymoder can now deftly swap between two roles: [permabeginner](https://oddjobs.
 
 ## OPQ with Kabu, sweetmochi, GucciMochi, KimKim, and Yuwen2021
 
-We were having a bit of a rough time getting a part of 5~6 together for OPQ. But F/P wizard **Kabu** came to the rescue when I mentioned that I was recruiting for OPQ in alliance chat (Kabu also has an [HP fighter](https://oddjobs.codeberg.page/odd-jobs.html#hp-warrior) by the name of **Verta**, in **Oddjobs**)! Here we are, just before Kabu had to leave:
+We were having a bit of a rough time getting a party of 5~6 together for OPQ. But F/P wizard **Kabu** came to the rescue when I mentioned that I was recruiting for OPQ in alliance chat (Kabu also has an [HP fighter](https://oddjobs.codeberg.page/odd-jobs.html#hp-warrior) by the name of **Verta**, in **Oddjobs**)! Here we are, just before Kabu had to leave:
 
 ![OPQ with Kabu](opq-with-kabu.png "OPQ with Kabu")
 
