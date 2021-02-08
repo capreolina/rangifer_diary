@@ -13,6 +13,8 @@ Because the Toy that I currently use is 106 WATK, and the finished (read: zero s
 
 - I used a 30% on Toy A, and it boomed. (0 WATK, 0 STR, 0 DEX, 0 slots)
 
+---
+
 - I used a 30% on Toy B, and it failed. (96 WATK, 3 STR, 2 DEX, 6 slots)
 - I used a 30% on Toy B, and it passed. (101 WATK, 6 STR, 2 DEX, 5 slots)
 - I used [a 60%](https://maplelegends.com/lib/use?id=2044001) on Toy B, and it passed. (103 WATK, 7 STR, 2 DEX, 4 slots)
