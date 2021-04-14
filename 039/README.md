@@ -321,13 +321,13 @@ Here’s dama, showing off her STR sindit skillz at the boss fight:
 
 After very many KPQs we were both level 29 and roughly 95% EXP. And dendrite _insisted_ that we race each other at [Shumi’s Lost Coin](https://bbb.hidden-street.net/quest/victoria-island/shumis-lost-coin) in lieu of hitting level 30, although I was reluctant (as usual) to do any JQing…
 
-dendrite enticed me by promising me a gilded [eggs pan](https://maplelegends.com/lib/equip?id=01322027), if I were to emerge victorious in the JQ race. So off we went, and by throwing caution to the wind (and thus taking a truly immense quantity of lasers to the face), I actually managed to win the race!! dendrite challenged me to finish _again_ before they could finish for the first time, offering me another gilded eggs pan… Again, I was reluctant, but dendrite insisted that their pride was on the line, and so… uhm… I did it again:
+dendrite enticed me by promising me a gilded [eggs pan](https://maplelegends.com/lib/equip?id=01322027) (originally, the promise was for a “gild eggs pan”, meaning money for a guild expansion), if I were to emerge victorious in the JQ race. So off we went, and by throwing caution to the wind (and thus taking a truly immense quantity of lasers to the face), I actually managed to win the race!! dendrite challenged me to finish _again_ before they could finish for the first time, offering me another gilded eggs pan… Again, I was reluctant, but dendrite insisted that their pride was on the line, and so… uhm… I did it again:
 
 ![Shumi’s Lost Coin](shumi-s-lost-coin.png "Shumi’s Lost Coin")
 
 Considering that I really did not want to make dendrite cry, and also didn’t want to do any more JQing, I made no attempt to complete the JQ a third time…
 
-Once dendrite did finish, we were both level 30, and so it was time to advance to bandit!!!:
+Once dendrite did finish (and revealed the prank to be literal “egg pans” this entire time… which I did not accept), we were both level 30, and so it was time to advance to bandit!!!:
 
 ![dama & dendrite advance to dit](dama-and-dendrite-advance-to-dit.png "dama & dendrite advance to dit")
 
