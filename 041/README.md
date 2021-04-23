@@ -54,6 +54,19 @@ The extra STR and DEX from gear here are due to the [Toy of 101](https://maplele
 
 As usual, we assume that all player characters and monsters have the same level. And, as in the “R>1 pog ranged for…” series, we will use 600 WDEF to reasonably represent a low- or mid-level boss monster. Additionally, because of the LUK white knight, elemental interactions now matter, so we now assume _by default_ that all monsters are neutral towards all elements; however, I will _also_ list the non-neutral cases separately. The permawarrior is using [Power Strike](https://maplelegends.com/lib/skill?id=1001004), the wand warrior, dagger warrior, and LUKsader are using Power Strike with maxed [Combo Attack](https://maplelegends.com/lib/skill?id=1111002), the LUK white knight is using Power Strike with maxed charge (that is, whichever charge they are using, e.g. [Fire Charge](https://maplelegends.com/lib/skill?id=1211003)), and the LUK dragon knight is using maxed [Spear Crusher](https://maplelegends.com/lib/skill?id=1311001):
 
+| model                      |     DPS |
+| :------------------------- | ------: |
+| dagger warrior             | 14828.4 |
+| wand warrior               |  9446.7 |
+| permawarrior               |  5934.0 |
+| LUK WK (fire weak)         |  4353.5 |
+| LUKsader                   |  3868.9 |
+| LUK WK (lightning weak)    |  3545.8 |
+| LUK WK (ice weak)          |  2738.0 |
+| LUK WK (fire neutral)      |  2468.8 |
+| LUK WK (lightning neutral) |  1930.3 |
+| LUK DK                     |  1350.2 |
+
 So, I imagine that some of these results may be a bit surprising. As we can see from the dagger sader and the wand sader topping the chart here, [Combo Attack](https://maplelegends.com/lib/skill?id=1111002) is completely and utterly broken. While the wand warrior does clearly trail quite far behind the dagger warrior, they do have two advantages that the dagger warrior lacks: a higher PSM (primary stat multiplier; wands/staves _always swing_ and thus get a PSM of 4.4, whereas daggers get a PSM of 4.0 regardless of the animation), and naturally higher STR. The higher STR is due to the [Heart Wand](https://maplelegends.com/lib/equip?id=01372033) lacking stat requirements, whereas daggers tend to have quite high DEX requirements, like the [GDK](https://maplelegends.com/lib/equip?id=01332051) used for our model here, which has a DEX requirement of 140.
 
 As is perhaps expected after this point, the permawarrior comes in third place with a very strong DPS of 5934. Then we have our LUK warriors. The LUK WK using [Fire Charge](https://maplelegends.com/lib/skill?id=1211003) versus a fire-weak monster comes out on top here, and while that is a fairly specific situation, there are even some boss monsters that are fire-weak: [Scarlion](https://maplelegends.com/lib/monster?id=9420549), [Blue Mushmom](https://maplelegends.com/lib/monster?id=9400205), [Male Boss](https://maplelegends.com/lib/monster?id=9400120), [Pianus (both)](https://maplelegends.com/lib/monster?id=8510000), [Bigfoot](https://maplelegends.com/lib/monster?id=9400575), [Blue King Goblin](https://maplelegends.com/lib/monster?id=7130401), [Bodyguard A](https://maplelegends.com/lib/monster?id=9400112), [The Boss](https://maplelegends.com/lib/monster?id=9400300), and even [one of Vergamot’s bodies](https://maplelegends.com/lib/monster?id=9400264)(‽). Otherwise, LUKsader is the most consistently high single-target DPS amongst the LUK warriors. Our poor, poor LUK DK gets left in the dust, with a measly (but still useful) DPS of 1350.2.
