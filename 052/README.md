@@ -270,58 +270,139 @@ And sorts now has her Ellin ring ^^
 
 ## Assorted bosses & PQs~
 
+This section is the dumping ground for PQ/boss runs that didn’t fit in the other sections! Wow~!
+
 <details>
 <summary>Assorted bosses & PQs~</summary>
 
+I did another [Bigfoot](https://maplelegends.com/lib/monster?id=9400575) hunt with **Gruzz** and **xBowtjuhNL**! This time, xBowtjuhNL was kind enough to donate an entire [apple](https://maplelegends.com/lib/use?id=2022179)(!) to me for the purpose of the fight; once both of our apples had elapsed, we had already taken down some ⅔ or so of BF’s HP :o And then the rest was a lil slower, with [Ciders](https://maplelegends.com/lib/use?id=2022002)…
+
 ![Gruzz, xBowtjuhNL, and capreolina vs. Bigfoot](gruzz-bow-and-capre-vs-bf.png "Gruzz, xBowtjuhNL, and capreolina vs. Bigfoot")
+
+**Skateboard** (**Melokie**, **Alrightyo**) invited me to do a [Ravana](https://maplelegends.com/lib/monster?id=9420014) duo with her, after we did some [HPQ](https://maplelegends.com/lib/map?id=100000200)s with **Pasta**. Of course, I was happy to, and we had two pretty smooth runs, with Skateboard’s stronk [Hurricane](https://maplelegends.com/lib/skill?id=3121004) keeping Ravana largely pinned to the left, and with me feebly [Rush](https://maplelegends.com/lib/skill?id=1321003)ing as needed and trying my damnedest to contribute DPS with [Crusher](https://maplelegends.com/lib/skill?id=1311001)!:
 
 ![rusa & Skateboard vs. Ravana](rusa-and-skateboard-vs-rav.png "rusa & Skateboard vs. Ravana")
 
+I also did some [Capt. Lat](https://maplelegends.com/lib/monster?id=9420513) runs on my [STR bishop](https://oddjobs.codeberg.page/odd-jobs.html#str-mage) with [STRginners](https://oddjobs.codeberg.page/odd-jobs.html#str-beginner) **Cortical** (**Medulla**, **GishGallop**, **Subcortical**, **MageFP**, **dendrite**, **WizetWizard**, **Amygdala**) and **OmokTeacher** (**Slime**, **JumpQuest**, **Slimu**). As you can see, OmokTeacher had JumpQuest parked in the corner of the map to keep up [HB](https://maplelegends.com/lib/skill?id=1301007) on the ‘ginners; there was one death between the two runs that we did, where Cortical went down, but I was able to successfully [resurrect](https://maplelegends.com/lib/skill?id=2321006) them and so we finished the run completely intact!:
+
 ![cervid, Cortical, & OmokTeacher vs. Capt. Latanica](cervid-cortical-and-omokteacher-vs-capt-lat.png "cervid, Cortical, & OmokTeacher vs. Capt. Latanica")
+
+Also with OmokTeacher, and this time joined by fellow STRginner **justbegin** (**Stayinghere**, **Kalezus**), we did three HPQs. At the end of the last one, I realised that I could use [Doom](https://maplelegends.com/lib/skill?id=2311005) to great effect:
 
 ![HPQ w/ justbegin & OmokTeacher](hpq-with-justbegin-and-omokteacher.png "HPQ w/ justbegin & OmokTeacher")
 
+And finally, here is my [DEX brawler](https://oddjobs.codeberg.page/odd-jobs.html#dex-brawler) [LPQ](https://maplelegends.com/lib/map?id=221024500) mule **sorts** testing out her new [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=01492021) on [Alishar](https://maplelegends.com/lib/monster?id=9300012) for the first time!:
+
 ![sorts zaps Alishar w/ the Storm Pistol](sorts-zaps-alishar-with-the-spistol.png "sorts zaps Alishar w/ the Storm Pistol")
+
+Pewpewpewpew~!
 
 </details>
 
 ## Makin’ items & bein’ sad about it
 
-![](crafting-an-nrc.png "")
+I snagged a cheap [Raven’s Claw](https://maplelegends.com/lib/equip?id=01472072) off of the [FM](https://maplelegends.com/lib/map?id=910000000), and set out to craft my very own [Night Raven’s Claw (NRC)](https://maplelegends.com/lib/equip?id=01472073) with it, using materials that I collected myself.
+
+Besides the need for this Raven’s Claw to start out with (which is a random exchange prize that you can get from one of the exchanges, I’m not sure which), crafting the NRC requires 30 [Black Crystals](https://maplelegends.com/lib/etc?id=4021008), 10 [DEX Crystals](https://maplelegends.com/lib/etc?id=4005002), and a [Tao of Shadows](https://maplelegends.com/lib/etc?id=4032015). I actually already had a Tao of Shadows, which **OmokTeacher** kindly donated to me when my [STR priest](https://oddjobs.codeberg.page/odd-jobs.html#str-mage) **cervid** advanced to STR bishop. And I hoard a lot of dumb shit for some reason, including _way_ more than 10 DEX crystals — so I was already set there, as well. I would have had the Black Crystals ready as well, except that I used 100 of mine to make a set of [Balanced Fury](https://maplelegends.com/lib/use?id=2070018) (see the previous diary entry). So I still had some left over, but I needed to farm more to get 30 for this NRC craft.
+
+After lots more [CD killing](https://maplelegends.com/lib/map?id=742010203) in lieu of getting my [woodswoman](https://oddjobs.codeberg.page/odd-jobs.html#woodsman) **capreolina** some EXP, I had farmed enough extra [Black Crystal Ores](https://maplelegends.com/lib/etc?id=4020008) to do the craft:
+
+![Crafting an NRC](crafting-an-nrc.png "Crafting an NRC")
+
+It turned out below average, unfortunately, although at least it wasn’t that below average; 39 WATK and 3 LUK clean, which is one below average for WATK, and 1 ABOVE average for LUK. I won’t be scrolling this thing yet; I want to wait until after the event ends, so that I know how my [Maple Skanda](https://maplelegends.com/lib/equip?id=01472055) situation is looking :)
+
+You might wonder why I bothered crafting an NRC; after all, no one really uses these things, since higher-level claws are pretty much always better for nightlords. The reason is that the NRC is perhaps the best endgame weapon for [L7](https://maplelegends.com/lib/skill?id=4001344)-using [permarogues](https://oddjobs.codeberg.page/odd-jobs.html#permarogue). The NRC is the most powerful speed 3 claw in the game; this doesn’t matter at all for assassins/hermits/nightlords, because they have [Claw Booster](https://maplelegends.com/lib/skill?id=4101003) anyways, so all claws in the game end up being the same speed (viz. 2) for them (with the exception of the [Garnier](https://maplelegends.com/lib/equip?id=01472000)). But permarogues, of course, do not have access to Claw Booster. Furthermore, permarogues simply have less capacity to level up when compared to ordinary non-odd rogues, which means that staying DEXless for life makes a lot more sense, and the NRC also happens to be the most powerful DEXless claw in the game. When it comes to dagger-using, it should be noted that the most powerful speed 3 _dagger_ in the game is also, like the NRC, lacking in real stat requirements (35 STR is not a big deal): the [Fan](https://maplelegends.com/lib/equip?id=01332030). All of this, in combination, means that the standard route for permarogues is to stay STRless & DEXless, and make use of weapons like the Fan, NRC, Maple Skanda, and [Maple Dark Mate](https://maplelegends.com/lib/equip?id=01332055) (all of these weapons are speed 3 clean).
+
+I also crafted some [Maple Storm Pistols](https://maplelegends.com/lib/equip?id=01492021) and [Maple Storm Fingers](https://maplelegends.com/lib/equip?id=01482021) for my [DEX brawler](https://oddjobs.codeberg.page/odd-jobs.html#dex-brawler) [LPQ](https://maplelegends.com/lib/map?id=221024500) mule **sorts**, and after booming a few here and there, I managed to make one of each that is purple glowing (62 and 61 WATK, respectively, iirc)!
+
+And, most of all, I have been feverishly crafting [Maple Kandiva Bows](https://maplelegends.com/lib/equip?id=01452045) to try to upgrade the bow that my [woodswoman](https://oddjobs.codeberg.page/odd-jobs.html#woodsman) **capreolina** has been using as her only ranged weapon since level 64. Being DEXless, the Maple Kandiva Bow is actually the best possible ranged weapon that I’m even capable of equipping; in second place would be the [Bow of Magical Destruction (BoMD)](https://maplelegends.com/lib/equip?id=01452018), but unfortunately the BoMD is an entire speed category slower (6 > 5), and furthermore, means losing out on an entire 100 HP on average. I have been using a 93 WATK Kandiva that I bought pre-scrolled back when capreolina was probably level 62 or so… It has served me very well, but with the anniversary event, I thought it may behoove me to upgrade while the time is ripe. It is, after all, my endgame ranged weapon. Unfortunately, so far it has just been a flurry of very poor crafts (under-average clean Kandivas that I now have very little to do with), and booming bows after spending a whopping three-or-so million mesos per [scroll](https://maplelegends.com/lib/use?id=2044505) >.<
 
 ## hashishi, Gambolpuddy, & Medulla do the Zakum prequests
 
-![](jq-practice-in-el-nath.png "")
+After having planned this… months ago, I think, we finally got a trio of odd-jobbers together to do the [Zakum](https://maplelegends.com/lib/monster?id=8800000) prequests — for great [zhelm](https://maplelegends.com/lib/equip?id=01002357) buying!! It was me as **hashishi**, my [besinner](https://oddjobs.codeberg.page/odd-jobs.html#besinner), Kels (**Taima**, **Tacgnol**, **Boymoder**, **Numidium**, **Nyanners**, **Hanyou**, **Inugami**, **Yotsubachan**) as **Gambolpuddy** the [DEXginner](https://oddjobs.codeberg.page/odd-jobs.html#dex-beginner), and Cort as **Medulla**!
 
-![](gambolpuddy-completes-the-hard-route.png "")
+<details>
+<summary>Oddjobs trio @ Zak pre-Q’s~!</summary>
 
-![](getting-arec-s-blessing.png "")
+We may or may not have spent an hour just doing this little JQ [in El Nath](https://maplelegends.com/lib/map?id=211000000):
 
-![](finishing-1st-zakum-prequest.png "")
+![JQ practice in El Nath](jq-practice-in-el-nath.png "JQ practice in El Nath")
 
-![](hashishi-2nd-zakum-prequest.png "")
+Great practice for the second Zakum prequest, maybe… There are actually essentially three routes here; the rightmost one is the easiest, and it gets considerably harder as you go to the middle one, and then to the leftmost and most difficult route. All three of us were able to conquer the easy route. After some difficulty, Gambolpuddy and I were able to do the middle route as well. Poor Medulla was only ever able to do the easy route, but, Gambolpuddy was the only one of the three of us who managed the hard route:
 
-![](finishing-2nd-zakum-prequest.png "")
+![Gambolpuddy completes the hard route](gambolpuddy-completes-the-hard-route.png "Gambolpuddy completes the hard route")
+
+All three routes. Wow. Surely, the El Nath job instructors will finally find Gambolpuddy worth of job advancement…
+
+Speaking of job advancement, as a LUK-based claw-wielding beginner, I wanted to advance to my rightful title and position of rogue. Or assassin, or whatever. Nightlord would be great. So I talked to the thief job instructor in El Nath: [Arec](https://maplelegends.com/lib/npc?id=2020011). He give me the blessing to complete the Zakum prequests:
+
+![Getting Arec’s blessing](getting-arec-s-blessing.png "Getting Arec’s blessing")
+
+Although I’m still a beginner, it seems. :X
+
+Maybe if I get a zhelm and come back, Arec might find me worthy? We shall see…
+
+We speedran the first prequest:
+
+![Finishing the 1st Zakum prequest~](finishing-1st-zakum-prequest.png "Finishing the 1st Zakum prequest~")
+
+And raced in the second prequest: the dreaded Zakum JQ.
+
+![hashishi vs. the 2nd Zakum prequest](hashishi-2nd-zakum-prequest.png "hashishi vs. the 2nd Zakum prequest")
+
+I was worried that I might take too long on the JQ, and Gambolpuddy would have to go to sleep before I could finish. But with some slow and steady patience, I actually finished (sort of) in second place! Really, I would have been last, except that Gambolpuddy accidentally died to the lava and had to get [door](https://maplelegends.com/lib/skill?id=2311002)ed back:
+
+![Finishing the 2nd Zakum prequest~](finishing-2nd-zakum-prequest.png "Finishing the 2nd Zakum prequest~")
+
+Yay~! I can’t wait to see hashishi with the extra DPS and defences from a sweet zhelm~
+
+</details>
 
 ## Getting the T6 ring for capre
 
-![](capre-jr.-lioner-card-get-1.png "")
+I haven’t been card-hunting on my [woodswoman](https://oddjobs.codeberg.page/odd-jobs.html#woodsman) **capreolina** in a while, as I’ve been focussing on getting EXP, and on working on other characters. But the time is now, to upgrade that ring one more time before I advance to the rank of woodsmaster!
 
-![](capre-star-pixie-card-get.png "")
+<details>
+<summary>Carrrd huntin’~</summary>
 
-![](capre-lunar-pixie-card-get.png "")
+All of the sets I worked on here were in [Orbis](https://maplelegends.com/lib/map?id=200000000). First things first, to finish off the last smol cat set that I hadn’t finished already:
 
-![](capre-luster-pixie-card-get.png "")
+![Jr. Lioner card get!](capre-jr.-lioner-card-get-1.png "Jr. Lioner card get!")
 
-![](capre-nependeath-card-get.png "")
+And then, it was time to hunt [the](https://maplelegends.com/lib/monster?filter=1&order=1&sort=1&search=pixie) [pixies][pixies]:
 
-![](capre-dark-nependeath-card-get.png "")
+![Star Pixie card get!](capre-star-pixie-card-get.png "Star Pixie card get!")
 
-![](capre-jr.-lucida-card-get.png "")
+![Lunar Pixie card get!](capre-lunar-pixie-card-get.png "Lunar Pixie card get!")
 
-![](capre-cellion-card-get.png "")
+![Luster Pixie card get!](capre-luster-pixie-card-get.png "Luster Pixie card get!")
 
-![](capre-t6.png "")
+And then it was time to farm these [pesky immobile-but-extremely-aggressive plants](https://maplelegends.com/lib/monster?id=4230105):
+
+![Nependeath card get!](capre-nependeath-card-get.png "Nependeath card get!")
+
+![Dark Nependeath card get!](capre-dark-nependeath-card-get.png "Dark Nependeath card get!")
+
+Those with eagle eyes might notice, in some of these screenshots, that the background is all shitty because I have the graphics level turned down to the lowest setting. For some reason, Orbis maps just absolutely loathe my CPU, and it sometimes becomes an issue when [OPQ](https://maplelegends.com/lib/map?id=200080101)ing, particularly when multiclienting. The only other region of the game that does this (that I can think of off the top of my head) is the [Fantasy Theme Park](https://maplelegends.com/lib/map?id=551010000) region of [Malaysia](https://maplelegends.com/lib/map?id=551000000) o\_0
+
+Next up was the big cats (starting with [Cellions](https://maplelegends.com/lib/monster?id=5120001)), but while I was there, I thought I might check for any [Eliza](https://maplelegends.com/lib/monster?id=8220000)s. Now, I had already done [the Eliza quest](https://bbb.hidden-street.net/quest/el-nath-mt-aquaroad/goddess-pet) on capreolina, and I have long since vowed to never kill area bosses that are necessary for quests — unless I actually need them for a quest. Getting area boss card sets is nice, but I believe it not to be worth stealing these area bosses from players who actually need them for a quest. However, there was something that I could do with Eliza that did not involve killing her: getting the [Jr. Lucida](https://maplelegends.com/lib/monster?id=6230401) card set! Sources that I found online, and people who have told me about this personally, claim that one simply needs to bring Eliza to ≤50% HP, and keep her there without killing her, and she will spawn Jr. Lucidas indefinitely.
+
+It seems that this is somewhat mistaken, or perhaps Eliza’s behaviour has been changed by MapleLegends at some point. I found that Eliza’s HP need not be ≤50% in order to start spawning Jr. Lucidas; in fact, she seemed to start spawning them somewhere around the 85% HP mark. And furthermore, she does not seem to spawn the Jr. Lucidas indefinitely, even if held well below the 50% HP mark for prolonged periods of time. So, in the end, I actually had to find **three** separate Elizas in order to get the Jr. Lucidas that I needed to complete this set. The card drop rate wasn’t all _that_ great, after all, especially considering the kind of manipulation necessary to even fight these monsters in bulk…
+
+![Jr. Lucida card get!](capre-jr.-lucida-card-get.png "Jr. Lucida card get!")
+
+But I did finish the set! And so I went off to get the Cellion set:
+
+![Cellion card get!](capre-cellion-card-get.png "Cellion card get!")
+
+And that was enough to take me to 180 sets overall…
+
+</details>
+
+![capreolina obtains the T6 Monster Book ring!!](capre-t6.png "capreolina obtains the T6 Monster Book ring!!")
+
+Yay~!! [T6](https://maplelegends.com/lib/equip?id=01119008) acquired!!! :D
 
 [article]: https://en.wikipedia.org/wiki/Article_(grammar)
 [taurus]: https://en.wikipedia.org/wiki/Taurus_(constellation)
+[pixies]: https://en.wikipedia.org/wiki/Pixies_(band)
