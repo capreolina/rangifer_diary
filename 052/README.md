@@ -7,7 +7,7 @@ So, in a previous diary entry (in §2 of this part), I came up with a list of so
 > - Defining a particular odd job (e.g. [permawarrior](https://oddjobs.codeberg.page/odd-jobs.html#permawarrior)) is **simple**.
 > - Insofar as an odd job is “odd”, it is **pure** in its “odd” aspect.
 > - Each particular odd job satisfies some intuitive notion of **natural**.
-> - The name that we are choosing to use here, “odd job”, is simultaneously fortunate and unfortunate. The “simplicity”, “purity”, and “naturalness” of odd jobs (as listed previously) > justifies the use of the word “job” in the phrase “odd job”.
+> - The name that we are choosing to use here, “odd job”, is simultaneously fortunate and unfortunate. The “simplicity”, “purity”, and “naturalness” of odd jobs (as listed previously) justifies the use of the word “job” in the phrase “odd job”.
 > - Odd jobs are, to the extent possible, **atemporal**. I’m leaving the use of this word intentionally vague, for now.
 
 And, so far, I’ve elaborated on the first three of these five items. Here, I want to elaborate on the remaining two.
