@@ -259,7 +259,7 @@ And finally, a section where I can show off some of my gear that actually turned
 
 ![rusa’s hat](rusa-s-hat.png "rusa’s hat")
 
-Pretty good! Ill take 5/7 any day!! Just dont make me waste all my helm DEX 60%s ever again!!! Please & thank you!!!!
+Pretty good! I’ll take 5/7 any day!! Just don’t make me waste all my helm DEX 60%s ever again!!! Please & thank you!!!!
 
 And, after some careful consideration, I came to the conclusion that the [Crimsonheart Cloak](https://maplelegends.com/lib/equip?id=01102205) is actually the best possible cape for rusa. Similar to the [HTP](https://maplelegends.com/lib/equip?id=01122000) being superior to even a 5 WATK [MoN](https://maplelegends.com/lib/equip?id=01122059) for rusa, the sheer number of stats — particularly STR — that I can get on this bad boy makes it better than my current 4 WATK 6 DEX [PGC](https://maplelegends.com/lib/equip?id=01102084). And even better than a similar (probably more like 3 WATK) PGC scrolled for STR! I did in fact work out the mathematics here, but all of the heavy lifting was done by my [damage calculator](https://oddjobs.codeberg.page/dmg-calc/), so it didn’t take too long to figure out.
 
