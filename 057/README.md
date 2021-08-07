@@ -203,7 +203,7 @@ Some readers (maybe, I dunno) might be wondering why my [daggermit](https://oddj
 
 So, for now, alces is in MPQ+suicide hell, but in the future, I hope to put on some real rogue gear!!
 
-<3
+\<3
 
 [cropping]: https://en.wikipedia.org/wiki/Cropping_(image)
 [bandwidth]: https://en.wikipedia.org/wiki/Bandwidth_(computing)
