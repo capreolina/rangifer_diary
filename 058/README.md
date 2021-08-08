@@ -299,36 +299,68 @@ And now, panolia is off to [MPQ](https://maplelegends.com/lib/map?id=261000021)~
 
 ## alces is free at last~
 
-![](boymoder-2sus4u-and-alces-vs-lord-pirate.webp "")
+That’s right, **alces** (my [daggermit](https://oddjobs.codeberg.page/odd-jobs.html#dagger-assassin)) is bacc~
 
-![](can-hermits-use-daggers.webp "")
+Rather than a proper graduation from MPQ (which I had already done quite enough of on this character), I joined [STRmit](https://oddjobs.codeberg.page/odd-jobs.html#lukless-assassin) **Boymoder** and F/P mage **2sus4u** in doing some [PPQ](https://maplelegends.com/lib/map?id=251010404)s!
 
-![](devildog96-ellie01-lesweetpea-and-alces-vs-lord-pirate.webp "")
+![Boymoder, 2sus4, & alces vs. Lord Pirate](boymoder-2sus4u-and-alces-vs-lord-pirate.webp "Boymoder, 2sus4, & alces vs. Lord Pirate")
 
-![](alces-vs-pots.webp "")
+Later, we encountered some confusion over my use of [MU](https://maplelegends.com/lib/skill?id=4111001):
 
-![](alces-bellflower-root-card-get-1.webp "")
+![can hermits use daggers](can-hermits-use-daggers.webp "can hermits use daggers")
 
-![](alces-captain-card-get.webp "")
+And I continued PPQing even after Boymoder left, and 2sus4u took a break to advance to 3rd job F/P mage (grats again!), at which point I met **lesweetpea**, as well as **DevilDog96** and **Ellie01**, who appeared to be hardcore questers by the look of it (175-ish fame each, guildless, unoptimised assorted gear)!:
+
+![DevilDog96, Ellie01, lesweetpea, & alces vs. Lord Pirate](devildog96-ellie01-lesweetpea-and-alces-vs-lord-pirate.webp "DevilDog96, Ellie01, lesweetpea, & alces vs. Lord Pirate")
+
+I did finally take a break after some 18(!) or so PPQs, when I finally hit level 86~! Some readers may remember that I started questing on alces at a lower level than I usually do (I tend to be a bit greedy and save my quests for level ≥86, when KPQ/LPQ/OPQ/MPQ are no longer options), but I put it on hold at around level 71 or so — knowing that alces would have a hard time grinding at level ≥86, being stuck with [mastery](https://maplelegends.com/lib/skill?id=4200000)less [Double Stab](https://maplelegends.com/lib/skill?id=4001334) forever. Now that alces is finally at that point, I started where I left off — killing 400 [Jar](https://maplelegends.com/lib/monster?id=4230505)s:
+
+![alces vs. pots](alces-vs-pots.webp "alces vs. pots")
+
+And I started working on some other quests around the area as well!:
+
+![Bellflower Root card get!](alces-bellflower-root-card-get-1.webp "Bellflower Root card get!")
+
+![Captain card get!](alces-captain-card-get.webp "Captain card get!")
+
+I’m excited to play alces more in the future c:
 
 ## These bosses are not on Victoria Island! Bah, humbug!!
+
+I know, I know — but I can only kill so many [Big Monke](https://maplelegends.com/lib/monster?id=5220002)s and [Casey](https://maplelegends.com/lib/monster?id=5220000)s… Here are some of the outland bosses that I killed alongside **xBowtjuhNL**, **Gruzz**, and **Harlez**!:
 
 <details>
 <summary>Big bad boss guys within!</summary>
 
-![](rav-with-gruzz-bow-and-harl.webp "")
+I was summoned to help kill [Rav](https://maplelegends.com/lib/monster?id=9420014) on my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa**… Unfortunately, all of my NX equips had expired, and I had nearly no NX on that account as a result of voting on **panolia**’s and on **d34r**’s accounts instead \>.\<
 
-![](capre-and-bow-vs-bf.webp "")
+![Rav w/ Gruzz, xBowtjuhNL, & Harlez](rav-with-gruzz-bow-and-harl.webp "Rav w/ Gruzz, xBowtjuhNL, & Harlez")
 
-![](capre-vs-hh.webp "")
+Later, I duoed [BF](https://maplelegends.com/lib/monster?id=9400575) with xBowtjuhNL, on my [woodsmaster](https://oddjobs.codeberg.page/odd-jobs.html#woodsman) **capreolina**! We weren’t sure how difficult it would be, but xBowtjuhNL found one at [FP](https://maplelegends.com/lib/map?id=610010005), and we managed to kite/pin it (and by “we”, I mean that xBowtjuhNL did most of the pinning…) to death in a surprisingly short amount of time, thanks to my level 6 [SE](https://maplelegends.com/lib/skill?id=3121002) massively amplifying both of our DPS outputs!
 
-![](more-rav-with-gruzz-and-bow.webp "")
+![capreolina & xBowtjuhNL vs. Bigfoot](capre-and-bow-vs-bf.webp "capreolina & xBowtjuhNL vs. Bigfoot")
+
+We looked for some more BFs on that map, to no avail, although we did find a [HH](https://maplelegends.com/lib/monster?id=9400549), which I soloed:
+
+![capreolina vs. HH](capre-vs-hh.webp "capreolina vs. HH")
+
+It’s been a while since capre soloed a BF! It was a good bit faster this time x)
+
+And later, with enough time to vote on rusa’s account and get her NX back, we did some more Rav:
+
+![More Rav w/ Gruzz & xBowtjuhNL](more-rav-with-gruzz-and-bow.webp "More Rav w/ Gruzz & xBowtjuhNL")
 
 </details>
 
 ## Gun!!
 
-![](new-maple-storm-pistol.webp "")
+I had a smol number of [Maple Storm Pistol](https://maplelegends.com/lib/equip?id=01492021)s lying around from the anniversary event, which I planned on scrolling, so that they could be used by my [DEX brawler](https://oddjobs.codeberg.page/odd-jobs.html#dex-brawler) [LPQ](https://maplelegends.com/lib/map?id=221024500) mule **sorts**~
+
+The prices of [Gun WATK 30%](https://maplelegends.com/lib/use?id=2044904)s had jumped up suddenly towards the end of the event, so I was going to wait out the bubble before I went off and scrolled more guns. It seems that the price is a permanently a bit inflated now (although not quite as much as when it originally jumped), but in any case, I was prepared to buy some, considering I was already [used](https://maplelegends.com/lib/use?id=2044505) to [buying](https://maplelegends.com/lib/use?id=2044005) expensive [30%s](https://maplelegends.com/lib/use?id=2044705) anyways… Plus, **Redz** (**Permanovice**, **Battlesage**, **Dreamscapes**, **Hanger**) sold me a Storm Pistol that was just one WATK below perfect WATK (48 WATK), so I tried my hand at scrolling it, attempting to get at least 64 WATK, so that I could best my old one (62 WATK) by at least 2 WATK…
+
+![New Maple Storm Pistol~!](new-maple-storm-pistol.webp "New Maple Storm Pistol~!")
+
+Very nice!!! Goal achieved~ :D
 
 [taxonomy-bio]: https://en.wikipedia.org/wiki/Taxonomy_(biology)
 [tree]: https://en.wikipedia.org/wiki/Tree_(graph_theory)
