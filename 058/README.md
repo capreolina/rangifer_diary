@@ -33,102 +33,192 @@ On the phenetics-y side of things, I want to investigate some kind of “bag of 
 
 ## PQ2
 
-![](pq2.webp "")
+In pt. liii of this diary, I attended a virtual rave (as my [daggermit](https://oddjobs.codeberg.page/odd-jobs.html#dagger-assassin) **alces**) at [FM 4-20](https://maplelegends.com/lib/map?id=910000020), called “PartyQuest”. The rave was hosted by **osmanthus** (IGN **zkgui**) on [datafruits\.fm](https://datafruits.fm/), and featured **technopagan** (mae; **xX17Xx**, **drainer**, **attackattack**, **strainer**, **partyrock**, **maebee**) DJing as one of the main acts! I attended the sequel this time — PartyQuest 2 — which was set up similarly, except that it was hosted in channel 1 of [Maya’s House](https://maplelegends.com/lib/map?id=100000001) (actually called “Henesys Townstreet” in-game for some reason). I attended as my I/L [magelet](https://oddjobs.codeberg.page/odd-jobs.html#magelet) **cervine**, and later as my [besinner](https://oddjobs.codeberg.page/odd-jobs.html#besinner) **hashishi**. You can see me as cervine in the screenshot below, which features [permabeginners](https://oddjobs.codeberg.page/odd-jobs.html#str-beginner) drainer, **Cowbelle**, and **Cortical**, as well as **Monologue** (you can’t see the nametag, as he is the bottom-left-most character in the screenshot), who (as I found out during the rave) was a major active figure in the permabeginner scene of GMS:
+
+![PQ2](pq2.webp "PQ2")
+
+The above screenshot was not taken by me — credit for the screenshot goes to @Cowbelle!
 
 ## The adventures of d34r
 
-![](d34r-50.webp "")
+That’s right, it’s time for more vicloc adventures!! My vicloc [dagger spearwoman](https://oddjobs.codeberg.page/odd-jobs.html#dagger-warrior), **d34r**, hit level 50 :O
 
-![](outlander-taunt.webp "")
+![d34r hits level 50](d34r-50.webp "d34r hits level 50")
 
-![](rusa-meet-d34r.webp "")
+To celebrate this milestone, an outlander by the name of **Boymoder** (**Taima**, **Tacgnol**, **Hanyou**, **Numidium**, **Gambolpuddy**, **Nyanners**, **Spagonia**, **Naganohara**) taunted me with [forbidden juice](https://maplelegends.com/lib/use?id=2022002):
 
-![](d34r-fairy-card-get.webp "")
+![Outlander taunting me](outlander-taunt.webp "Outlander taunting me")
 
-![](d34r-vs-mm.webp "")
+Where the outlanders get these horrible corrupting substances, I do not know. But fear not — I resisted all temptation.
 
-![](mm-defeated.webp "")
+I’m keenly aware that, now, I have not one, but _two_, odd DKs. Okay, technically one of them is not (and can never be) a “DK” _per se_ (as 3rd and 4th jobs do not exist in vicloc), but you know what I mean. So I brought my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa** to meet with d34r:
 
-![](dead.webp "")
+![rusa, meet d34r](rusa-meet-d34r.webp "rusa, meet d34r")
 
-![](d34r-mushmom-card-get.webp "")
+F6 indeed.
 
-![](ilbi-get.webp "")
+I needed a [Mushmom ETC](https://maplelegends.com/lib/etc?id=4000040) in order to complete a level 40 questline by the name of [Jane the Alchemist](https://bbb.hidden-street.net/quest/victoria-island/jane-the-alchemist). I wanted to complete the quest earlier, as the main reward is access to Jane’s shop, which offers discounted(!) [Unagis](https://maplelegends.com/lib/use?id=2022003) and [Pure Waters](https://maplelegends.com/lib/use?id=2022000), but I needed to be at least level 50 to be able to hold mapowner for [the Mushmom map](https://maplelegends.com/lib/map?id=100000005). Now that I was level 50, I picked a channel and camped out waiting for [Mushmom](https://maplelegends.com/lib/monster?id=6130101):
 
-![](moon-rock-plz.webp "")
+![Fairy card get!](d34r-fairy-card-get.webp "Fairy card get!")
 
-![](collecting-stone-golem-rubble.webp "")
+Eventually, a mushroom mother did appear!:
 
-![](blackbull-s-new-house.webp "")
+![d34r vs. Mushmom](d34r-vs-mm.webp "d34r vs. Mushmom")
 
-![](blackbull-is-bugged.webp "")
+At this point, I would still have some serious issues hitting Mushmom — she was 10 levels higher than me, has 27 AVOID, and I am merely a masteryless vicloc warrior. But I was able to defeat her, after not too much trouble:
 
-![](d34r-drake-card-get.webp "")
+![Mushmom defeated!!](mm-defeated.webp "Mushmom defeated!!")
 
-![](d34r-cold-eye-card-get.webp "")
+Yay! The ETC dropped!! With this, I had all that I needed for my quest, but I figured I would check some other mushroom mother channels in case I could get a second ETC for other questers (including my [clericlet](https://oddjobs.codeberg.page/odd-jobs.html#magelet) **d33r**). Along the way, I was unexpectedly slain:
 
-![](cold-steams-acquired.webp "")
+![d34r is dead](dead.webp "d34r is dead")
+
+x\.x
+
+**deerhunter** turned out to be the [woodswoman](https://oddjobs.codeberg.page/odd-jobs.html#woodsman) of Spagonia/Naganohara, and the pun of her name is three-pronged:
+
+1. Because deerhunter is a woodswoman going the bow-using (hunter) route, she will actually permanently be a _hunter_, as 3rd and 4th job do not exist in vicloc, so there is no advancement to ranger nor bowmaster.
+2. She actually enjoys the music of the American band, [Deerhunter](https://en.wikipedia.org/wiki/Deerhunter).
+3. I am deer, the one being hunted. ;~;
+
+My search for other Mushmoms turned out to be shockingly successful. In just two generations of Mushmom, I was able to go from 0/5 Mushmom cards to 5/5!!:
+
+![Mushmom card get!](d34r-mushmom-card-get.webp "Mushmom card get!")
+
+And with a third generation, I managed to find a rare and powerful artefact… the legendary [Ilbi](https://maplelegends.com/lib/use?id=2070006):
+
+![Ilbi get!](ilbi-get.webp "Ilbi get!")
+
+Wowee~
+
+I later went on to do the [Building a New House For Blackbull](https://bbb.hidden-street.net/quest/victoria-island/building-a-new-house-for-blackbull) quest, which meant collecting some rubble from [Stone Golems](https://maplelegends.com/lib/monster?id=5130101):
+
+![Collecting Stone Golem Rubble](collecting-stone-golem-rubble.webp "Collecting Stone Golem Rubble")
+
+I already had the other ETC items on hand, so I went to complete the quest, only to find that it is bugged:
+
+![Blackbull’s New House](blackbull-s-new-house.webp "Blackbull’s New House")
+
+![Blackbull is bugged](blackbull-is-bugged.webp "Blackbull is bugged")
+
+For some reason, I was offered a [Bow WATK 10%](https://maplelegends.com/lib/use?id=2044502) as one of the possible rewards, and, figuring this would be more useful than the others (as I was not offered a [Dagger WATK 10%](https://maplelegends.com/lib/use?id=2043302)), I selected it… only to end up receiving no scrolls at all. I [reported this on the MapleLegends forums](https://forum.maplelegends.com/index.php?threads/building-a-new-house-for-blackbull-quest-reward.21526/), replying to a bug report on this quest from over three years ago, 2018-05-13!
+
+In any case, I continued on with the Jane the Alchemist questline. I needed some [Drake’s Blood](https://maplelegends.com/lib/use?id=2012000), so I headed to deep Sleepywood and tried grinding on [some](https://maplelegends.com/lib/map?id=105080000) Drake [maps](https://maplelegends.com/lib/map?id=105090300):
+
+![Drake card get!](d34r-drake-card-get.webp "Drake card get!")
+
+![Cold Eye card get!](d34r-cold-eye-card-get.webp "Cold Eye card get!")
+
+And in the process, I finished the first part of the [A Spell That Seals Up a Critical Danger](https://bbb.hidden-street.net/quest/victoria-island/a-spell-that-seals-up-a-critical-danger) questline:
+
+![Cold Steams acquired!](cold-steams-acquired.webp "Cold Steams acquired!")
+
+Also for Jane the Alchemist, I needed a [Moon Rock](https://maplelegends.com/lib/etc?id=4011007). My only way of obtaining one was to ask [Arwen](https://maplelegends.com/lib/npc?id=1032100) to craft it for me, but Arwen needed a lot of ingredients for that:
+
+![Moon rock plz…](moon-rock-plz.webp "Moon rock plz…")
+
+Fortunately, thanks to my hoarding ways, I was only shy of a [Gold Ore](https://maplelegends.com/lib/etc?id=4010006) or two, so after a bit of hunting [Blue Mushrooms](https://maplelegends.com/lib/monster?id=2220100) for that, I was able to complete that final part of the questline! Yay for sweet potion discounts~
+
+It was now time to farm some cards. In vicloc, there are a grand total of [69 possible card sets that can be obtained](https://codeberg.org/Victoria/resources/src/branch/master/cards.md), meaning that [the tier 2 Monster Book Ring](https://maplelegends.com/lib/equip?id=01119004) is the highest attainable Monster Book Ring. Getting to T2 means getting at least 60 out of the 69 total possible sets, which is much more easily said than done — not every monster in Victoria Island is easily farmed, and some, like [Jr. Balrog](https://maplelegends.com/lib/monster?id=8130100) or [Ergoth](https://maplelegends.com/lib/monster?id=9300028), are hard to defeat at all. But T1, requiring only 30 sets, shouldn’t be too hard. So I went to fill out some of the easiest sets in the book:
 
 <details>
 <summary>Hunting for d34r’s T1~!</summary>
 
-![](d34r-blue-mushroom-card-get.webp "")
+![Blue Mushroom card get!](d34r-blue-mushroom-card-get.webp "Blue Mushroom card get!")
 
-![](d34r-stump-card-get.webp "")
+![Stump card get!](d34r-stump-card-get.webp "Stump card get!")
 
-![](d34r-blue-snail-card-get.webp "")
+![Blue Snail card get!](d34r-blue-snail-card-get.webp "Blue Snail card get!")
 
-![](d34r-shroom-card-get.webp "")
+![Shroom card get!](d34r-shroom-card-get.webp "Shroom card get!")
 
-![](d34r-orange-mushroom-card-get.webp "")
+![Orange Mushroom card get!](d34r-orange-mushroom-card-get.webp "Orange Mushroom card get!")
 
-![](d34r-red-snail-card-get.webp "")
+![Red Snail card get!](d34r-red-snail-card-get.webp "Red Snail card get!")
 
-![](d34r-ribbon-pig-cards-get.webp "")
+![Ribbon Pig cards get!](d34r-ribbon-pig-cards-get.webp "Ribbon Pig cards get!")
 
-![](d34r-pig-card-get.webp "")
+![Pig card get!](d34r-pig-card-get.webp "Pig card get!")
 
-![](d34r-octopus-card-get.webp "")
+![Octopus card get!](d34r-octopus-card-get.webp "Octopus card get!")
 
-![](d34r-jr.-necki-card-get.webp "")
+![Jr. Necki card get!](d34r-jr.-necki-card-get.webp "Jr. Necki card get!")
 
 </details>
 
-![](d34r-t1-get.webp "")
+And with that, [the T1 ring](https://maplelegends.com/lib/equip?id=01119003)!:
 
-![](d34r-farming-2300-dolls.webp "")
+![d34r gets that T1 ring!](d34r-t1-get.webp "d34r gets that T1 ring!")
 
-![](kc-swamp-hut.webp "")
+I actually went and did the 2,300 [dolls](https://maplelegends.com/lib/etc?id=4000031) questline, [Rowen the Fairy and the Cursed Dolls](https://bbb.hidden-street.net/quest/victoria-island/rowen-the-fairy-and-the-cursed-dolls). For this, my farming location of choice was [Monkey Swamp III](https://maplelegends.com/lib/map?id=107000403):
 
-![](dolls-completed.webp "")
+![d34r farming 2,300 dolls](d34r-farming-2300-dolls.webp "d34r farming 2,300 dolls")
 
-![](d34r-5k-hp.webp "")
+Throughout my [zlupin](https://maplelegends.com/lib/monster?id=4230101) grind, I came across [a map](https://maplelegends.com/lib/map?id=107000301) that I wasn’t even aware existed:
 
-![](d34r-trying-fog.webp "")
+![Kerning City swamp hut](kc-swamp-hut.webp "Kerning City swamp hut")
 
-![](faust-is-kill.webp "")
+Very mysterious. It appears that this map was never made use of in pre-BB MapleStory, although later versions [included](https://maplestory.fandom.com/wiki/Quests/30/Examine_the_Hut_in_the_Swamp) some [quests](https://global.hidden-street.net/quest/victoria-island/find-the-crumpled-piece-of-paper-again) involving [JM From tha Streetz](https://maplelegends.com/lib/npc?id=1052002) and the [Knocked Trash Can](https://maplelegends.com/lib/npc?id=1052108) inside of this map.
 
-![](reef.webp "")
+Eventually, after countless zlupins slain, I finished the infamous questline!!:
 
-![](oh-pet-quest.webp "")
+![2,300 dolls completed!](dolls-completed.webp "2,300 dolls completed!")
 
-![](cleaning-the-swamp.webp "")
+Oh, and I hit 5k HP w/ [HB](https://maplelegends.com/lib/skill?id=1301007) too :))
 
-![](d34r-lorang-card-get.webp "")
+![d34r hits 5k HP](d34r-5k-hp.webp "d34r hits 5k HP")
 
-![](duo-fog-with-thinks.webp "")
+Now that I was getting into the 5X levels, it was time to try out [FoG (or, if you prefer, “TfoG”…)](https://maplelegends.com/lib/map?id=105040306):
 
-![](riel.webp "")
+![d34r tries out FoG for the first time](d34r-trying-fog.webp "d34r tries out FoG for the first time")
+
+Wowee. Some extremely impressive solo EPH… but at what cost? The answer is: absolutely way too many Unagis. The main issue here is that, at this point, my [PDD](https://forum.maplelegends.com/index.php?threads/nises-formula-compilation.36234/) has outpaced my ability to gear up. Even with the +60 WDEF buff from [Iron Body](https://maplelegends.com/lib/skill?id=1001003), warrior PDD scales so swiftly with level, that I cannot hope to keep up at this point. So I take a lot more damage from monsters in general (even lower-level ones), now that I am getting higher in level.
+
+I did the [Faust](https://maplelegends.com/lib/monster?id=5220002) questline:
+
+![Faust is kill](faust-is-kill.webp "Faust is kill")
+
+Which, like the other area boss questlines, gives some quite good rewards!
+
+The gist of the questline is that, in his younger days, [Grendel](https://maplelegends.com/lib/npc?id=1032001) was more greedy and reckless with his learning and usage of magic. So reckless in fact, that he created a mysterious dark evil in the southern forests of Ellinia which was responsible for magically corrupting the mind of his disciple, [Reef](https://maplelegends.com/lib/npc?id=1032108). Reef was known by Grendel to be a sweet fellow, but with the corrupting influence of Grendel’s magic-gone-wrong, Reef became obsessed with [Arwen](https://maplelegends.com/lib/npc?id=1032100), and grew jealous and vengeful when Arwen didn’t reciprocate his obsession. Arwen is where the questline begins, and she attributes Reef’s rash and awful behaviour to him being a mortal (unlike Arwen, who is a fairy). Later, Grendel admits his wrongdoing and assures us that Reef had always been a perfectly good and upstanding person before the magic got to him. Somewhere in there, [big monke](https://en.wikipedia.org/wiki/Faust) gets involved, with the straw puppet controlling our big monke guy being in need of defeating. With big monke and its puppeteer defeated, Reef’s spirit is finally freed forever.
+
+![Reef](reef.webp "Reef")
+
+(The quest shown in the screenshot above, which is catalogued separately from the rest of the questline in the Quest Journal, is entirely wordless, and simply awards the fame seen above.)
+
+I also finally got the NX I needed for a pet with some autoloot. I had never noticed it before, but there is a smol level 10 Victoria Island quest that only shows up in your Quest Journal if you possess a pet:
+
+![Oh… pet quest](oh-pet-quest.webp "Oh… pet quest")
+
+I went and did [The Alligators at the Swamp](https://bbb.hidden-street.net/quest/victoria-island/the-alligators-at-the-swamp) questline:
+
+![Cleaning the swamp](cleaning-the-swamp.webp "Cleaning the swamp")
+
+And with that, I went to Florina Beach ([Clang and Lorang](https://maplelegends.com/lib/map?id=110030001) in particular) to farm [Clangs](https://maplelegends.com/lib/monster?id=4230104) for that sweet, sweet [Yellow Umbrella](https://maplelegends.com/lib/equip?id=1302016). The Yellow Umbrella is perhaps the main item that I really need to rehabilitate d33r… with 52 MATK on average, and no stat requirements to wear it, it is the best possible weapon for d33r, besides the level 54 Heart [Wand](https://maplelegends.com/lib/equip?id=01372033)/[Staff](https://maplelegends.com/lib/equip?id=01372031).
+
+![Lorang card get!](d34r-lorang-card-get.webp "Lorang card get!")
+
+After many (many) Clangs killed, I was able to finally find one of these precious items (after, of course, finding just about every other equipment item available in Florina Beach, including the [Colorful Tube](https://maplelegends.com/lib/equip?id=01322026))!! Somewhat underwhelmingly, it is 3 MATK below average (49 MATK), but hey, that’s a whole lot better than nothing!!
+
+I was able to do some duo FoG with **Thinks** (**OmokTeacher**, **Slime**, **Slimu**), to excellent results:
+
+![Duo FoG w/ Thinks](duo-fog-with-thinks.webp "Duo FoG w/ Thinks")
+
+Aaaand I did [the](https://bbb.hidden-street.net/quest/victoria-island/defeat-king-clang) King [Clang](https://bbb.hidden-street.net/sub_quest/victoria-island/a-brave-warrior-to-defeat-king-clang-appears) questline, as well! The end of the questline has you begrudgingly roleplaying through a heroic [damsel in distress](https://en.wikipedia.org/wiki/Damsel_in_distress) sequence fabricated by [Riel](https://maplelegends.com/lib/npc?id=1081100):
+
+![Riel](riel.webp "Riel")
+
+Glad to be of service, I guess…
 
 ## The adventures of d33r
 
-![](d33r-solos-stumpy-again.webp "")
+![d33r solos Stumpy again](d33r-solos-stumpy-again.webp "d33r solos Stumpy again")
 
-![](d33r-vs-coconuts.webp "")
+![d33r vs. Coconuts](d33r-vs-coconuts.webp "d33r vs. Coconuts")
 
-![](vom-town.webp "")
+![vom town](vom-town.webp "vom town")
 
-![](d33r-and-xxcrookxx-vs-ligators.webp "")
+![d33r & xXCrookXx vs. Ligators](d33r-and-xxcrookxx-vs-ligators.webp "d33r & xXCrookXx vs. Ligators")
 
 ## Doing NLC quests w/ Boymoder
 
