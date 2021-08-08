@@ -212,46 +212,90 @@ Glad to be of service, I guess…
 
 ## The adventures of d33r
 
+In other vicloc news, more woe befalls my vicloc [clericlet](https://oddjobs.codeberg.page/odd-jobs.html#magelet) **d33r**. Although I did, thankfully, get a (rather a bit under average) Yellow Umbrella, I had less luck with scrolls. As readers of this diary will know, I miraculously passed an [OA INT 10%](https://maplelegends.com/lib/use?id=2040514) on the first slot of d33r’s [Sauna Robe](https://maplelegends.com/lib/equip?id=01051017). My plan was to [60%](https://maplelegends.com/lib/use?id=2040513) the rest of the way. The only source of OA INT 60% in vicloc is [King Clang](https://maplelegends.com/lib/monster?id=5220000), so many King Clangs I have killed. Many King Clangs. Like, a lot. So many, in fact, that I managed to farm up not one, but two OA INT 60%s (along with a whole lot of other stuff, and a few dozen [cards](https://maplelegends.com/lib/use?id=2388003)). And **Daggington** (**Clinks**, **cobbages**, **snoot**) very kindly donated another OA INT 60% to me! So with these three 60%s in hand, I proceeded to fail every single one of them on my precious robe.
+
+In other news, while questing, I incidentally ran across a [Stumpy](https://maplelegends.com/lib/monster?id=3220000), and got a second solo Stumpy kill under d33r’s belt:
+
 ![d33r solos Stumpy again](d33r-solos-stumpy-again.webp "d33r solos Stumpy again")
+
+Although still a tough fight, d33r has still improved considerably since the last one, so it was a good bit easier this time. Speaking of questing, I did the main Florina Beach questline with the help of d34r:
 
 ![d33r vs. Coconuts](d33r-vs-coconuts.webp "d33r vs. Coconuts")
 
+This questline requires a grand total of not one, not two, but 65 [Coconut](https://maplelegends.com/lib/etc?id=4000136)s! That’s a lot of tree-whacking.
+
+Later, I took a trip to vom town with **xXCrookXx** (**Level1Crook**, **Lv1Crook**):
+
 ![vom town](vom-town.webp "vom town")
+
+…Who helped me with the [Icarus and the Balloon](https://bbb.hidden-street.net/quest/victoria-island/icarus-and-the-balloon) quest!:
 
 ![d33r & xXCrookXx vs. Ligators](d33r-and-xxcrookxx-vs-ligators.webp "d33r & xXCrookXx vs. Ligators")
 
+And all hope is not lost; I managed to pass 3/5 [Ear INT 60%](https://maplelegends.com/lib/use?id=2040301)s on my [Leaf Earrings](https://maplelegends.com/lib/equip?id=01032025), and I scraped up a 4th OA INT 60%, which I actually passed!
+
+Hopefully we will see d33r confidently wielding a Yellow Umbrella in the future~
+
 ## Doing NLC quests w/ Boymoder
+
+[STRmit](https://oddjobs.codeberg.page/odd-jobs.html#lukless-assassin) **Boymoder** was looking to do the [Urban Warrior](https://bbb.hidden-street.net/quest/masteria/urban-warrior) questline, which involves completing a number of quests & questlines around NLC, in exchange for the final reward of a [Warrior Throne](https://maplelegends.com/lib/setup?id=3010012). I decided to join her on my I/L [magelet](https://oddjobs.codeberg.page/odd-jobs.html#magelet) **cervine**, who had not done any of the quests in the questline except for [the quiz](https://bbb.hidden-street.net/quest/masteria/welcome-to-new-leaf-city-quiz) (which is trivial anyways) and [Cleaning Up the Streets](https://bbb.hidden-street.net/quest/masteria/cleaning-up-the-streets) (which is actually, believe it or not, repeatable, although the repeat reward is pitiful).
 
 <details>
 <summary>NLC quests wif BOIMOUDO</summary>
 
-![](cervine-and-boymoder-vs-boomers.webp "")
+We started off with [Featherweights](https://bbb.hidden-street.net/quest/masteria/featherweights), an otherwise useless quest that rewards almost nothing for the effort put in. This meant slaying some [Boomer](https://maplelegends.com/lib/monster?id=9400547)s:
 
-![](boymoder-and-cervine-vs-gryphons.webp "")
+![cervine & Boymoder vs. Boomers](cervine-and-boymoder-vs-boomers.webp "cervine & Boymoder vs. Boomers")
 
-![](cervine-and-boymoder-vs-i.am.robots.webp "")
+And also slaying some [Gryphon](https://maplelegends.com/lib/monster?id=9400544)s (also necessary for Cleaning Up the Streets):
 
-![](cervine-barnard-gray-card-get.webp "")
+![Boymoder & cervine vs. Gryphons](boymoder-and-cervine-vs-gryphons.webp "Boymoder & cervine vs. Gryphons")
 
-![](cervine-and-boymoder-vs-tocks.webp "")
+The final segment of the [Subani’s Legacy](https://bbb.hidden-street.net/quest/masteria/subanis-legacy) questline requires farming for some pesky [MesoGear Map Piece](https://maplelegends.com/lib/etc?id=4031681)s from [I.AM.ROBOT](https://maplelegends.com/lib/monster?id=9400546)s:
 
-![](cervine-tock-card-get.webp "")
+![cervine & Boymoder vs. I.AM.ROBOTs](cervine-and-boymoder-vs-i.am.robots.webp "cervine & Boymoder vs. I.AM.ROBOTs")
+
+And, perhaps most annoyingly, [Maple Balrog](https://maplelegends.com/lib/npc?id=9201055)’s quests require going to Ludus Lake and back each time. While in Omega Sector farming [Barnard Gray](https://maplelegends.com/lib/monster?id=4230116)s for [Lost!](https://bbb.hidden-street.net/quest/masteria/lost), we found a card or two:
+
+![Barnard Gray card get!](cervine-barnard-gray-card-get.webp "Barnard Gray card get!")
+
+And for [ReVersal](https://bbb.hidden-street.net/quest/masteria/reversal), we headed to the Ludibrium Clocktower for some [Tick-Tock](https://maplelegends.com/lib/monster?id=4230113)s:
+
+![cervine & Boymoder vs. Tick-Tocks](cervine-and-boymoder-vs-tocks.webp "cervine & Boymoder vs. Tick-Tocks")
+
+![Tick-Tock card get!](cervine-tock-card-get.webp "Tick-Tock card get!")
 
 </details>
 
-![](warrior-thrones-acquired.webp "")
+And with that, we could sit back & relax on our rather impressive-looking and rather blue thrones!:
+
+![Warrior Thrones acquired!](warrior-thrones-acquired.webp "Warrior Thrones acquired!")
 
 ## pan oiler
 
-![](pano-vs-papa-pixel.webp "")
+It is now time for our regularly scheduled [OPQ](https://maplelegends.com/lib/map?id=200080101) time with my [permarogue](https://oddjobs.codeberg.page/odd-jobs.html#permarogue), **panolia**:
 
-![](pano-70.webp "")
+![panolia vs. Papa Pixel](pano-vs-papa-pixel.webp "panolia vs. Papa Pixel")
 
-![](panolia-is-dead.webp "")
+With a number of honestly rather subpar (not gonna name any names…) OPQs under my belt, I ascended to the rank of 1st job, pt. iii!:
 
-![](pano-71.webp "")
+![panolia hits level 70~!](pano-70.webp "panolia hits level 70~!")
 
-![](pano-and-furbs-vs-papa-pixel.webp "")
+Unfortunately, OPQing straight from level 51 to level 70 was only enough to get me 3/5 [Papa Pixel](https://maplelegends.com/lib/monster?id=9300039) cards, so I had to kermit sewer slide:
+
+![panolia is dead](panolia-is-dead.webp "panolia is dead")
+
+Thankfully, I was able to buy two cards off of other players (for 1M mesos each) to finish my set after only one death, so graduate OPQ I did:
+
+![panolia hits level 71~!](pano-71.webp "panolia hits level 71~!")
+
+Over the course of panolia’s OPQ career, I managed to rack up enough [feathers](https://maplelegends.com/lib/etc?id=4001158) to get myself 4 [wristband](https://maplelegends.com/lib/equip?id=01082232)s! In order to do better than my 12 WATK [mittens](https://maplelegends.com/lib/equip?id=01082228), I would need to (assuming I don’t want to pay considerably more money) pass [GFA60](https://maplelegends.com/lib/use?id=2040804)s on all 5 slots. Now, the probability of actually succeeding (assuming that I don’t resort to [GFA70](https://maplelegends.com/lib/use?id=2040810)s, which are _much_ more expensive) is 0.6⁵ ≈ 7.78%. But, considering that I had 4 tries, the odds of getting at least one success wasn’t altogether awful (although still strictly less than 50%). The probability of failing a given wristband is 1 − 0.6⁵ ≈ 92.22%; so the probability of failing all 4 is 92.22%⁴ ≈ 72.34%; so the probability of succeeding at least one is 1 − 72.34% ≈ 27.66%. Not terrible, but not good enough for me to succeed any of them this time. R.I.P.
+
+And I got to do my final OPQs with [STRginner](https://oddjobs.codeberg.page/odd-jobs.html#str-beginner) **Furbs**!:
+
+![panolia & Furbs vs. Papa Pixel](pano-and-furbs-vs-papa-pixel.webp "panolia & Furbs vs. Papa Pixel")
+
+And now, panolia is off to [MPQ](https://maplelegends.com/lib/map?id=261000021)~ Actually, that means that a certain someone is finally freed from MPQ…
 
 ## alces is free at last~
 
