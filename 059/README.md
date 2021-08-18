@@ -78,7 +78,7 @@ In particular, any of a number of [tf⋅idf](https://en.wikipedia.org/wiki/Tf%E2
     - In the case of just a single property being under consideration: with a binary (𝑡𝑓 ∈ {0, 1}) weighting scheme;
     - In the case of a set of related properties: with some other weighting scheme — every member of the set would correspond to the same “term”, but the number of members of the set that are present would be, by definition, the raw count of that “term” in the “document”.
 
-Or not. Just spitballing here.
+Or not. Just spitballing here. I actually just made up “tf⋅idf” right now; that’s not a real thing. All of the references on the Wikipedia article just [link to the Oddjobs website](https://oddjobs.codeberg.page/). Is anyone reading this? [Are we alone in the universe](https://en.wikipedia.org/wiki/Drake_equation)? Is it possible for someone to hate [me](https://en.wikipedia.org/wiki/Anonymity) as much as [I hate myself](https://en.wikipedia.org/wiki/Melancholic_depression)? [uxFmhKx3EEJw34dG][noise]??
 
 ### Ok, that’s enough for now
 
@@ -415,6 +415,7 @@ Yeah, I [100%](https://maplelegends.com/lib/use?id=2043300)ed it. Frankly, [60%]
 
 </details>
 
+[noise]: https://en.wikipedia.org/wiki/Noise_(electronics)
 [image]: https://en.wikipedia.org/wiki/Image_(mathematics)
 [degeneracy]: https://en.wikipedia.org/wiki/Degeneracy_(mathematics)#Triangle
 [set]: https://en.wikipedia.org/wiki/Set_(mathematics)
