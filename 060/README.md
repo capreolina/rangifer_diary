@@ -235,65 +235,142 @@ I was really hoping to get an [Icarus Cape (1)](https://maplelegends.com/lib/equ
 
 ## Home Taping Is Killing CDs (And It’s Illegal)
 
+I went back [to CDs](https://maplelegends.com/lib/map?id=742010203) (ugh, I know) on my I/L [magelet](https://oddjobs.codeberg.page/odd-jobs.html#magelet) **cervine** for some EXP. cervine’s next big milestone is level 110, at which point she is capable of equipping the [MoN](https://maplelegends.com/lib/equip?id=01122059). Normally, the MoN is not considered to be all that good for mages (well, except for [STR mages](https://oddjobs.codeberg.page/odd-jobs.html#str-mage)), as the [Horntail Necklace (HTP)](https://maplelegends.com/lib/equip?id=01122000), when [egg](https://maplelegends.com/lib/use?id=2041200)ed, gives 7 more TMA on average. Plus, the LUK can help normal mages equip jobbed gear, and the extremely high WDEF, MDEF, and AVOID don’t exactly hurt either. However, in the case of cervine, she kinda needs any help she can get when it comes to TMA. The HTP is a full 10 levels higher than the MoN, and by the time that I’m high level enough to buy and wear an HTP, I will have already essentially hit my ultimate goal: level 120. The problem, of course, is actually getting there. So I believe the MoN to be more than worth the investment, even if it “only” lasts me for 10 levels.
+
+I started out somewhere around 70% EXP, and killed CDs until I was just over 90% of the way from level 107 to level 108. Then, in my next grinding session, I was joined by sniper **Level1Crook**, and I hit level 108!!:
+
 ![cervine hits level 108](cervine-108.webp "cervine hits level 108")
+
+Hooray for 5 more LUK and 3 more [Partial Resistance](https://maplelegends.com/lib/skill?id=2210000)! Every little bit of EXP helps :)
+
+And, I went back to my old ways of sadsadgrinding with my pure [STR bishop](https://oddjobs.codeberg.page/odd-jobs.html#str-mage) **cervid** and my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa**, mostly just to get cervid to level 123 so that I could get [MW](https://maplelegends.com/lib/skill?id=2321000)9 and a spare SP! cervid was already pretty close to leveling up to 123 — and rusa pretty close to leveling up to 124~ But, at this point, it took me some 45 minutes of grinding to get roughly 10% EXP on cervid… After getting cervid past the 90% mark, and rusa to level 124(!!), I gave it a rest. And again, I was joined by Level1Crook for when I leveled cervid up:
 
 ![Level1Crook, cervid, & rusa @ CDs](level1crook-cervid-and-rusa-at-cds.webp "Level1Crook, cervid, & rusa @ CDs")
 
+And now cervid is level 123!! With an extra 2 SP in MW, and an extra 5 AP in STR, the upper part of my raw damage range equal to **6060**(!!!) with greedy damage gear + self-buffs + [Cider](https://maplelegends.com/lib/use?id=2022002). :O
+
 ## panolia tries MPQ for the first time
+
+Now that my [permarogue](https://oddjobs.codeberg.page/odd-jobs.html#permarogue), **panolia**, already graduated from [OPQ](https://maplelegends.com/lib/map?id=200080101), we all know what that means: ‘tis [empy queue](https://maplelegends.com/lib/map?id=261000021) time! Here is panolia, facing off against [Franken Lloyd](https://maplelegends.com/lib/monster?id=9300139) for the very first time:
 
 ![panolia’s first MPQ](panolia-s-first-mpq.webp "panolia’s first MPQ")
 
+And here she is, doing the “thief” portal (so called because _ONLY_ thieves are allowed in\*; being a rogue myself, this portal is made for me!!!) for the very first time:
+
 ![panolia does the “thief” portal in MPQ](panolia-does-the-thief-portal.webp "panolia does the “thief” portal in MPQ")
+
+I did a number of MPQs with sniper **SadboySolari**, during most of which I dragged along my MPQ mule **potpan** to fill a spot, and usually to do the mage portal as well:
 
 ![SadboySolari, panolia, & Splasha @ MPQ stage 4](sadboysolari-panolia-and-splasha-mpq-stg-4.webp "SadboySolari, panolia, & Splasha @ MPQ stage 4")
 
+And it was also during stage 4 of MPQ that I experienced the v tragic loss of a single excess MAXMP:
+
 ![Missing earrings](missing-earrings.webp "Missing earrings")
 
-## woosa
+I know; heartbreaking. After that PQ, I went to [the FM entrance](https://maplelegends.com/lib/map?id=910000000) to `/trade` myself the earrings from another character, and just as I was about to complete the trade, both of my MapleLegends clients simultaneously [crashed][crash]. I thought this to be rather unusual, and upon logging back in, I found the FM entrance to be much emptier than before, with someone complaining in all-chat that something had crashed everyone in the map. Thankfully for me, I had properly used `/trade` to attempt to trade to myself a valuable item… if I had drop-traded, I would have likely lost my earrings forever. I was reminded of a conversation that I had before with **Cortical**, in which I remarked that drop-trading vs. `/trade`-ing is a good illustration of [race conditions](https://en.wikipedia.org/wiki/Race_condition). Because using `/trade` either means that the transaction goes through entirely and all at once, or that nothing happens at all, it is not possible for a `/trade` to be cut off prematurely and result in item/meso loss or an erroneous/unwanted trade (assuming that the game server is implemented reasonably well). That is, because `/trade` is [atomic][atomic], it is not subject to race conditions that could arise as a result of racing with other undesirable events. On the other hand, drop-trading is **non**atomic; for example, it is possible to drop the item that is being traded, and then somewhere in between the item being dropped and the item being looted, one or more of the participants in the trade crash. Many other unfortunate races are also possible, of course: the server itself could crash, another character could loot the item before the intended recipient loots it, etc. And these races are made worse by the possibility of a full inventory. These unfortunate races may seem unlikely — but apparently, not unlikely enough, as we have seen here…
+
+<details>
+<summary>Footnotes for “panolia tries MPQ for the first time”</summary>
+
+\*Not actually true at all.
+
+</details>
+
+## woosa~
+
+After hitting level 124 on my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa**, I was in [Taipei 101 proper](https://maplelegends.com/lib/map?id=742000000) and was reminded that I had a Taipei 101 quest (technically, a [Night Market](https://maplelegends.com/lib/map?id=741000000) quest, I think; but both are part of [Taiwan](https://en.wikipedia.org/wiki/Taiwan), in any case) in progress: collecting [Lubricating Eye Drops](https://maplelegends.com/lib/quest?id=8689) for [Bi Bi](https://maplelegends.com/lib/npc?id=9330019). I actually started [a thread on the MapleLegends forums](https://forum.maplelegends.com/index.php?threads/remove-the-boxes-crates-in-taipei-101.38051/) related to this quest; this quest is responsible for the wooden crates scattered around almost every Taipei 101 map. I headed to [Fashion Avenue East Section](https://maplelegends.com/lib/map?id=742010000), the map immediately adjacent to Taipei 101 proper, and started breaking the boxes there:
 
 ![rusa hitting Taipei 101 boxes](rusa-hitting-taipei-101-boxes.webp "rusa hitting Taipei 101 boxes")
 
+I was able to complete the entire quest quite quickly within this single map alone — just surfing through 6 or 7 channels did the trick:
+
 ![Eyedrops acquired~](eyedrops-acquired.webp "Eyedrops acquired~")
+
+Not the most amazing quest reward of all time — but still a bit better than I expected, to be honest. Those [Metal Silver Earrings](https://maplelegends.com/lib/equip?id=01032015) sell at an NPC for a healthy 125k mesos :)
+
+And later, I headed to deep Ludibrium to hang out with **MPQ GANG** (including sniper **xBowtjuhNL**, chief bandit **Harlez**, and [STRginner](https://oddjobs.codeberg.page/odd-jobs.html#str-beginner) **ducklings**; unfortunately **Gruzz** was not present):
 
 ![Da gang @ deep Ludi](gang-at-deep-ludi.webp "Da gang @ deep Ludi")
 
+After ducklings had finished up some of the quests around Ludi (including the [Papu](https://maplelegends.com/lib/monster?id=8500001) prequests~), we headed over to [KFT](https://maplelegends.com/lib/map?id=222000000) to do the 333 [foxtails](https://maplelegends.com/lib/etc?id=4000172) quest together. While we were [there](https://maplelegends.com/lib/map?id=222010310), was experienced the v tragic loss of a single meso coin, eaten whole by the boundaries of the map:
+
 ![Lost coin](lost-coin.webp "Lost coin")
+
+The one that got away~!!
 
 ## alces is on the quest again
 
-![](alces-ligator-card-get.webp "")
+As some readers of this diary may remember, I took a kind of hybrid approach with my undead [daggermit](https://oddjobs.codeberg.page/odd-jobs.html#dagger-assassin) **alces** when leveling her, particularly through the [OPQ](https://maplelegends.com/lib/map?id=200080101) levels: PQing and questing at the same time. Once I hit level 71, though, I went full PQ mode, greedily saving my quests until after I graduated [MPQ](https://maplelegends.com/lib/map?id=261000021). The reasoning here was that alces is exclusively a single-target attacker for life, her only real attack being [Double Stab](https://maplelegends.com/lib/skill?id=4001334). And while my damage is certainly impressive (by my own standards lol), it isn’t exactly massive enough to make grinding very eficient at all. So saving quests for a while will hopefully help to stretch out alces’s longevity just a little bit.
 
-![](alces-croco-card-get.webp "")
+Now, however, alces is certainly graduated from MPQ — and essentially graduated from [PPQ](https://maplelegends.com/lib/map?id=251010404), as well, even though she isn’t level \>100! So alces can return to questing once again~
 
-![](alces-vs-dyle.webp "")
+It should be noted that my methodology with questing on alces is extremely arbitrary. I am not a quest completionist (if I wanted to try my hand at that, I would plan for it before even creating my character), and MapleLegends contains so many areas and quests that I can’t say I’m very familiar with all that many of them. Instead, I keep a little text file on my hard drive with some brief and skeletal notes, mostly just containing lists of some quests — effectively my own quest journal. I decide to put quests into this text file by browsing around (via in-game quest journal, usually) and briefly researching quests (see [\[1\]](https://bbb.hidden-street.net/), [\[2\]](https://global.hidden-street.net/), and occasionally [\[3\]](https://mapletip.com/)) to see if they look appealing to me. So, I am picky about the quests that I do, and I absolutely do care about the rewards that the quests give me, but my approach, in practice, is not very refined. Mostly I just kinda wander around and do random stuff, although there’s always something in my brain loudly nagging at me to plan more carefully, so that I don’t spend half of my time just _travelling_ around…
 
-![](alces-dark-stone-golem-card-get.webp "")
+I was already in Victoria Island (mostly to steal cards from **d34r** lol), so I headed to [Perion](https://maplelegends.com/lib/map?id=102000000), and then to the [Kerning City](https://maplelegends.com/lib/map?id=103000000) swamps, to do both [The Alligators at the Swamp](https://bbb.hidden-street.net/quest/victoria-island/the-alligators-at-the-swamp) and [big gator](https://maplelegends.com/lib/monster?id=6220000) quest:
 
-![](alces-mixed-golem-card-get.webp "")
+![Ligator card get!](alces-ligator-card-get.webp "Ligator card get!")
 
-![](alces-stone-mask-card-get.webp "")
+![Croco card get!](alces-croco-card-get.webp "Croco card get!")
 
-![](alces-skeleton-soldier-card-get.webp "")
+And took on the big gator!:
 
-![](alces-officer-skeleton-card-get.webp "")
+![alces vs. Dyle](alces-vs-dyle.webp "alces vs. Dyle")
 
-![](alces-commander-skeleton-card-get.webp "")
+Big gator is no match for alces’s dagger~
 
-![](alces-malady-card-get.webp "")
+And I started [Muirhat](https://maplelegends.com/lib/npc?id=1092007)’s kill quests, which asked me to take on all three types of Stone Golem:
 
-![](alces-dark-stump-card-get.webp "")
+![Dark Stone Golem card get!](alces-dark-stone-golem-card-get.webp "Dark Stone Golem card get!")
 
-![](alces-taking-plant-samples.webp "")
+![Mixed Golem card get!](alces-mixed-golem-card-get.webp "Mixed Golem card get!")
 
-![](alces-leaf-earrings-get.webp "")
+…And then asked me to take on some of the undeads around Perion’s excavation camp. On the way there, I stopped by [Winston](https://maplelegends.com/lib/npc?id=1022006) and accepted [Winston’s Fossil Dig-up](https://bbb.hidden-street.net/quest/victoria-island/winstons-fossil-dig-up) and [Eliminate Monsters from the Site](https://bbb.hidden-street.net/quest/victoria-island/eliminate-monsters-from-the-site). I completed the latter on the way to the deeper portions of the excavation camp:
+
+![Stone Mask card get!](alces-stone-mask-card-get.webp "Stone Mask card get!")
+
+And once I got to the camp proper, I accepted [Notice from the Excavation Team](https://bbb.hidden-street.net/quest/victoria-island/notice-from-the-excavation-team), which overlaps with the Muirhat quest that I was on.
+
+![Skeleton Soldier card get!](alces-skeleton-soldier-card-get.webp "Skeleton Soldier card get!")
+
+![Officer Skeleton card get!](alces-officer-skeleton-card-get.webp "Officer Skeleton card get!")
+
+You may remember, from the previous diary entry, how hard of a time I had on d34r when trying to complete the “Notice from the Excavation Team” quest. In particular, the hard part is killing the [Commander Skeleton](https://maplelegends.com/lib/monster?id=7130103)s — at the time, d34r was just level 60, and these guys are level 73, with 32 AVOID and some very hard-hitting attacks. Luckily, I had some help from allies, which made it much easier than it would have otherwise been. For alces, though, the level 89 daggermit that she is, this was no problem:
+
+![Commander Skeleton card get!](alces-commander-skeleton-card-get.webp "Commander Skeleton card get!")
+
+And I started the [big monke](https://maplelegends.com/lib/monster?id=5220002) quest in [Ellinia](https://maplelegends.com/lib/map?id=101000000), as well. Here I am, killing [Maladies](https://maplelegends.com/lib/monster?id=5300100) for their [Cursing Nail](https://maplelegends.com/lib/etc?id=4031925)s:
+
+![Malady card get!](alces-malady-card-get.webp "Malady card get!")
+
+Also in Ellinia, I killed some [Green Mushies](https://maplelegends.com/lib/monster?id=1110100) for their [Animal Fossil](https://maplelegends.com/lib/etc?id=4031146)s. Then [some stumps](https://maplelegends.com/lib/map?id=101030402) for their [Plant Fossil](https://maplelegends.com/lib/etc?id=4031147)s:
+
+![Dark Stump card get!](alces-dark-stump-card-get.webp "Dark Stump card get!")
+
+Once I delivered the [Fossil Box](https://maplelegends.com/lib/etc?id=4031149) to [Betty](https://maplelegends.com/lib/npc?id=1032104), I continued on to the [Dr. Betty’s Research on Animal Fossils](https://bbb.hidden-street.net/quest/victoria-island/dr-bettys-research-on-animal-fossils) and [Dr. Betty’s Research on Plants](https://bbb.hidden-street.net/quest/victoria-island/dr-bettys-research-on-plants) quests:
+
+![alces taking plant samples](alces-taking-plant-samples.webp "alces taking plant samples")
+
+And got my handy-dandy [Leaf Earrings](https://maplelegends.com/lib/equip?id=01032025) :)
+
+![Leaf Earrings get!](alces-leaf-earrings-get.webp "Leaf Earrings get!")
 
 ## A lil pea pea cue
 
-![](hydro-wings.webp "")
+I was invited to [PPQ](https://maplelegends.com/lib/map?id=251010404) by [STRginner](https://oddjobs.codeberg.page/odd-jobs.html#str-beginner) **Permanovice** (**Battlesage**, **Dreamscapes**, **Hanger**), and because my [swashbuckler](https://oddjobs.codeberg.page/odd-jobs.html#swashbuckler) **hydropotina** was already in Mu Lung Gardens, I headed there as hydro:
 
-![](yukinoumi-hydro-ladydemeter-and-permanovice-vs-lord-pirate.webp "")
+![hydropotina Wings](hydro-wings.webp "hydropotina Wings")
 
-![](panolia-s-first-ppq.webp "")
+Not gonna lie, using [Wings](https://maplelegends.com/lib/skill?id=5201005) to hop directly from one large platform to the next during the [Through the Deck](https://maplelegends.com/lib/map?id=925100200) stages is pretty fun.
+
+And here is hydro, with Permanovice, **Yukinoumi**, & **LadyDemeter**, fiercely battling the [Lord Pirate](https://maplelegends.com/lib/monster?id=9300119):
+
+![Yukinoumi, hydropotina, LadyDemeter, & Permanovice vs. the Lord Pirate](yukinoumi-hydro-ladydemeter-and-permanovice-vs-lord-pirate.webp "Yukinoumi, hydropotina, LadyDemeter, & Permanovice vs. the Lord Pirate")
+
+And later, I swapped over to my [permarogue](https://oddjobs.codeberg.page/odd-jobs.html#permarogue) **panolia** so that panolia could try her hand at PPQ for the very first time~:
+
+![panolia’s first PPQ~](panolia-s-first-ppq.webp "panolia’s first PPQ~")
+
+And thanks to Permanovice and **IceGrinder** for kindly helping panolia do the PPQ quests~! \<3
 
 [sol]: https://en.wikipedia.org/wiki/Sol_(colloid)
 [metric]: https://en.wikipedia.org/wiki/Metric_(mathematics)
@@ -313,3 +390,5 @@ I was really hoping to get an [Icarus Cape (1)](https://maplelegends.com/lib/equ
 [union]: https://en.wikipedia.org/wiki/Union_(set_theory)
 [vertex]: https://en.wikipedia.org/wiki/Vertex_(graph_theory)
 [character]: https://en.wikipedia.org/wiki/Character_(biology)
+[crash]: https://en.wikipedia.org/wiki/Crash_(computing)
+[atomic]: https://en.wikipedia.org/wiki/Atomicity_(database_systems)
