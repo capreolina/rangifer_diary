@@ -1,4 +1,4 @@
-# rangifer’s diary: pt. lx
+# rangifer’s diary: pt. lxi
 
 ## Taxonomising odd jobs, pt. iii: Exploring the space of possible taxonomies. §3
 
@@ -128,6 +128,9 @@ Cool!! All of our (extremely plentiful) level 70+ assassins will be fighting ove
 
 Speaking of vicloc assassins, vicloc assassin **LoveIslander** (**NZIslander**, **NZPally**) offered to help out with outland bossing, for anyone who was interested — one of his other characters, NZPally, is a level 16X paladin! I mentioned that I’ve been interested in running the lower-level of the level ≥120-oriented bosses (i.e. [Ravana](https://maplelegends.com/lib/monster?id=9420014) & [Papulatus](https://maplelegends.com/lib/monster?id=8500001)), as I have some low-level 4th-jobbers of my own: my pure [STR bishop](https://oddjobs.codeberg.page/odd-jobs.html#str-mage) **cervid**, my [woodsmaster](https://oddjobs.codeberg.page/odd-jobs.html#woodsman) **capreolina**, & my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa**! For better or worse, out of those three of my characters, capre probably has the hardest time here — her low MAXHP, and low defences in general, make her an easy target for, say, Ravana to send her immediately to her grave. But NZPally said that he was perfectly capable of disabling Ravana by pinning it to the left side of the map, so I made sure I had my [Safety Charm](https://maplelegends.com/lib/cash?id=5130000)s ready, and we gave it a whirl!:
 
+<details>
+<summary>Rav/Papu w/ NZPally</summary>
+
 ![NZPally & capre vs. Ravana](nzpally-and-capre-vs-rav.webp "NZPally & capre vs. Ravana")
 
 Sweet!! I made it through both runs, as NZPally did a great job of pinning Ravana. My [SE](https://maplelegends.com/lib/skill?id=3121002) caused it to look like (at least, to third-person observers) NZPally was critting on every single hit. In actuality, this is just a visual bug; my SE only grants a 3% crit rate.
@@ -147,6 +150,8 @@ And I went back to Thailand to do the Ravana repeatable quest (the one that give
 ![Have you dealt with those monkeys yet?](have-you-dealt-with-those-monkeys-yet.webp "Have you dealt with those monkeys yet?")
 
 I’ll take it!!
+
+</details>
 
 ## d34r, questing
 
@@ -239,7 +244,12 @@ I went back [to CDs](https://maplelegends.com/lib/map?id=742010203) (ugh, I know
 
 I started out somewhere around 70% EXP, and killed CDs until I was just over 90% of the way from level 107 to level 108. Then, in my next grinding session, I was joined by sniper **Level1Crook**, and I hit level 108!!:
 
+<details>
+<summary>cervine hits level 108</summary>
+
 ![cervine hits level 108](cervine-108.webp "cervine hits level 108")
+
+</details>
 
 Hooray for 5 more LUK and 3 more [Partial Resistance](https://maplelegends.com/lib/skill?id=2210000)! Every little bit of EXP helps :)
 
@@ -253,6 +263,9 @@ And now cervid is level 123!! With an extra 2 SP in MW, and an extra 5 AP in STR
 
 Now that my [permarogue](https://oddjobs.codeberg.page/odd-jobs.html#permarogue), **panolia**, already graduated from [OPQ](https://maplelegends.com/lib/map?id=200080101), we all know what that means: ‘tis [empy queue](https://maplelegends.com/lib/map?id=261000021) time! Here is panolia, facing off against [Franken Lloyd](https://maplelegends.com/lib/monster?id=9300139) for the very first time:
 
+<details>
+<summary>Some MPQ for panolia~</summary>
+
 ![panolia’s first MPQ](panolia-s-first-mpq.webp "panolia’s first MPQ")
 
 And here she is, doing the “thief” portal (so called because _ONLY_ thieves are allowed in\*; being a rogue myself, this portal is made for me!!!) for the very first time:
@@ -262,6 +275,8 @@ And here she is, doing the “thief” portal (so called because _ONLY_ thieves 
 I did a number of MPQs with sniper **SadboySolari**, during most of which I dragged along my MPQ mule **potpan** to fill a spot, and usually to do the mage portal as well:
 
 ![SadboySolari, panolia, & Splasha @ MPQ stage 4](sadboysolari-panolia-and-splasha-mpq-stg-4.webp "SadboySolari, panolia, & Splasha @ MPQ stage 4")
+
+</details>
 
 And it was also during stage 4 of MPQ that I experienced the v tragic loss of a single excess MAXMP:
 
@@ -279,6 +294,9 @@ I know; heartbreaking. After that PQ, I went to [the FM entrance](https://maplel
 ## woosa~
 
 After hitting level 124 on my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa**, I was in [Taipei 101 proper](https://maplelegends.com/lib/map?id=742000000) and was reminded that I had a Taipei 101 quest (technically, a [Night Market](https://maplelegends.com/lib/map?id=741000000) quest, I think; but both are part of [Taiwan](https://en.wikipedia.org/wiki/Taiwan), in any case) in progress: collecting [Lubricating Eye Drops](https://maplelegends.com/lib/quest?id=8689) for [Bi Bi](https://maplelegends.com/lib/npc?id=9330019). I actually started [a thread on the MapleLegends forums](https://forum.maplelegends.com/index.php?threads/remove-the-boxes-crates-in-taipei-101.38051/) related to this quest; this quest is responsible for the wooden crates scattered around almost every Taipei 101 map. I headed to [Fashion Avenue East Section](https://maplelegends.com/lib/map?id=742010000), the map immediately adjacent to Taipei 101 proper, and started breaking the boxes there:
+
+<details>
+<summary>Questing wif woosa~</summary>
 
 ![rusa hitting Taipei 101 boxes](rusa-hitting-taipei-101-boxes.webp "rusa hitting Taipei 101 boxes")
 
@@ -298,6 +316,8 @@ After ducklings had finished up some of the quests around Ludi (including the [P
 
 The one that got away~!!
 
+</details>
+
 ## alces is on the quest again
 
 As some readers of this diary may remember, I took a kind of hybrid approach with my undead [daggermit](https://oddjobs.codeberg.page/odd-jobs.html#dagger-assassin) **alces** when leveling her, particularly through the [OPQ](https://maplelegends.com/lib/map?id=200080101) levels: PQing and questing at the same time. Once I hit level 71, though, I went full PQ mode, greedily saving my quests until after I graduated [MPQ](https://maplelegends.com/lib/map?id=261000021). The reasoning here was that alces is exclusively a single-target attacker for life, her only real attack being [Double Stab](https://maplelegends.com/lib/skill?id=4001334). And while my damage is certainly impressive (by my own standards lol), it isn’t exactly massive enough to make grinding very eficient at all. So saving quests for a while will hopefully help to stretch out alces’s longevity just a little bit.
@@ -307,6 +327,9 @@ Now, however, alces is certainly graduated from MPQ — and essentially graduate
 It should be noted that my methodology with questing on alces is extremely arbitrary. I am not a quest completionist (if I wanted to try my hand at that, I would plan for it before even creating my character), and MapleLegends contains so many areas and quests that I can’t say I’m very familiar with all that many of them. Instead, I keep a little text file on my hard drive with some brief and skeletal notes, mostly just containing lists of some quests — effectively my own quest journal. I decide to put quests into this text file by browsing around (via in-game quest journal, usually) and briefly researching quests (see [\[1\]](https://bbb.hidden-street.net/), [\[2\]](https://global.hidden-street.net/), and occasionally [\[3\]](https://mapletip.com/)) to see if they look appealing to me. So, I am picky about the quests that I do, and I absolutely do care about the rewards that the quests give me, but my approach, in practice, is not very refined. Mostly I just kinda wander around and do random stuff, although there’s always something in my brain loudly nagging at me to plan more carefully, so that I don’t spend half of my time just _travelling_ around…
 
 I was already in Victoria Island (mostly to steal cards from **d34r** lol), so I headed to [Perion](https://maplelegends.com/lib/map?id=102000000), and then to the [Kerning City](https://maplelegends.com/lib/map?id=103000000) swamps, to do both [The Alligators at the Swamp](https://bbb.hidden-street.net/quest/victoria-island/the-alligators-at-the-swamp) and [big gator](https://maplelegends.com/lib/monster?id=6220000) quest:
+
+<details>
+<summary>Questing @ Vic</summary>
 
 ![Ligator card get!](alces-ligator-card-get.webp "Ligator card get!")
 
@@ -353,6 +376,8 @@ Once I delivered the [Fossil Box](https://maplelegends.com/lib/etc?id=4031149) t
 And got my handy-dandy [Leaf Earrings](https://maplelegends.com/lib/equip?id=01032025) :)
 
 ![Leaf Earrings get!](alces-leaf-earrings-get.webp "Leaf Earrings get!")
+
+</details>
 
 ## A lil pea pea cue
 
