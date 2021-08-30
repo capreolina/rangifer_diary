@@ -310,7 +310,7 @@ And later, I headed to deep Ludibrium to hang out with **MPQ GANG** (including s
 
 ![Da gang @ deep Ludi](gang-at-deep-ludi.webp "Da gang @ deep Ludi")
 
-After ducklings had finished up some of the quests around Ludi (including the [Papu](https://maplelegends.com/lib/monster?id=8500001) prequests~), we headed over to [KFT](https://maplelegends.com/lib/map?id=222000000) to do the 333 [foxtails](https://maplelegends.com/lib/etc?id=4000172) quest together. While we were [there](https://maplelegends.com/lib/map?id=222010310), was experienced the v tragic loss of a single meso coin, eaten whole by the boundaries of the map:
+After ducklings had finished up some of the quests around Ludi (including the [Papu](https://maplelegends.com/lib/monster?id=8500001) prequests~), we headed over to [KFT](https://maplelegends.com/lib/map?id=222000000) to do the 333 [foxtails](https://maplelegends.com/lib/etc?id=4000172) quest together. While we were [there](https://maplelegends.com/lib/map?id=222010310), we experienced the v tragic loss of a single meso coin, eaten whole by the boundaries of the map:
 
 ![Lost coin](lost-coin.webp "Lost coin")
 
