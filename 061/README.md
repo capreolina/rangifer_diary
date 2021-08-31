@@ -272,13 +272,13 @@ After even _more_ [FoG](https://maplelegends.com/lib/map?id=105040306) grinding 
 
 ![d34r hits level 70](d34r-70.webp "d34r hits level 70")
 
-Yayyy!!! First vicloc level 70! o_o;
+Yayyy!!! First vicloc level 70! o\_o;
 
 I kept grinding with Update for a while afterwards, and also tried my hand at scrolling my only level 70 equip so far — a clean [Silver Ancient Shield](https://maplelegends.com/lib/equip?id=01092016) with very high stats — with my only [shield STR](https://maplelegends.com/lib/use?id=2040931) scroll so far…
 
 ![Boomed Silver Ancient Shield](boomed-silver-ancient-shield.webp "Boomed Silver Ancient Shield")
 
-[u_u](https://en.wikipedia.org/wiki/Disappointment)
+[u\_u](https://en.wikipedia.org/wiki/Disappointment)
 
 [metric]: https://en.wikipedia.org/wiki/Metric_(mathematics)
 [well-behaved]: https://en.wikipedia.org/wiki/Pathological_(mathematics)#Well-behaved
