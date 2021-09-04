@@ -1,0 +1,48 @@
+[package]
+name = "rangifer_diary_062"
+version = "0.0.0"
+authors = ["deer <capreolina@protonmail.com>"]
+edition = "2018"
+description = "Additional material for rangifer’s diary: pt. lxiii"
+homepage = "https://codeberg.org/deer/rangifer_diary"
+repository = "https://codeberg.org/deer/rangifer_diary"
+license = "MIT OR Apache-2.0"
+keywords = ["fubini", "ordered-bell", "bigint", "maplestory", "rangifer"]
+categories = ["algorithms"]
+publish = false
+
+[dependencies]
+rayon = "1.5.1"
+
+[dependencies.rug]
+version = "1.13.0"
+default-features = false
+features = ["integer"]
+
+[dev-dependencies]
+criterion = { version = "0.3.5", features = ["html_reports"] }
+
+[[bench]]
+name = "fubini_benchmark"
+harness = false
+
+[profile.release]
+opt-level = 3
+debug = false
+rpath = false
+lto = "fat"
+debug-assertions = false
+codegen-units = 1
+panic = "abort"
+incremental = false
+overflow-checks = false
+
+[profile.bench]
+opt-level = 3
+debug = false
+rpath = false
+lto = "fat"
+debug-assertions = false
+codegen-units = 1
+incremental = false
+overflow-checks = false

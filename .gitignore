@@ -1,3 +1,6 @@
 .vscode/
 scrap/
 *.swp
+
+# Rust stuff
+Cargo.lock
