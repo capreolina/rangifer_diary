@@ -5,6 +5,42 @@ import sys
 import timeit
 
 
+# def choose(n, k):
+#     """
+#     Polyfill because PyPy is on Python 3.7, whereas ``math.comb`` is only
+#     available in Python 3.8+.
+#
+#     Based on
+#     <https://github.com/python/cpython/blob/4a42cebf6dd769e2fa4e234a9e91093b3ad1cb63/Modules/mathmodule.c#L3350>
+#     """
+#
+#     if not isinstance(n, int):
+#         raise TypeError("n must be an integer")
+#     if not isinstance(k, int):
+#         raise TypeError("k must be an integer")
+#     if n < 0:
+#         raise ValueError("n must be a non-negative integer")
+#     if k < 0:
+#         raise ValueError("k must be a non-negative integer")
+#     if n < k:
+#         return 0
+#
+#     k = min(k, n - k)
+#
+#     if k == 0:
+#         return 1
+#     if k == 1:
+#         return n
+#
+#     res = n
+#     for i in range(1, k):
+#         n -= 1
+#         res *= n
+#         res //= i + 1
+#
+#     return res
+
+
 def fubini(n):
     """
     ``fubini(n)`` is the ``n``th Fubini number (a.k.a. the ``n``th ordered Bell
