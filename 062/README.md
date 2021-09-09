@@ -298,6 +298,9 @@ Three fine-looking [gish weapon](https://maplelegends.com/lib/equip?id=01332053)
 
 I did some more questing in Victoria Island with my undead [daggermit](https://oddjobs.codeberg.page/odd-jobs.html#dagger-assassin) **alces**! I went to wrap up the [Icarus](https://maplelegends.com/lib/npc?id=1052106) questline, so I had to get some [Alligator Skin Pouch](https://maplelegends.com/lib/etc?id=4031164)es:
 
+<details>
+<summary>Moar Vic Island questing wif alces~</summary>
+
 ![Ligator card get!](alces-ligator-card-get-1.webp "Ligator card get!")
 
 …And [Tablecloth](https://maplelegends.com/lib/etc?id=4000035)s:
@@ -332,6 +335,8 @@ And then, I started Muirhat’s last quest, along with concurrently starting the
 
 And, as usual, my suspicion that [Taurospears](https://maplelegends.com/lib/monster?id=7130101) have a much higher card drop rate than Tauromacis is confirmed again and again… I’ll have to finish up this quest later, it’s a real doozy.
 
+</details>
+
 ## Permanovice’s level 100 party~
 
 I was honoured to attend the level 100 party of [STRginner](https://oddjobs.codeberg.page/odd-jobs.html#str-beginner) **Permanovice**! The first part of the party was to engage in ritualistic snail murder, which Permanovice assured us was a very sacred permabeginner ritual that he needed to undergo in order to achieve level 100 beginner. As it happened, by the time that the party’s scheduled date rolled around, the summer event had started. So the bonus event EXP made it so that the sequence [Snail](https://maplelegends.com/lib/monster?id=0100100) → [Blue Snail](https://maplelegends.com/lib/monster?id=0100101) → [Red Snail](https://maplelegends.com/lib/monster?id=0130101) → [Mano](https://maplelegends.com/lib/monster?id=2220000) would level Permanovice prematurely, before getting to the Mano. Oh well, the party was still on and starting in [Lith Harbour](https://maplelegends.com/lib/map?id=104000000):
@@ -361,6 +366,9 @@ Believe it or not, I’ve never actually checked out the ol’ [ToT](https://map
 ![wot da](wot-da.webp "wot da")
 
 Wowie. Besides being cute, turning into a dragon means that no ship, or anything like that, is required to fly through the skies — you have your own wings now. While this is generally fun and all, the _real_ purpose is to fly high above the clouds, where among the heavens you can find the apparently [Ancient-Greek](https://en.wikipedia.org/wiki/Ancient_Greek_architecture)-inspired architecture (think Orbis\*, but everything looks bigger and more expensive) of the Temple of Time.
+
+<details>
+<summary>@ ToT</summary>
 
 ![Posing @ ToT](posing-at-tot.webp "Posing @ ToT")
 
@@ -392,6 +400,8 @@ The EXP so far has been fairly decent, which is great for cervid. I suspect that
 
 Now, on to complete the [pointy armour](https://maplelegends.com/lib/monster?id=8200004) quest…
 
+</details>
+
 <details>
 <summary>Footnotes for “Visiting the Temple of Time for the first… time”</summary>
 
@@ -416,6 +426,9 @@ And this was about as far as we went, usually. The first time, we tried killing 
 ## Vic island questing w/ d34r
 
 I wrapped up what are essentially my last few (sadly) quests on my vicloc [dagger spearwoman](https://oddjobs.codeberg.page/odd-jobs.html#dagger-warrior) **d34r**. The first order of business was two of the same quests mentioned earlier in this entry: [Muirhat](https://maplelegends.com/lib/npc?id=1092007)’s final quest, and [A Spell That Seals Up a Critical Danger](https://bbb.hidden-street.net/quest/victoria-island/a-spell-that-seals-up-a-critical-danger).
+
+<details>
+<summary>Vic island questing w/ d34r</summary>
 
 ![d34r vs. Tauros](d34r-vs-tauros.webp "d34r vs. Tauros")
 
@@ -478,6 +491,8 @@ And this one, although it may require a whopping 20 Pig’s Heads, does pay pret
 
 50 MAXHP and 12 WDEF! An excellent secondary helmet for the squishier among us~
 
+</details>
+
 ## d34r & xXCrookXx leave Victoria Island in search of better PQs
 
 Now, being a Victoria Islander is great and all, but there’s just one issue: the PQs. I’m too high level for [KPQ](https://maplelegends.com/lib/map?id=103000800), I’m not a huge fan of [HPQ](https://maplelegends.com/lib/map?id=100000200) (not that the EXP would be very rewarding at level 73), [APQ](https://maplelegends.com/lib/map?id=670010000) sounds great but has some nasty time limits that prevent me from entering my normal state of existence (24/7 PQing), and [SPQ](https://maplelegends.com/lib/map?id=990000000) just ain’t never gonna happen, let’s be real. So it seems that there is only one solution: escaping the island we know as Victoria.
@@ -505,6 +520,9 @@ Oh, and also, we went to Mu Lung Gardens to participate in [MLGPQ (Mu Lung Garde
 ## d34r is stronk!!!
 
 d34r has been using a 6 WATK, 4 STR [Dark Knuckle](https://maplelegends.com/lib/equip?id=01082025) as her main (read: greedy damage) glove for a while now. As I’ve started to accumulate [GFA60](https://maplelegends.com/lib/use?id=2040804)s, I’ve considered scrolling another glove to try to beat that. I struggled for a while, trying to decide on how greedy I should be: be extra greedy and scroll a nice warrior glove that has lots of STR/DEX/WACC/WDEF on it, or be less greedy and scroll a Work Glove of some kind, so that I can give it to a fellow viclocker in need of WATK gloves when I likely fail to make a very good glove? In the end, I decided to be a little less greedy and use some of my scrolls on an [RWG](https://maplelegends.com/lib/equip?id=01082146):
+
+<details>
+<summary>Items!!!</summary>
 
 ![d34r’s RWG](d34r-rwg.webp "d34r’s RWG")
 
@@ -538,11 +556,16 @@ And I got to test out this sleek little dagger when GM buffs were announced, and
 
 Oh my. GM buffs are wild…
 
+</details>
+
 ## Getting that T2 before the big day
 
 There are a total of 69 card sets natively available to viclockers, which means that [the tier 2 Monster Book Ring](https://maplelegends.com/lib/equip?id=01119004) is the highest tier that can be achieved. So, it was time for d34r to get to that 60th set and finish off her card-hunting career for good!
 
 The first order of business was actually just to finish off that red tab — I had 5/5 on all of those monsters, except for [Bubbling](https://maplelegends.com/lib/monster?id=1210103)s, of which I had no cards at all:
+
+<details>
+<summary>d34r, card-hunting</summary>
 
 ![Bubbling card get!](d34r-bubbling-card-get.webp "Bubbling card get!")
 
@@ -581,6 +604,8 @@ And now, with 59 full sets done, it was time to get that 60th set. For this, I h
 ![Lorang card get!](d34r-lorang-card-get-1.webp "Lorang card get!")
 
 [Lorang](https://maplelegends.com/lib/monster?id=3230102)s are kinda funny-looking. They have a single big claw. Although the six appendages of the Lorang are not necessarily accurate to [real-life crabs (_Brachyura_)](https://en.wikipedia.org/wiki/Crab), which generally have ten appendages, there is a very real family of crabs whose members possess a single oversized claw: [fiddler crabs (_Ocypodidae_)](https://en.wikipedia.org/wiki/Fiddler_crab). Only the males have the strangely large claw, and the crabs themselves are somewhat small (5 cm across at most).
+
+</details>
 
 After a while, I got the Lorangs to cough up the last two cards that I needed to finish their set. And there it was: 60 finished sets overall.
 
@@ -632,6 +657,9 @@ As the planned time for our wedding approached, xXCrookXx was at the [Sanctuary 
 
 We were able to make it to the cathedral just about on time — at least, certainly before anyone else got there. And luckily for us, many people were able to attend: viclockers **Thinks** (**OmokTeacher**, **Slime**, **Slimu**), **LoveIslander** (**NZPally**, **NZIslander**), **SeaThief**, and **xXcorticalXx**/**SussyBaka** (**Phoneme**, **Cortical**, **moonchild47**), as well as **Permanovice** and **kookiechan**, who brought with them a whole host of other lovely people, including (but not limited to) **Buqaneer** (**IceGrinder**), **kleene**, and **Bretticuss** (**xBrett**).
 
+<details>
+<summary>Mawwiage~</summary>
+
 ![Outside the cathedral](outside-the-cathedral.webp "Outside the cathedral")
 
 Unfortunately for us, however, xXCrookXx and I were both total wedding newbs. Because xXCrookXx had already purchased [the wedding ticket](https://maplelegends.com/lib/cash?id=5251003) from the Cash Shop, and we had already made the engagement ring and gotten engaged, I thought that all we had to do was go inside. As it turns out, this is not sufficient.
@@ -665,6 +693,8 @@ Later, xXCrookXx and I went to [TfoG](https://maplelegends.com/lib/map?id=105040
 ![The power of marriage](the-power-of-marriage.webp "The power of marriage")
 
 Holy moly!!! It looks like this helmet is never leaving my head; it doesn’t get much better than that. :D
+
+</details>
 
 Looking forward to some APQ in the future, hehe~
 
