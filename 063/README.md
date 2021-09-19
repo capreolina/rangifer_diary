@@ -63,7 +63,7 @@ I’ve now done some nine APQs or so, over the course of which I’ve racked up 
 <details>
 <summary>Footnotes for “Ape-y queue”</summary>
 
-\*This value is actually just Dim(ℋ) − _d_(**g**, **s**), where ℋ is our [Hamming space](https://en.wikipedia.org/wiki/Hamming_space), Dim(ℋ) is the number of [dimension](https://en.wikipedia.org/wiki/Dimension)s of ℋ, _d_ is the [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) that makes (ℋ, _d_) a [metric space][metric], **g** ∈ ℋ is the guess that we made, and **s** ∈ ℋ is the correct string (**s** is selected [randomly](https://en.wikipedia.org/wiki/Discrete_uniform_distribution) by the game, and originally a complete mystery to the players). In our case, ℋ is defined over [GF(2)][gf2], because each platform either has a player on it, or doesn’t (either 1 or 0). And the length of the [words][word] in ℋ is Dim(ℋ) = 9 for stage 3 of APQ and stage 8 of LPQ. In the case of the Sealed Room and stage 2 of APQ, ℋ is no longer a [vector space](https://en.wikipedia.org/wiki/Vector_space) (lol), because the [alphabet][alphabet] is {0, 1, 2, 3, 4, 5}, which has a [cardinality](https://en.wikipedia.org/wiki/Cardinality) of 6 (not a [prime power](https://en.wikipedia.org/wiki/Prime_power), womp womp…). And in this latter case, Dim(ℋ) = 3.
+\*This value is actually just Dim(ℋ) − _d_(**g**, **s**), where ℋ is our [Hamming space](https://en.wikipedia.org/wiki/Hamming_space), Dim(ℋ) is the number of [dimension](https://en.wikipedia.org/wiki/Dimension)s of ℋ, _d_ is the [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) that makes (ℋ, _d_) a [metric space][metric], **g** ∈ ℋ is the guess that we made, and **s** ∈ ℋ is the correct string (**s** is selected [randomly](https://en.wikipedia.org/wiki/Discrete_uniform_distribution) by the game, and originally a complete mystery to the players). For stage 3 of APQ and stage 8 of LPQ, ℋ is defined over [GF(2)][gf2], because each platform either has a player on it, or doesn’t (either 1 or 0). And the length of the [words][word] in ℋ is Dim(ℋ) = 9 for stage 3 of APQ and stage 8 of LPQ. In the case of the Sealed Room and stage 2 of APQ, ℋ is no longer a [vector space](https://en.wikipedia.org/wiki/Vector_space) (lol), because the [alphabet][alphabet] is {0, 1, 2, 3, 4, 5}, which has a [cardinality](https://en.wikipedia.org/wiki/Cardinality) of 6 (not a [prime power](https://en.wikipedia.org/wiki/Prime_power), womp womp…). And in this latter case, Dim(ℋ) = 3.
 
 </details>
 
@@ -420,100 +420,171 @@ More questing to come~
 
 ## All-odd beepy cue
 
+I was going to BPQ with [STRginner](https://oddjobs.codeberg.page/odd-jobs.html#str-beginner) **Cortical** (**xXcorticalXx**, **SussyBaka**, **CokeZeroPill**, **moonchild47**), who asked STRginner **Permanovice** (**Battlesage**, **Dreamscapes**) about forming a party. We gathered together in the [Exclusive Training Center](https://maplelegends.com/lib/map?id=970030000) and tried to get together a team of all odd characters to do a BPQ. Well, as it turned out, it was more like an all-STRginner BPQ… except that I don’t have a STRginner on this server (no, [**cervid**](https://oddjobs.codeberg.page/odd-jobs.html#str-mage) does not count, and she’s too high of a level anyways), and my [LUKginner](https://oddjobs.codeberg.page/odd-jobs.html#besinner) **hashishi** is smol baby who is not high level enough. So, in the end, we were able to pull together **Gumby**, **Cowbelle** (**Tabs**), and **OmokTeacher** (**Thinks**, **Slime**, **Slimu**) to form a full party of five STRginners… plus my one [daggermit](https://oddjobs.codeberg.page/odd-jobs.html#dagger-assassin) **alces**.
+
 ![All-odd BPQ](all-odd-bpq.webp "All-odd BPQ")
+
+On our first run, fighting [crog](https://maplelegends.com/lib/monster?id=8150000) actually went better than we expected — out of the six of us, zero of us were capable of taking even a single magical attack from crog (who has a whopping 720 MATK, meaning that a typical magical hit on a fully-armoured character of this level will be around the 4k(!) damage mark), and yet somehow only one of us died! R.I.P. Permanovice ;~;
 
 ![R.I.P. Permanovice](rip-permanovice.webp "R.I.P. Permanovice")
 
+As we still had five extant party members, we continued on… only to come up against a beast even more foul: [Manon](https://maplelegends.com/lib/monster?id=8180000). We all fairly quickly fell to Manon’s attacks ­— well, at least most of us. Gumby, being the absolute tank of a STRginner that he is, survived a good bit longer than the rest of us, so we all took part in cheering him on from our graves:
+
 ![Jon soloing Manon](jon-soloing-manon.webp "Jon soloing Manon")
+
+Alas, Gumby eventually went down as well… not that there was enough time on the clock for him to finish soloing the beast, anyways.
+
+Our second run was less successful, albeit still worth the same number of points; we were not so lucky with crog the second time around! But it was lots of fun!!
 
 ## Diversifying the sadsadgrind
 
+I did a bit of sadsadgrinding. Readers of this diary will know that “sadsadgrinding” refers to achieving an additional level of sadness on top of the usual sadgrinding — the “sad” in “sadgrinding” refers to me grinding _all by myself_ (usually, but not always, [at CDs](https://maplelegends.com/lib/map?id=742010203)). Sadsadgrinding takes this one step further, as instead of grinding all _by_ myself, I am grinding _with_ only myself; my pure [STR bishop](https://oddjobs.codeberg.page/odd-jobs.html#str-mage) **cervid** and my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa** make a formidable duo by combining their powers of [Heal](https://maplelegends.com/lib/skill?id=2301002)ing and of [rawr](https://maplelegends.com/lib/skill?id=1311006)ing, respectively.
+
+As I said, ordinarily much of my outlander grinding takes place at CDs. And, in particular, my sadsadgrinding sessions have always been there. But ordinarily, for most folks on MapleLegends, it becomes more profitable EXP-wise (not so much mesos-wise, but that’s okay) to move away from CDs as one’s level approaches the 120 mark. Triple-digit-level characters can often grind elsewhere (again, assuming for simplicity that we only care about EPH), such as [Gallos](https://maplelegends.com/lib/map?id=551030100), [Petris](https://maplelegends.com/lib/map?id=541020500) (Petrifighters are particularly tough, but worthwhile for some classes at level ≥110 AFAIK), [Dreamy Ghosts (sometimes known as “Himes”)](https://maplelegends.com/lib/map?id=800020130), etc. This latter location, in particular (viz. Encounter with the Buddha), is a popular grinding spot for warriors of all classes (yes, _probably_ even [permawarriors](https://oddjobs.codeberg.page/odd-jobs.html#permawarrior), if any got to level ≥100…), often paired with a priest (or in my case, bishop) partner. So it would seem to be a perfect fit for cervid+rusa, who have been stuck at CDs this whole time. So I tested it.
+
+Keeping in mind that CDs are pretty obviously superior in terms of MPH (mesos per hour), _and_ keeping in mind that [Dreamy Ghost](https://maplelegends.com/lib/monster?id=9400013)s have the distinct advantage of dropping [card](https://maplelegends.com/lib/use?id=2386018)s, I did some `@epm 4` tests (on rusa specifically; cervid’s `@epm` measurements would be smaller) at both CDs and Dreamy Ghosts, in an attempt to compare them EPH-wise.
+
 At CDs:
 
-- 9926280
-- 10822140
-- 11172420
+- 9 926 280
+- 10 822 140
+- 11 172 420
+
+…[Average](https://en.wikipedia.org/wiki/Arithmetic_mean) EPH: **10 640 280**
 
 At Dreamy Ghosts:
 
-- 8830080
-- 8951040
-- 9878400
-- 8830080
+- 8 830 080
+- 8 951 040
+- 9 878 400
+- 8 830 080
+
+…Average EPH: **9 122 400**
+
+That’s roughly a **1.5M EPH disparity** in favour of CDs. Unfortunately, this means that CDs are considerably superior both MPH-wise _and_ EPH-wise. And, to be honest, I kind of expected this result. Ordinary priest+warrior combos at Dreamy Ghosts benefit from Dreamy Ghosts being undead, meaning that they take damage from the Heals provided by the priest. This is not the case at all for me; cervid is both INTless and LUKless, so there is absolutely no way that she could muster the MACC required to have a nonzero probability of hitting the Dreamy Ghosts with magical attacks (e.g. Heal), and even if a gamemaster alighted from the skies and blessed me with a +900 MACC buff (not actually possible), cervid’s Heals would do pretty poor damage anyways.
+
+Furthermore (and perhaps more importantly), moving to Dreamy Ghosts faces the same problem that nearly any odd-jobbed (or, more generally, disproportionately weak) character faces when trying to move away from training spots like those at Taipei 101 (CDs in particular, but also [Kid Mannequins](https://maplelegends.com/lib/map?id=742010100), [Fancy Amps](https://maplelegends.com/lib/map?id=742010201), etc.). It took me a while to realise this (and it was a bit of a sad realisation, considering that it makes most of my characters damned to eternal brightly-coloured Taiwanese shopping mall hell), but some characters just never (or, almost never) have enough killing power to make more powerful grinding spots (read: usually similar or worse EXP/HP ratio, but overall more powerful, enemies) actually worth it. If we naïvely model grinding so that all enemies have [arbitrarily large](https://en.wikipedia.org/wiki/Arbitrarily_large) HP values, but leave their EXP/HP ratios intact, it seems like any MapleStory character ideally grinds at whatever location has monsters with the largest EXP/HP ratio. Obviously, this is not actually the case; it becomes clear at some point when a character outgrows a grinding spot, and more powerful monsters are more appealing (even if EXP/HP ratios are a bit scattered throughout this process).
+
+A less naïve model looks at, for each grinding spot, the maximum possible EPH that can theoretically be attained. This is done by imagining that every monster is instantly slain as soon as it spawns. Obviously, this is purely theoretical; even a very powerful [fourth job mage](https://maplelegends.com/lib/skill?id=2221007) realistically can’t even get that close to this level of efficiency, in most maps. For characters who can easily one-shot the monsters on the map, their ability to get as close as they can to this theoretical limit is limited by the _dispersion_ of their damage. A character can only make their damage so diffuse; the most powerful mobbing attacks in the game hit a maximum of 15 monsters at once, and all attacks have a finite reach (even so-called “full-map attacks”). Furthermore, the mobility of the character factors into how much they can disperse their damage. And in cases where one-shotting all monsters _cannot_ be taken for granted, we have to take into account something like (basically) the [distribution](https://en.wikipedia.org/wiki/Probability_distribution) of how much time spent in sustained attacking it takes to slay a given monster, which is, furthermore, a function of various factors like e.g. the skills being used, the character’s stats, the monster’s MAXHP, MDEF, WDEF values, etc.
+
+Similarly, we can consider the maximum possible aggregate (read: summed across an arbitrarily large number of ideally-positioned monsters, each with infinite HP) DPH that can theoretically be attained by our model MapleStory character. The reason, then, why training spots are easily outgrown (at least, significantly more easily than we would expect from the naïve model mentioned earlier) is because of a few effects:
+
+- **The map is just theoretically better:** The theoretical EPH limit on a map naturally keeps actual EPH numbers well below it; if the new map has a considerably higher theoretical limit, this helps give it the edge in cases where the character is approaching the theoretical limit of the old map sufficiently closely. And again, in this context, “sufficiently closely” really isn’t that close to the actual theoretical limit; practical limits are lower (and “softer” in the sense that you can theoretically break them), and perhaps more importantly, the efficiency with which the character’s aggregate DPH is utilised starts to decline as the character approaches even a soft practical limit. Time spent effectively waiting for monsters to respawn (this doesn’t necessarily take the form of not attacking at all — simply fighting a subpar number of monsters, because the character is waiting for more to spawn, still counts towards this) is time wasted (or partially wasted, as the case may be).
+- **Relative damage dispersion:** Certain maps can be more conducive to damage dispersion (to some extent, this can be dependent on the character’s build). And, furthermore, we don’t necessarily care about the absolute damage dispersion _per se_; we care more about the damage dispersion _relative_ to the actual locations of the monsters (i.e. the dispersion of the monsters) across the map. Some maps are just more compact, which tends to increase relative damage dispersion.
+- **Overkilling:** A monster that has _x_ HP remaining and gets hit for _y_ damage such that _y_ \> _x_ effectively “wastes” _y_ − _x_ damage (thus utilising the character’s aggregate DPH less efficiently). Overkilling to at least some degree is basically inevitable, but more egregious overkilling will result in more significant wasting of the aggregate DPH that could theoretically be output.
+- **Threshold effects:** A lot of factors go into the very general concept of what I’m calling “(theoretical) aggregate DPH” here. While obviously some of these are measures of the general ability of the character to output damage (their total stats e.g. STR, DEX, INT, LUK, WATK, MATK, etc., what skills they have, etc.), others are “threshold” effects in the sense that a given monster species imposes certain thresholds on those characters who would slay them. In particular, if the character is of a strictly lower level than the monster, then the character takes a penalty (in proportion to the difference between the monster’s level and theirs) to the damage that they deal. There is also a similar penalty for probability to hit, i.e. not “**MISS**” (with both physical and magical attacks). Another threshold is that of the monster’s WDEF/MDEF, which (in combination with the aforementioned effects) puts a threshold on how much raw damage (i.e. raw damage range) is necessary to deal \>1 damage per line. Aside from this hard limit (viz. dealing ≤1 damage per line), as the WDEF/MDEF gets larger (for a given raw damage range), it starts to more strongly dominate the raw damage range, and this causes aggregate DPH (theoretical or otherwise) to decrease [nonlinearly](https://en.wikipedia.org/wiki/Nonlinear_system). You can, alternatively, think of this as putting a damper (a nonlinear one, at that) on the efficiency with which the character’s _raw_ (i.e. considering only unbuffed level 1 monsters with 0 WDEF, 0 MDEF, etc.) theoretical aggregate DPH is utilised. Thinking of it in this latter way is more useful when considering a particular character (at a particular level), who is comparing two or more grinding maps against one other.
+
+When it comes to peepee poopoo odd-jobbed characters getting stuck at CDs (or Fancy Amps/Kid Mannes/whatever), the reality is simply that Taipei 101 monsters have extraordinarily high EXP/HP ratios. More powerful characters have issues with:
+
+- Other maps just being theoretically better, as explained in the first item of the list above. Taipei 101 monsters may have great EXP/HP ratios, but their absolute MAXHP values are just not very impressive. High spawn counts help Taipei 101 here (i.e. increases theoretical maximum EPH), but only go so far.
+- Overkilling, as explained in the third item of the list above. Again, Taipei 101 monsters just don’t have that much MAXHP.
+
+And yet, threshold effects are much less of an issue for more powerful characters. Taipei 101 monsters are (in this context) quite low level, so their levels are never an issue, and they tend to have pretty pitiful WDEF/MDEF as well. Moving away from Taipei 101, threshold effects become more difficult to efficiently overcome, which poses a serious issue for our peepee poopoo odd-jobbed characters, but not nearly as much for our more powerful characters. For a concrete comparison, let’s look at some of the monster species that I mentioned previously:
+
+| name                    | locale          | level | WDEF | MDEF |  MAXHP | EXP/kHP\* |
+| :---------------------- | :-------------- | ----: | ---: | ---: | -----: | --------: |
+| Greatest Oldies         | Taipei 101      |    76 |  400 |  450 |  8 500 |      94.1 |
+| Latest Hits Compilation | Taipei 101      |    72 |  300 |  350 |  7 900 |      88.6 |
+| Dreamy Ghost            | Mushroom Shrine |   100 |  810 |  580 | 68 000 |      47.1 |
+| Gallopera               | Kampung Village |    94 |  820 |  540 | 43 000 |      58.1 |
+| Petrifighter            | Singapore CBD   |   110 |  900 |  600 | 80 000 |      56.9 |
+
+As you can see, CDs just have pathetic WDEF values when compared to these other three species. They are also much lower level, have _much_ less MAXHP, and give _much_ more EXP per HP. If your per-target damage just isn’t that high, and you don’t have any [fancy tricks](https://maplelegends.com/lib/skill?id=2111003) to make up for it, the concerningly low MAXHP values of CDs are… not actually so concerning. On the other hand, the much lower EXP/HP ratios and much higher WDEF values of other species like Dreamy Ghosts, Galloperas, etc., are _quite_ concerning. In this case, overkilling the squishy Taipei 101 monsters is never really an issue, and furthermore, other maps might have higher _theoretical_ DPH limits, but when you aren’t even getting remotely close to the usual practical DPH limits, this becomes irrelevant. I’ve experimented with these other three species before, on multiple separate occasions (usually at the recommendation of another player), and I’ve yet to find a case where my EPH was not downgraded from what I would get at Taipei 101. This isn’t so much me complaining†, as it is just giving some theoretical basis (which I most definitely pulled directly out of my ass) for these seemingly strange (and possibly game-balance-breaking, depending on who you ask) effects, by which a character can get “stuck” at a grinding spot even when they seem to have other options ahead of them.
+
+<details>
+<summary>Footnotes for “Diversifying the sadsadgrind”</summary>
+
+\*I’m using base/raw EXP values here.
+
+†On the other hand, I could frame the Taipei 101 situation (focussing on myself here) positively: Taipei 101 gives my characters a place to stay, and allows them to make the most out of what they _can_ do. The kinds of EPH figures that I’m capable of clocking at Taipei 101 tend to be very impressive by odd job standards. Then again, I just wish that Taipei 101 wasn’t so hard to look at :')
+
+</details>
 
 ## capre LF\>cardz
 
-![](capre-crog-card-get.webp "")
+That’s right, folks. Moooooar card-hunting. My [woodsmaster](https://oddjobs.codeberg.page/odd-jobs.html#woodsman) **capreolina** is on the hunt again, in pursuit of… well, hopefully [T10](https://maplelegends.com/lib/equip?id=01119012) one day x)
 
-![](capre-freezer-card-get-1.webp "")
+<details>
+<summary>cards. cards. cards.</summary>
 
-![](capre-sparker-card-get-1.webp "")
+![Crimson Balrog card get!](capre-crog-card-get.webp "Crimson Balrog card get!")
 
-![](capre-vs-zeno.webp "")
+![Freezer card get!](capre-freezer-card-get-1.webp "Freezer card get!")
 
-![](capre-zeta-gray-card-get.webp "")
+![Sparker card get!](capre-sparker-card-get-1.webp "Sparker card get!")
 
-![](capre-ultra-gray-card-get.webp "")
+![capre vs. Zeno](capre-vs-zeno.webp "capre vs. Zeno")
 
-![](capre-chief-gray-card-get.webp "")
+![Zeta Gray card get!](capre-zeta-gray-card-get.webp "Zeta Gray card get!")
 
-![](capre-plateon-card-get.webp "")
+![Ultra Gray card get!](capre-ultra-gray-card-get.webp "Ultra Gray card get!")
 
-![](capre-icegrinder-permanovice-and-babtong-vs-franken-lloyd.webp "")
+![Chief Gray card get!](capre-chief-gray-card-get.webp "Chief Gray card get!")
 
-![](capre-mateon-card-get.webp "")
+![Plateon card get!](capre-plateon-card-get.webp "Plateon card get!")
 
-![](capre-mecateon-card-get.webp "")
+![capreolina, IceGrinder, Permanovice, & babtong vs. Franken Lloyd](capre-icegrinder-permanovice-and-babtong-vs-franken-lloyd.webp "capreolina, IceGrinder, Permanovice, & babtong vs. Franken Lloyd")
 
-![](capre-mt-09-card-get.webp "")
+![Mateon card get!](capre-mateon-card-get.webp "Mateon card get!")
 
-![](capre-white-fang-and-hector-cards-get.webp "")
+![Mecateon card get!](capre-mecateon-card-get.webp "Mecateon card get!")
 
-![](capre-riche-card-get-1.webp "")
+![MT-09 card get!](capre-mt-09-card-get.webp "MT-09 card get!")
 
-![](capre-coolie-zombie-card-get.webp "")
+![White Fang & Hector cards get!](capre-white-fang-and-hector-cards-get.webp "White Fang & Hector cards get!")
 
-![](capre-passes-se20.webp "")
+![Riche card get!](capre-riche-card-get-1.webp "Riche card get!")
 
-![](capre-snow-witch-card-get.webp "")
+![Coolie Zombie card get!](capre-coolie-zombie-card-get.webp "Coolie Zombie card get!")
 
-![](capre-firebomb-card-get.webp "")
+![capre passes SE20](capre-passes-se20.webp "capre passes SE20")
 
-![](capre-jr.-cerebes-card-get-1.webp "")
+![Snow Witch card get!](capre-snow-witch-card-get.webp "Snow Witch card get!")
 
-![](capre-cerebes-card-get.webp "")
+![Firebomb card get!](capre-firebomb-card-get.webp "Firebomb card get!")
 
-![](capre-jr.-yeti-card-get.webp "")
+![Jr. Cerebes card get!](capre-jr.-cerebes-card-get-1.webp "Jr. Cerebes card get!")
 
-![](capre-pepe-cards-get.webp "")
+![Cerebes card get!](capre-cerebes-card-get.webp "Cerebes card get!")
 
-![](capre-emo-slime-card-get.webp "")
+![Jr. Yeti card get!](capre-jr.-yeti-card-get.webp "Jr. Yeti card get!")
 
-![](capre-chlorotrap-card-get.webp "")
+![Pepe cards get!](capre-pepe-cards-get.webp "Pepe cards get!")
 
-![](capre-oly-oly-card-get.webp "")
+![Emo Slime card get!](capre-emo-slime-card-get.webp "Emo Slime card get!")
 
-![](capre-dark-fission-card-get.webp "")
+![Chlorotrap card get!](capre-chlorotrap-card-get.webp "Chlorotrap card get!")
 
-![](capre-t7.webp "")
+![Oly Oly card get!](capre-oly-oly-card-get.webp "Oly Oly card get!")
+
+![Dark Fission card get!](capre-dark-fission-card-get.webp "Dark Fission card get!")
+
+</details>
+
+![capreolina obtains T7~](capre-t7.webp "capreolina obtains T7~")
 
 ## panolia attempts moar MPQing
 
-![](mydna-panolia-milkfactory-and-considerada-vs-franken-lloyd.webp "")
+![MyDNA, panolia, MilkFactory, & Considerada vs. Franken Lloyd](mydna-panolia-milkfactory-and-considerada-vs-franken-lloyd.webp "MyDNA, panolia, MilkFactory, & Considerada vs. Franken Lloyd")
 
 ## Moar be peekyooz
 
-![](what-is-a-brigand.webp "")
+<details>
+<summary>morb eepy cues</summary>
 
-![](d34r-jr.-lucida-card-get.webp "")
+![what is a brigand](what-is-a-brigand.webp "what is a brigand")
 
-![](cervine-and-cortical-vs-lord-pirate.webp "")
+![Jr. Lucida card get!!](d34r-jr.-lucida-card-get.webp "Jr. Lucida card get!!")
 
-![](kill-the-big-gator.webp "")
+![cervine & Cortical vs. Lord Pirate](cervine-and-cortical-vs-lord-pirate.webp "cervine & Cortical vs. Lord Pirate")
 
-![](copo-2girlsonecup-xxcrookxx-keppet-and-d34r-vs-franken-lloyd.webp "")
+![kill the big gator](kill-the-big-gator.webp "kill the big gator")
 
-![](lord-pirate-flies-away.webp "")
+![Copo, 2GirlsOneCup, xXCrookXx, Keppet, & d34r vs. Franken Lloyd](copo-2girlsonecup-xxcrookxx-keppet-and-d34r-vs-franken-lloyd.webp "Copo, 2GirlsOneCup, xXCrookXx, Keppet, & d34r vs. Franken Lloyd")
+
+![Lord Pirate flies away](lord-pirate-flies-away.webp "Lord Pirate flies away")
+
+</details>
 
 [gf2]: https://en.wikipedia.org/wiki/GF(2)
 [word]: https://en.wikipedia.org/wiki/Word_(group_theory)
