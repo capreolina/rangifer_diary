@@ -507,13 +507,23 @@ That’s right, folks. Moooooar card-hunting. My [woodsmaster](https://oddjobs.c
 <details>
 <summary>cards. cards. cards.</summary>
 
+On my way to Aqua Road via [Orbis](https://maplelegends.com/lib/map?id=200000000), I took the ship from [Ellinia](https://maplelegends.com/lib/map?id=101000000) to Orbis. And it was there that I was bless’d with two [crog](https://maplelegends.com/lib/monster?id=8150000)s, which I defeated in exchange for a single lovely card~
+
 ![Crimson Balrog card get!](capre-crog-card-get.webp "Crimson Balrog card get!")
+
+I think I’m 2/5 on this set now. Or was it 3/5?
+
+In any case, at Aqua Road I finished up the rest of the upper Aqua Road sets, which in my case just meant finishing [Freezer](https://maplelegends.com/lib/monster?id=4230124) and [Sparker](https://maplelegends.com/lib/monster?id=4230123):
 
 ![Freezer card get!](capre-freezer-card-get-1.webp "Freezer card get!")
 
 ![Sparker card get!](capre-sparker-card-get-1.webp "Sparker card get!")
 
+I then headed to the [Omega Sector](https://maplelegends.com/lib/map?id=221000000), [via KFT](https://maplelegends.com/lib/use?id=2030011), and started the [Artificial Combatant Zeno](https://bbb.hidden-street.net/quest/ludus-lake/artificial-combatant-zeno) questline. By the time that I actually had to kill [Zeno](https://maplelegends.com/lib/monster?id=6220001), I was fortunate enough that there was already one there waiting for me!:
+
 ![capre vs. Zeno](capre-vs-zeno.webp "capre vs. Zeno")
+
+With that out of the way, I card-hunted the Kulan Field baddies: [Zeta Gray](https://maplelegends.com/lib/monster?id=4230117), [Ultra Gray](https://maplelegends.com/lib/monster?id=4230118), & [Chief Gray](https://maplelegends.com/lib/monster?id=4240000) (not [Barnard Gray](https://maplelegends.com/lib/monster?id=4230116), as I was already 5/5 on them):
 
 ![Zeta Gray card get!](capre-zeta-gray-card-get.webp "Zeta Gray card get!")
 
@@ -521,68 +531,134 @@ That’s right, folks. Moooooar card-hunting. My [woodsmaster](https://oddjobs.c
 
 ![Chief Gray card get!](capre-chief-gray-card-get.webp "Chief Gray card get!")
 
+I then switched over to the Boswell Field baddies, like [Plateon](https://maplelegends.com/lib/monster?id=4230120):
+
 ![Plateon card get!](capre-plateon-card-get.webp "Plateon card get!")
 
+And I took a little break to do some beepy queues with **IceGrinder** (**DarkCookie**, **Buqaneer**), **Permanovice** (**Battlesage**, **Dreamscapes**), and **babtong**:
+
 ![capreolina, IceGrinder, Permanovice, & babtong vs. Franken Lloyd](capre-icegrinder-permanovice-and-babtong-vs-franken-lloyd.webp "capreolina, IceGrinder, Permanovice, & babtong vs. Franken Lloyd")
+
+Then, back to Omega for [Mateon](https://maplelegends.com/lib/monster?id=4230119)s and [Mecateon](https://maplelegends.com/lib/monster?id=4230121)s:
 
 ![Mateon card get!](capre-mateon-card-get.webp "Mateon card get!")
 
 ![Mecateon card get!](capre-mecateon-card-get.webp "Mecateon card get!")
 
+I also did the [MT-09](https://maplelegends.com/lib/monster?id=5120100) card set. The first sweep that I did (all eight channels, for a total of 24 MT-09 kills) made it seem pretty easy: I already had 4/5 cards. Then I killed another 39 MT-09s… still 4/5. Ouf. Luckily, another MT-09 kill did the trick:
+
 ![MT-09 card get!](capre-mt-09-card-get.webp "MT-09 card get!")
+
+And with that, I was done with the Omega Sector. So, off to [El Nath](https://maplelegends.com/lib/map?id=211000000) I went, to pick off some of the easier El Nath card sets!
+
+I stumbled across some [White Fang](https://maplelegends.com/lib/monster?id=5140000) and [Hector](https://maplelegends.com/lib/monster?id=5130104) cards o\_o:
 
 ![White Fang & Hector cards get!](capre-white-fang-and-hector-cards-get.webp "White Fang & Hector cards get!")
 
+A trip up the mountain took me to [Riche](https://maplelegends.com/lib/monster?id=6090000)’s domain; I did nearly a full sweep (killing a total of 23 Riches), only to obtain… a single card. Now, luckily I was already 3/5, so this took me to 4/5. Coming back later was enough to get that pesky 5/5:
+
 ![Riche card get!](capre-riche-card-get-1.webp "Riche card get!")
+
+And while I was there, I got the [Coolie Zombie](https://maplelegends.com/lib/monster?id=5130107) set:
 
 ![Coolie Zombie card get!](capre-coolie-zombie-card-get.webp "Coolie Zombie card get!")
 
+I remembered that once I leveled up, I would need an [SE20](https://maplelegends.com/lib/use?id=2290052) to allow me to dump all 3 SP into [SE](https://maplelegends.com/lib/skill?id=3121002). So I bought one. And passed it!:
+
 ![capre passes SE20](capre-passes-se20.webp "capre passes SE20")
+
+Nice ^^
+
+Oh, and, speaking of Riche, there’s another card-dropping anti-bot monster that spawns in El Nath: the [Snow Witch](https://maplelegends.com/lib/monster?id=6090001).
 
 ![Snow Witch card get!](capre-snow-witch-card-get.webp "Snow Witch card get!")
 
+And, deep inside of the volcano around which the Dead Mine is constructed, I arrived at [The Caves of Trial](https://maplelegends.com/lib/map?id=211042000):
+
 ![Firebomb card get!](capre-firebomb-card-get.webp "Firebomb card get!")
+
+(I finished the [Firebomb](https://maplelegends.com/lib/monster?id=5100002) set [in Showa Town](https://maplelegends.com/lib/map?id=801000210).)
 
 ![Jr. Cerebes card get!](capre-jr.-cerebes-card-get-1.webp "Jr. Cerebes card get!")
 
 ![Cerebes card get!](capre-cerebes-card-get.webp "Cerebes card get!")
 
+And while waiting for more Snow Witches to spawn so that I could finish that set, I headed back to [Watch Out for Icy Path I](https://maplelegends.com/lib/map?id=211010000) to get the [Jr. Yeti](https://maplelegends.com/lib/monster?id=5100000) set:
+
 ![Jr. Yeti card get!](capre-jr.-yeti-card-get.webp "Jr. Yeti card get!")
 
+And I went to [The Crown-Flyer](https://maplelegends.com/lib/map?id=211040001) to get the [Pepe](https://maplelegends.com/lib/monster?id=6130103) set as well:
+
 ![Pepe cards get!](capre-pepe-cards-get.webp "Pepe cards get!")
+
+Besides being the only map in the game that spawns Pepes, I also like the name of this map. The “Crown” in “Crown-Flyer” presumably refers to the crowns that the Pepes wear, and the neat little [isosceles](https://en.wikipedia.org/wiki/Isosceles_triangle) ski slopes that can be found around this small map presumably make those crowns fly, if the Pepe ascends a slope at a sufficiently high speed…
+
+And, with the Snow Witch and Pepe sets out of the way, I decided that was enough El Nath for now. So I headed to Malaysia to card-hunt the species there. First up were [Emo Slime](https://maplelegends.com/lib/monster?id=9420528)s and [Chlorotrap](https://maplelegends.com/lib/monster?id=9420527)s:
 
 ![Emo Slime card get!](capre-emo-slime-card-get.webp "Emo Slime card get!")
 
 ![Chlorotrap card get!](capre-chlorotrap-card-get.webp "Chlorotrap card get!")
 
+I took this opportunity to do the [Malek’s Joy of Music](https://bbb.hidden-street.net/quest/malaysia/maleks-joy-of-music) questline, which is amazingly profitable fame-wise: 26 fame total, if you complete the entire questline!
+
+Then, [Oly Oly](https://maplelegends.com/lib/monster?id=9420530)s and [Dark Fission](https://maplelegends.com/lib/monster?id=9420529)s:
+
 ![Oly Oly card get!](capre-oly-oly-card-get.webp "Oly Oly card get!")
 
 ![Dark Fission card get!](capre-dark-fission-card-get.webp "Dark Fission card get!")
 
+The associated questline here is [Chee Wee’s Worries](https://bbb.hidden-street.net/quest/malaysia/chee-wees-worries), which is… not as good. It’s pretty bad. Unless you _really_ want those 20 [Screw](https://maplelegends.com/lib/etc?id=4003000)s…
+
 </details>
+
+And finishing that Dark Fission set brought me to 210 completed sets overall!
 
 ![capreolina obtains T7~](capre-t7.webp "capreolina obtains T7~")
 
+[Tier 7](https://maplelegends.com/lib/equip?id=01119009)!!!! Yey!!!!!!!
+
 ## panolia attempts moar MPQing
+
+I joined an [MPQ](https://maplelegends.com/lib/map?id=261000021) group on my [permarogue](https://oddjobs.codeberg.page/odd-jobs.html#permarogue) **panolia**. I joined the party of I/L mage **MyDNA**, priest **MilkFactory**, and chief bandit **Considerada**. We had a good run or two:
 
 ![MyDNA, panolia, MilkFactory, & Considerada vs. Franken Lloyd](mydna-panolia-milkfactory-and-considerada-vs-franken-lloyd.webp "MyDNA, panolia, MilkFactory, & Considerada vs. Franken Lloyd")
 
+Although, unfortunately, we were playing through some pretty bad server lag. Eventually, it came to a head, and an unplanned server restart was scheduled while we were just starting stage four of an MPQ. Because the restart was scheduled to be in 15 minutes or so, we thought that we _might_ have enough time to finish our MPQ, if we were quite swift about it. MyDNA and I made it to the top of stage six at roughly the same time, and I asked MilkFactory (who was the leader of the party) to pass the leadership to me so that I could start the fight immediately, instead of waiting for MilkFactory and Considerada to both finish stage six as well. Of course, I had momentarily forgotten that party leadership can only be transferred between characters who are in the same map — but it turned out not to matter anyways, as MilkFactory disconnected before ever finishing stage six, and we were thus all booted out of the PQ. Oh well; at least that ensured that I could definitely log off safely…
+
 ## Moar be peekyooz
+
+And finally, here are some more of the BPQs that I did :)
 
 <details>
 <summary>morb eepy cues</summary>
 
-![what is a brigand](what-is-a-brigand.webp "what is a brigand")
+I did a pair of BPQs on my vicloc [dagger spearwoman](https://oddjobs.codeberg.page/odd-jobs.html#dagger-warrior) **d34r**, with fellow viclocker (and husband) **xXCrookXx** (**Level1Crook**, **Lv1Crook**) and [STRginner](https://oddjobs.codeberg.page/odd-jobs.html#str-beginner) **Cortical** (**NoMoreStars**, **CokeZeroPill**, **SussyBaka**), during which, I found something out about my spouse…
+
+![what is an brigand](what-is-a-brigand.webp "what is an brigand")
+
+Oh, and I also looted [a forbidden card](https://maplelegends.com/lib/use?id=2384005):
 
 ![Jr. Lucida card get!!](d34r-jr.-lucida-card-get.webp "Jr. Lucida card get!!")
 
+My Monster Book is forever tainted. u\_u
+
+I also did a pair of BPQs with Cortical on my I/L [magelet](https://oddjobs.codeberg.page/odd-jobs.html#magelet) **cervine**:
+
 ![cervine & Cortical vs. Lord Pirate](cervine-and-cortical-vs-lord-pirate.webp "cervine & Cortical vs. Lord Pirate")
+
+During which, I made **[Gish](https://oddjobs.codeberg.page/odd-jobs.html#gish)Gallop** (Cortical) solo the [Dyle](https://maplelegends.com/lib/monster?id=6220000) stage as I [Teleport](https://maplelegends.com/lib/skill?id=2201002)ed around and screamed:
 
 ![kill the big gator](kill-the-big-gator.webp "kill the big gator")
 
+And I also did some BPQs with a party consisting of me (as d34r), xXCrookXx, [permapirate](https://oddjobs.codeberg.page/odd-jobs.html#permapirate) **Copo** (**Bipp**, **Celim**, **Sommer**, **Fino**, **Sabitrama**, **Vicloc**, **Gets**), [daggermit](https://oddjobs.codeberg.page/odd-jobs.html#dagger-assassin) **Keppet** (**Rapskal**), and assassin **2GirlsOneCup**:
+
 ![Copo, 2GirlsOneCup, xXCrookXx, Keppet, & d34r vs. Franken Lloyd](copo-2girlsonecup-xxcrookxx-keppet-and-d34r-vs-franken-lloyd.webp "Copo, 2GirlsOneCup, xXCrookXx, Keppet, & d34r vs. Franken Lloyd")
 
+We did a pretty good job of fast eight-point runs, although we did encounter just one slight hiccup when [Lord Pirate](https://maplelegends.com/lib/monster?id=9300119) unexpectedly took to the skies:
+
 ![Lord Pirate flies away](lord-pirate-flies-away.webp "Lord Pirate flies away")
+
+Spooky. Luckily for us, Lord Pirate could not sustain flight for very long, and came back to the ground, where we all collectively beat the living shit out of him. Good times.
 
 </details>
 
