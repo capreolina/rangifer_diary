@@ -224,82 +224,168 @@ I actually had already gotten a stone of honesty earlier, when we fought some Ho
 
 ## capre… hunts… more… you guessed it: cards
 
+It’s time for _moar_ card-hunting with my [woodsmaster](https://oddjobs.codeberg.page/odd-jobs.html#woodsman) **capreolina**~!
+
 <details>
 <summary>c a r d</summary>
 
-![](capre-rodeo-card-get.webp "")
+Last time (q.v. the previous diary entry), I left off by finishing both of the card sets in [Muddy Banks 1](https://maplelegends.com/lib/map?id=550000200): [Oly Oly](https://maplelegends.com/lib/monster?id=9420530) and [Dark Fission](https://maplelegends.com/lib/monster?id=9420529). So, I ventured forth to [Muddy Banks 2](https://maplelegends.com/lib/map?id=550000300) to get the [Rodeo](https://maplelegends.com/lib/monster?id=9420533) set:
 
-![](capre-charmer-card-get.webp "")
+![Rodeo card get!](capre-rodeo-card-get.webp "Rodeo card get!")
 
-![](capre-scaredy-scarlion-card-get.webp "")
+Then, onwards to [Muddy Banks 3](https://maplelegends.com/lib/map?id=550000400) to get the [Charmer](https://maplelegends.com/lib/monster?id=9420534) set:
 
-![](capre-ratatula-card-get.webp "")
+![Charmer card get!](capre-charmer-card-get.webp "Charmer card get!")
 
-![](capre-jester-scarlion-card-get.webp "")
+Now, it was time to kick things up just one notch, with the Fantasy Theme Park region of Kampung Village. The eagle-eyed reader may notice some funky things going on with some of the screenshots here; for some reason, the Fantasy Theme Park region (much like many [Orbis](https://maplelegends.com/lib/map?id=200000000) maps) doesn’t play well with my setup, so I have to crank the graphics quality all the way down to make the game’s framerate work out. In any case, the first Fantasy Theme Park map is [Hibiscus Road 2](https://maplelegends.com/lib/map?id=551000200), which is home to [Scaredy Scarlion](https://maplelegends.com/lib/monster?id=9420531)s:
 
-![](capre-froscola-card-get.webp "")
+![Scaredy Scarlion card get!](capre-scaredy-scarlion-card-get.webp "Scaredy Scarlion card get!")
 
-![](capre-yabber-doo-card-get.webp "")
+…and [Ratatula](https://maplelegends.com/lib/monster?id=9420532)s:
 
-![](capre-booper-scarlion-card-get.webp "")
+![Ratatula card get!](capre-ratatula-card-get.webp "Ratatula card get!")
 
-![](capre-vikerola-card-get.webp "")
+Then, on to [Fantasy Theme Park 1](https://maplelegends.com/lib/map?id=551010000) (which is, confusingly, not the first Fantasy Theme Park map at all). This map has [Jester Scarlion](https://maplelegends.com/lib/monster?id=9420535)s and [Froscola](https://maplelegends.com/lib/monster?id=9420536)s, but there’s a nifty minidungeon — accessible through [Fantasy Theme Park 3](https://maplelegends.com/lib/map?id=551030000) — called [Longest Ride on ByeBye Station](https://maplelegends.com/lib/map?id=551030001) that makes it easier to hunt these two species:
 
-![](capre-gallopera-card-get.webp "")
+![Jester Scarlion card get!](capre-jester-scarlion-card-get.webp "Jester Scarlion card get!")
 
-![](capre-tree-rod-card-get.webp "")
+![Froscola card get!](capre-froscola-card-get.webp "Froscola card get!")
 
-![](capre-mossy-mushroom-card-get.webp "")
+Then, it started to actually get more difficult, as I went back to [Fantasy Theme Park 2](https://maplelegends.com/lib/map?id=551020000) for [Yabber Doo](https://maplelegends.com/lib/monster?id=9420537)s:
 
-![](capre-primitive-boar-card-get.webp "")
+![Yabber Doo card get!](capre-yabber-doo-card-get.webp "Yabber Doo card get!")
 
-![](capre-5-5-stone-bug.webp "")
+These things refused to give me any cards whatsoever for like 45+ minutes, but eventually they started to cough ’em up.
 
-![](capre-crow-card-get.webp "")
+I already had (thank god) 2/5 on [Booper Scarlion](https://maplelegends.com/lib/monster?id=9420538)s (also found within Fantasy Theme Park 2) because I had done the [Scarlion](https://maplelegends.com/lib/monster?id=9420549)/[Targa](https://maplelegends.com/lib/monster?id=9420544) prequests before on this character (documented in previous diary entries). So finishing them was a little easier as a result:
 
-![](capre-cloud-fox-card-get.webp "")
+![Booper Scarlion card get!](capre-booper-scarlion-card-get.webp "Booper Scarlion card get!")
 
-![](capre-fire-raccoon-card-get.webp "")
+Then, onwards to Fantasy Theme Park 3 to hunt the [Vikerola](https://maplelegends.com/lib/monster?id=9420539) set. This is where they start to simply get much harder to kill for me: 36k MAXHP, 820 WDEF, and a penchant for spamming heals in a large radius. Additionally, Vikerolas’ hitboxes expand quite a bit during each attack, which can be a pain in the ass for ranged combatants (who magically become melee combatants as they start bow-whacking, claw-punching, and buffaloing):
 
-![](capre-big-cloud-fox-card-get.webp "")
+![Vikerola card get!](capre-vikerola-card-get.webp "Vikerola card get!")
 
-![](capre-paper-lantern-ghost-card-get.webp "")
+…But I did finish them! And so, on to the final card set of Malaysia (not counting Scarlion and Targa…): [Gallopera](https://maplelegends.com/lib/monster?id=9420540)s. (I was already 1/5 to begin with, which was nice):
 
-![](capre-water-goblin-card-get.webp "")
+![Gallopera card get!](capre-gallopera-card-get.webp "Gallopera card get!")
 
-![](capre-dreamy-ghost-card-get.webp "")
+And I only died once in the process! Cool~
 
-![](capre-nightghost-card-get.webp "")
+With Malaysia all wrapped up, I headed to [Ellin Forest](https://maplelegends.com/lib/map?id=300000000) to finish up the card sets there. I had already obtained quite a few cards long ago, when I did the [Ellin Ring](https://maplelegends.com/lib/equip?id=01119001) questline on capreolina. In fact, I already had the [Mossy Snail](https://maplelegends.com/lib/monster?id=4250000) set completed. But the others were in need of completing, so I headed to finish the [Tree Rod](https://maplelegends.com/lib/monster?id=4250001) set:
 
-![](capre-lucida-card-get.webp "")
+![Tree Rod card get!](capre-tree-rod-card-get.webp "Tree Rod card get!")
 
-![](capre-dyle-card-get.webp "")
+And the [Mossy Mushroom](https://maplelegends.com/lib/monster?id=5250000) set:
 
-![](capre-king-clang-card-get.webp "")
+![Mossy Mushroom card get!](capre-mossy-mushroom-card-get.webp "Mossy Mushroom card get!")
 
-![](capre-faust-card-get.webp "")
+Plus, the [Primitive Boar](https://maplelegends.com/lib/monster?id=5250002) set:
 
-![](psb.webp "")
+![Primitive Boar card get!](capre-primitive-boar-card-get.webp "Primitive Boar card get!")
 
-![](capre-12k-line.webp "")
+And last, but not least, [Stone Bug](https://maplelegends.com/lib/monster?id=5250001)s. This was the only somewhat painful one, as it took me quite a while to get them to cough up a card. But I did finish it eventually:
 
-![](capre-genin-card-get.webp "")
+![5/5 Stone Bug!](capre-5-5-stone-bug.webp "5/5 Stone Bug!")
 
-![](capre-veetron-card-get.webp "")
+With the Ellin Forest fully completed (except for [BBRM](https://maplelegends.com/lib/monster?id=9300182), which I have at 3/5… F4), I went to [Zipangu](https://maplelegends.com/lib/map?id=800000000) to do the cards there. First up was [Crow](https://maplelegends.com/lib/monster?id=9400000):
 
-![](capre-berserkie-card-get.webp "")
+![Crow card get!](capre-crow-card-get.webp "Crow card get!")
+
+Crows fly around aimlessly, making them a little difficult to deal with, but thankfully I had [Arrow Rain](https://maplelegends.com/lib/skill?id=3111004) and [Arrow Bomb](https://maplelegends.com/lib/skill?id=3101005) on my side.
+
+I then headed over to the [Forest of Animals](https://maplelegends.com/lib/map?id=800030000) for [Cloud Fox](https://maplelegends.com/lib/monster?id=9400002)es and [Fire Raccoon](https://maplelegends.com/lib/monster?id=9400001)s:
+
+![Cloud Fox card get!](capre-cloud-fox-card-get.webp "Cloud Fox card get!")
+
+![Fire Raccoon card get!](capre-fire-raccoon-card-get.webp "Fire Raccoon card get!")
+
+And then, to [A Night in the Forest](https://maplelegends.com/lib/map?id=800020110) for [Big Cloud Fox](https://maplelegends.com/lib/monster?id=9400004)es (a.k.a. “Dark Cloud Foxes”, as they are the exact same size as normal Cloud Foxes anyways…):
+
+![Big Cloud Fox card get!](capre-big-cloud-fox-card-get.webp "Big Cloud Fox card get!")
+
+…and [Paper Lantern Ghost](https://maplelegends.com/lib/monster?id=9400011)s:
+
+![Paper Lantern Ghost card get!](capre-paper-lantern-ghost-card-get.webp "Paper Lantern Ghost card get!")
+
+Then, the [Vanished Village](https://maplelegends.com/lib/map?id=800020120) for [Water Goblin](https://maplelegends.com/lib/monster?id=9400012)s:
+
+![Water Goblin card get!](capre-water-goblin-card-get.webp "Water Goblin card get!")
+
+(I already had 5/5 [Samiho](https://maplelegends.com/lib/monster?id=5100004) as a result of card-hunting at [KFT](https://maplelegends.com/lib/map?id=222000000).)
+
+Now, it was time for the most difficult (at least, in terms of actually fighting them) card-bearing monsters in Zipangu, with the exception of [Black Crow](https://maplelegends.com/lib/monster?id=9400014) (which spawns in [the same map](https://maplelegends.com/lib/map?id=800020130) on a 23-hour timer…): [Dreamy Ghost](https://maplelegends.com/lib/monster?id=9400013)s (a.k.a. “Himes”).
+
+![Dreamy Ghost card get!](capre-dreamy-ghost-card-get.webp "Dreamy Ghost card get!")
+
+Midway through cardhunting these, I had already chewed through 1.5k [Chicken Rice](https://maplelegends.com/lib/use?id=2022206)s… so I had to restock. But I did, eventually, get that precious 5/5 (and again, only died once in the process! Wowie~)!
+
+And _now_, it was time for the (apparently) most difficult non-boss card set in Zipangu: [Nightghost](https://maplelegends.com/lib/monster?id=9400003)s. I know that **Cortical** (**CokeZeroPill**, **SussyBaka**, **GishGallop**, **MageFP**, **WizetWizard**) had an extremely hard time with this set (I took a trip to [A Desolate Cemetery](https://maplelegends.com/lib/map?id=800020200) on my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa** to help them out), and at least one other person told me that they gave up when Nightghosts didn’t appear to drop cards at all. But I figured I’d at least give it a whirl:
+
+![Nightghost card get!](capre-nightghost-card-get.webp "Nightghost card get!")
+
+Nice! This set wasn’t exactly easy (and of course, I didn’t expect it to be), but I did finish it~! That left just one last set (as I was definitely not planning on getting the Black Crow set…): [Lucida](https://maplelegends.com/lib/monster?id=7130000).
+
+![Lucida card get!](capre-lucida-card-get.webp "Lucida card get!")
+
+While I was at [Hall of Mushroom](https://maplelegends.com/lib/map?id=800010100) hunting these things, I took a break to do a special summer activity: [boom](https://maplelegends.com/lib/use?id=2044405)ing [PSB](https://maplelegends.com/lib/equip?id=01442057)s! The PSB is a particularly important weapon for my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa**, as (unlike most polearms) it has no STR requirements — indeed, no stat requirements at all. I had been using a 111 WATK and 4 STR one from the previous summer event — I had hoarded three and boomed/ruined two of them, so that was all that I had left. Well, fast-forward to the current summer event, and fast-forward through me throwing 97M(!) mesos into the void, and I made this thing:
+
+![116 WATK PSB](psb.webp "116 WATK PSB")
+
+Not bad! It remains to be seen how greedy I want to be (is 116 WATK enough for me?? Or do I impoverish myself for 117 WATK???), but this is at least a solid upgrade for now! I put it to the test on these Lucidas (using just self-buffs, [Cider](https://maplelegends.com/lib/use?id=2022002), and [Echo](https://maplelegends.com/lib/skill?id=0001005)):
+
+![capreolina hits a 12k+ damage line vs. Lucida w/ the 116 WATK PSB](capre-12k-line.webp "capreolina hits a 12k+ damage line vs. Lucida w/ the 116 WATK PSB")
+
+o\_o
+
+In any case, I finished the Lucida set, meaning that I could leave Zipangu [5ever](https://www.urbandictionary.com/define.php?term=5ever). Speaking of cards, **xXCrookXx** has been kind enough to give me the excess area boss cards produced in the process of generating vicloc goodies:
+
+![Dyle card get!](capre-dyle-card-get.webp "Dyle card get!")
+
+![King Clang card get!](capre-king-clang-card-get.webp "King Clang card get!")
+
+![Faust card get!](capre-faust-card-get.webp "Faust card get!")
+
+These cards are _especially_ important to me, as I have (for my entire card-hunting career) self-imposed a rule to never kill area bosses that are used for quest(s)… unless I need to for the purpose of a quest (or if I’m a viclocker, as area bosses are a very special resource for viclockers, for obvious reasons). This is as a direct result of my own frustration, due to being unable to complete quests due to card-hunters. Rather than inflict that same punishment on other questers for my _own_ card-hunting ease, I just skip those sets. But being able to look viclockers’ cards helps this!
+
+Since I was just in Zipangu for some card-hunting, I took a little detour back in time to [Ninja Castle](https://maplelegends.com/lib/map?id=800040000), to do the one card set that I actually wanted from this region: [Genin](https://maplelegends.com/lib/monster?id=9400400).
+
+![Genin card get!](capre-genin-card-get.webp "Genin card get!")
+
+I’ve card-hunted here (during the last [St. Valentine’s](https://en.wikipedia.org/wiki/Valentine%27s_Day) event, on my pure [STR bishop](https://oddjobs.codeberg.page/odd-jobs.html#str-mage) **cervid**; see previous diary entries) before, and I’m well aware that Genins are the only reasonable card set here. Everything else has an abyssmal card drop rate, so — at least for now — I took my Genin 5/5 and got the hell out.
+
+Next, I wanted to at least try to take on the [Ulu City](https://maplelegends.com/lib/map?id=541020000) region of [Singapore](https://maplelegends.com/lib/map?id=540000000). The monsters here get really tough, so I figured that I may want to give up halfway through, or something like that… In any case, I started out in [Ulu Estate I](https://maplelegends.com/lib/map?id=541020100) with [Veetron](https://maplelegends.com/lib/monster?id=9420515)s:
+
+![Veetron card get!](capre-veetron-card-get.webp "Veetron card get!")
+
+…and [Berserkie](https://maplelegends.com/lib/monster?id=9420514)s:
+
+![Berserkie card get!](capre-berserkie-card-get.webp "Berserkie card get!")
+
+But I’ve only just started, so I think I’m still 1/5 on both of these critters. More critters next time~
 
 </details>
 
 ## Bepeak yous
 
+And now, ’tis time for the staple of summer event: beep e-queues!
+
 <details>
-<summary>Beapeak yooz~</summary>
+<summary>Beapeek yooz~</summary>
 
-![](rusa-125.webp "")
+Not technically related to BPQ, but before I BPQ’d on my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa**, I did a sadsadgrinding sesh [at CDs](https://maplelegends.com/lib/map?id=742010203) with cervid+rusa until woosa hit level 125~!:
 
-![](xbowtjuhnl-gruzz-rusa-harlez-and-eoka-vs-levi.webp "")
+![rusa hits level 125](rusa-125.webp "rusa hits level 125")
 
-![](xmagiex-s1utpr1ncess-capre-jiwie-2001-and-snoopii-vs-levi.webp "")
+Nice :D Now it was time to beepy cue with the gang. With **xBowtjuhNL**, **Gruzz**, **Harlez**, **Eoka**, and [STRginner](https://oddjobs.codeberg.page/odd-jobs.html#str-beginner) **ducklings** (not pictured here, as [crog](https://maplelegends.com/lib/monster?id=8150000) proves to be a difficult boss to survive through):
+
+![xBowtjuhNL, Gruzz, rusa, Harlez, & Eoka vs. Leviathan](xbowtjuhnl-gruzz-rusa-harlez-and-eoka-vs-levi.webp "xBowtjuhNL, Gruzz, rusa, Harlez, & Eoka vs. Leviathan")
+
+Take that, [Levi](https://en.wikipedia.org/wiki/Leviathan)!! Although my [zerk](https://maplelegends.com/lib/skill?id=1320006) threshold is still rather low (5.5k), I did manage to briefly zerk against Levi (without really making a concerted effort to) a few times, when my HP happened to land around the safe zone where my HP \< 5.5k, but I still knew that Levi wouldn’t kill me.
+
+And here I am, fighting Levi in BPQ yet again — but this time, as my [woodsmaster](https://oddjobs.codeberg.page/odd-jobs.html#woodsman) **capreolina**, alongside a team of random folks (**xMAGiEx**, **s1uTpr1ncess**, **Jiwie**, **2001**, & **Snoopii**) who I met by responding to a [smega](https://maplelegends.com/lib/cash?id=5072000):
+
+![xMAGiEx, s1uTpr1ncess, capreolina, Jiwie, 2001, and Snoopii vs. Leviathan](xmagiex-s1utpr1ncess-capre-jiwie-2001-and-snoopii-vs-levi.webp "xMAGiEx, s1uTpr1ncess, capreolina, Jiwie, 2001, and Snoopii vs. Leviathan")
+
+It was in this BPQ that I learned (thanks to s1uTpr1ncess explaining it to all of us) that one of Levi’s magical attacks (viz. the one for which its eyes glow orange) can be dodged, by jumping into the air at the right time. I admit that, even with this knowledge, I probably only dodged 40% or so of said attacks, thanks to [my attacks](https://maplelegends.com/lib/skill?id=3111006) causing me to be unable to jump for a while afterwards (and thanks to me being bad at the game).
 
 </details>
