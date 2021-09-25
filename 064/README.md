@@ -214,7 +214,7 @@ I actually had already gotten a stone of honesty earlier, when we fought some Ho
 <details>
 <summary>Footnotes for “alces & xX17Xx doing the main Magatia questline~”</summary>
 
-\*The questline can also, alternatively, cultimate in either [For Zenumist](https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/for-zenumist) or [For Alcadno](https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/for-alcadno). But these other two endings are… less desirable. The [level](https://maplelegends.com/lib/equip?id=01102139) 80 [capes](https://maplelegends.com/lib/equip?id=01102140) are actually not _terribly_ bad (although none of their benefits go towards DPS; no STR/DEX/INT/LUK, no WATK/MATK, and just the usual 5 slots), but the much lower EXP reward and the lack of fame reward just isn’t worth it. Plus, are you really gonna do my homegirl [Phyllia](https://maplelegends.com/lib/npc?id=2111004) dirty like that?
+\*The questline can also, alternatively, culminate in either [For Zenumist](https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/for-zenumist) or [For Alcadno](https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/for-alcadno). But these other two endings are… less desirable. The [level](https://maplelegends.com/lib/equip?id=01102139) 80 [capes](https://maplelegends.com/lib/equip?id=01102140) are actually not _terribly_ bad (although none of their benefits go towards DPS; no STR/DEX/INT/LUK, no WATK/MATK, and just the usual 5 slots), but the much lower EXP reward and the lack of fame reward just isn’t worth it. Plus, are you really gonna do my homegirl [Phyllia](https://maplelegends.com/lib/npc?id=2111004) dirty like that?
 
 †Later versions of MapleStory have a special ETC item called [Shovel](https://bbb.hidden-street.net/items/leftover/shovel) which is used for the [Keol’s Order #3](https://bbb.hidden-street.net/quest/job/keols-order-3) quest, and requires 30 Hardened Pieces of Mithril to craft using [the Maker skill](https://bbb.hidden-street.net/character/skill/maker). Also, I found a quest called [Stability in Magatia](https://maplestorym.fandom.com/wiki/Stability_in_Magatia) that requires 90 Hardened Pieces of Mithril, and is part of a game called “[MapleStory M](https://maplestorym.nexon.com/)”, which I guess is a [mobile](https://en.wikipedia.org/wiki/Mobile_phone) version of MapleStory? News to me.
 
@@ -233,7 +233,7 @@ Last time (q.v. the previous diary entry), I left off by finishing both of the c
 
 ![Rodeo card get!](capre-rodeo-card-get.webp "Rodeo card get!")
 
-Then, onwards to [Muddy Banks 3](https://maplelegends.com/lib/map?id=550000400) to get the [Charmer](https://maplelegends.com/lib/monster?id=9420534) set:
+Then, onward to [Muddy Banks 3](https://maplelegends.com/lib/map?id=550000400) to get the [Charmer](https://maplelegends.com/lib/monster?id=9420534) set:
 
 ![Charmer card get!](capre-charmer-card-get.webp "Charmer card get!")
 
@@ -261,7 +261,7 @@ I already had (thank god) 2/5 on [Booper Scarlion](https://maplelegends.com/lib/
 
 ![Booper Scarlion card get!](capre-booper-scarlion-card-get.webp "Booper Scarlion card get!")
 
-Then, onwards to Fantasy Theme Park 3 to hunt the [Vikerola](https://maplelegends.com/lib/monster?id=9420539) set. This is where they start to simply get much harder to kill for me: 36k MAXHP, 820 WDEF, and a penchant for spamming heals in a large radius. Additionally, Vikerolas’ hitboxes expand quite a bit during each attack, which can be a pain in the ass for ranged combatants (who magically become melee combatants as they start bow-whacking, claw-punching, and buffaloing):
+Then, onward to Fantasy Theme Park 3 to hunt the [Vikerola](https://maplelegends.com/lib/monster?id=9420539) set. This is where they start to simply get much harder to kill for me: 36k MAXHP, 820 WDEF, and a penchant for spamming heals in a large radius. Additionally, Vikerolas’ hitboxes expand quite a bit during each attack, which can be a pain in the ass for ranged combatants (who magically become melee combatants as they start bow-whacking, claw-punching, and buffaloing):
 
 ![Vikerola card get!](capre-vikerola-card-get.webp "Vikerola card get!")
 
@@ -317,7 +317,7 @@ Now, it was time for the most difficult (at least, in terms of actually fighting
 
 ![Dreamy Ghost card get!](capre-dreamy-ghost-card-get.webp "Dreamy Ghost card get!")
 
-Midway through cardhunting these, I had already chewed through 1.5k [Chicken Rice](https://maplelegends.com/lib/use?id=2022206)s… so I had to restock. But I did, eventually, get that precious 5/5 (and again, only died once in the process! Wowie~)!
+Midway through card-hunting these, I had already chewed through 1.5k [Chicken Rice](https://maplelegends.com/lib/use?id=2022206)s… so I had to restock. But I did, eventually, get that precious 5/5 (and again, only died once in the process! Wowie~)!
 
 And _now_, it was time for the (apparently) most difficult non-boss card set in Zipangu: [Nightghost](https://maplelegends.com/lib/monster?id=9400003)s. I know that **Cortical** (**CokeZeroPill**, **SussyBaka**, **GishGallop**, **MageFP**, **WizetWizard**) had an extremely hard time with this set (I took a trip to [A Desolate Cemetery](https://maplelegends.com/lib/map?id=800020200) on my [darksterity knight](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **rusa** to help them out), and at least one other person told me that they gave up when Nightghosts didn’t appear to drop cards at all. But I figured I’d at least give it a whirl:
 
@@ -351,7 +351,7 @@ Since I was just in Zipangu for some card-hunting, I took a little detour back i
 
 ![Genin card get!](capre-genin-card-get.webp "Genin card get!")
 
-I’ve card-hunted here (during the last [St. Valentine’s](https://en.wikipedia.org/wiki/Valentine%27s_Day) event, on my pure [STR bishop](https://oddjobs.codeberg.page/odd-jobs.html#str-mage) **cervid**; see previous diary entries) before, and I’m well aware that Genins are the only reasonable card set here. Everything else has an abyssmal card drop rate, so — at least for now — I took my Genin 5/5 and got the hell out.
+I’ve card-hunted here (during the last [St. Valentine’s](https://en.wikipedia.org/wiki/Valentine%27s_Day) event, on my pure [STR bishop](https://oddjobs.codeberg.page/odd-jobs.html#str-mage) **cervid**; see previous diary entries) before, and I’m well aware that Genins are the only reasonable card set here. Everything else has an abysmal card drop rate, so — at least for now — I took my Genin 5/5 and got the hell out.
 
 Next, I wanted to at least try to take on the [Ulu City](https://maplelegends.com/lib/map?id=541020000) region of [Singapore](https://maplelegends.com/lib/map?id=540000000). The monsters here get really tough, so I figured that I may want to give up halfway through, or something like that… In any case, I started out in [Ulu Estate I](https://maplelegends.com/lib/map?id=541020100) with [Veetron](https://maplelegends.com/lib/monster?id=9420515)s:
 
