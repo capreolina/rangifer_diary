@@ -236,54 +236,156 @@ It is, admittedly, pretty goofy. The mount is absolutely huge, and looks even mo
 
 ## panolia does some MPQin’
 
+Speaking of [MPQ](https://maplelegends.com/lib/map?id=261000021), I did some more empy queueing on my [permarogue](https://oddjobs.codeberg.page/odd-jobs.html#permarogue) **panolia**! I started out by doing some MPQs with fellow **Oddjobs** member **GishGallop** (**Cortical**, **SussyBaka**, **CokeZeroPill**, **moonchild47**), the I/L [gish](https://oddjobs.codeberg.page/odd-jobs.html#gish). I dragged along my MPQ mule **potpan**, who did a great job AFKing in the first stage for the entire duration of the PQ. We were also accompanied by **Goucha**:
+
 ![panolia & GishGallop @ MPQ stage 3](panolia-and-gishgallop-mpq-stg-3.webp "panolia & GishGallop @ MPQ stage 3")
+
+After a few more PQs, I had the marbles necessary to get my first [Horus’ Eye](https://maplelegends.com/lib/equip?id=01122010), so I went to run [some errands](https://bbb.hidden-street.net/quest/mu-lung-nihal-desert/yuletes-request) for [Yulete](https://maplelegends.com/lib/npc?id=2112014). This included painstakingly searching for 20 clickable regions:
 
 ![panolia looking for papers…](panolia-looking-for-papers.webp "panolia looking for papers…")
 
+…And fighting some [Reinforced Mithril Mutae](https://maplelegends.com/lib/monster?id=5110300) — I mean, some [Obstacle Mutae](https://maplelegends.com/lib/monster?id=9300153):
+
 ![panolia vs. Obstacle Mutae](panolia-vs-obstacle-mutae.webp "panolia vs. Obstacle Mutae")
+
+But, unfortunately, to no avail:
 
 ![panolia’s first Horus’ Eye](panolia-first-horus-eye.webp "panolia’s first Horus’ Eye")
 
+Besides the fact that the MAXHP, AVOID, and MDEF are subpar here, I want to try holding out for a Horus’ Eye that has 5 LUK clean (panolia is DEXless), before using any [Rocks of Wisdom](https://maplelegends.com/lib/use?id=2041212). So, for now, this one can sit in my inventory, clean.
+
+I later did some MPQs with the lovely **stink3r** and **PengXiang**, which which were enough to graduate GishGallop to level 86! So GishGallop said bye to MPQ 5ever~
+
 ![panolia, GishGallop, stink3r, & PengXiang vs. Angy Fanky](panolia-gishgallop-stink3r-and-pengxiang-vs-angy-fanky.webp "panolia, GishGallop, stink3r, & PengXiang vs. Angy Fanky")
+
+And now panolia is level 77, almost 78~!
 
 ## The card-hunt intensifies
 
-![](capre-slygie-card-get.webp "")
+In the previous diary entry, my [woodsmaster](https://oddjobs.codeberg.page/odd-jobs.html#woodsman) **capreolina** had just started card-hunting in the [Ulu City](https://maplelegends.com/lib/map?id=541020000) region of Singapore. I was at [Ulu Estate I](https://maplelegends.com/lib/map?id=541020100) hunting [Berserkie](https://maplelegends.com/lib/monster?id=9420514)s and [Veetron](https://maplelegends.com/lib/monster?id=9420515)s, and by now I’ve finished both of those sets. So I moved onwards to [Ulu Estate II](https://maplelegends.com/lib/map?id=541020200) to attempt to get the [Slygie](https://maplelegends.com/lib/monster?id=9420516) card set:
 
-![](you-ve-been-stunned.webp "")
+![Slygie card get!](capre-slygie-card-get.webp "Slygie card get!")
 
-![](capre-montrecer-card-get.webp "")
+Very nice! With just a little help (after asking politely) from the leechers at Ulu II, I was able to finish this set fairly quickly~
 
-![](capre-petrifighter-card-get.webp "")
+Now it was time to move to [Ulu III](https://maplelegends.com/lib/map?id=541020300) for the [Montrecer](https://maplelegends.com/lib/monster?id=9420518) set…
 
-![](capre-duku-card-get.webp "")
+![You’ve been stunned](you-ve-been-stunned.webp "You’ve been stunned")
 
-![](capre-125.webp "")
+Oh dear. For those who have never had the displeasure of fighting these mangled automobiles that have, apparently, been reclaimed by the trees, you should know that fighting them is generally considered a “not so good idea” unless you can one-shot them or easily stun/freeze them. Unfortunately for those who would want to one-shot Montrecers, each one has 62k(!) HP and respectable amounts of defences. Attacking them without one-shotting them or stunning them is sure to result in being nearly perma-stunned, as each one of their attacks stuns for 4 or 5 seconds. If you’re lucky, you eventually get out without having to resort to desperate methods. Those who grow frustrated with being stunned may wish to go have lunch and come back later, in the vain hope that the Montrecers may have stopped by the time that you get back — just make sure that your pet’s auto-HP is quite diligent, as these things pack quite the punch! Otherwise, you might try a [return scroll](https://maplelegends.com/lib/use?id=2030000), or simply relogging (provided that you don’t have any important ongoing buffs on your character…).
 
-![](capre-montrecer-and-duku-etcs.webp "")
+Speaking of these arboreally-possessed motor vehicles, what the heck is a “montrecer” anyways? I can only imagine that it’s pronounced something like /[mɔ̃tʁəse](https://en.wikipedia.org/wiki/Help:IPA)/ — [looks French](https://en.wikipedia.org/wiki/French_orthography) to me! But « \*_montrecer_ » doesn’t mean anything in French… the closest thing is the verb « _[montrer](https://en.wiktionary.org/wiki/montrer#French)_ », which means “show; display” (compare [Spanish](https://en.wikipedia.org/wiki/Spanish_language) “_[mostrar](https://en.wiktionary.org/wiki/mostrar#Spanish)_”, which means the same thing). Maybe it’s severely corrupted from [English](https://en.wikipedia.org/wiki/English_language) “motor” + “racer”, reflecting the mangled-motor-vehicle nature of these things? Maybe someone at Necksawn just typed out something random that looked vaguely [European](https://en.wikipedia.org/wiki/Indo-European_languages)? Maybe someone vomited on their keyboard??
 
-![](capre-t8.webp "")
+Unfortunately for me, it seemed that Ulu III was not a very popular leeching spot, so there was no one to beg for cards from. So I spent an undisclosed number of hours painstakingly [Arrow Bomb](https://maplelegends.com/lib/skill?id=3101005)ing these things, gradually, to death. The problem with Arrow Bomb is, although it does stun (which is why it was my main weapon here), it doesn’t work at all if the Montrecers are too close to me, resulting in unnecessary aggroing without any chance of stunning. And speaking of chance, Arrow Bomb only has a 60% chance to stun, which feels more like a 45% chance a lot of the time. Combine that with the rather… unfortunate map design, including (but not limited to) invisible walls that eat up my arrows, and this turned out to be a gruelling experience. I did, however, manage to farm up three cards all by my lonesome:
 
-![](capre-buffy-card-get-1.webp "")
+![Montrecer card get!](capre-montrecer-card-get.webp "Montrecer card get!")
 
-![](capre-lazy-buffy-card-get-1.webp "")
+And, thanking my lucky stars, I did eventually come across a leecher who was giving Ulu III leech. This got me the last two Montrecer cards that I needed to finish the set \>w\<
+
+So I made my way to the [Ulu City Centre](https://maplelegends.com/lib/map?id=541020500) in search of [Petrifighter](https://maplelegends.com/lib/monster?id=9420517) cards. I must admit, this is such a popular leeching map, that I didn’t actually farm any of the cards myself! I did kill a number of Petrifighters, but in the end, asking leechers for their spare cards was far quicker:
+
+![Petrifighter card get!](capre-petrifighter-card-get.webp "Petrifighter card get!")
+
+With that set completed, I headed to [Destroyed Park II](https://maplelegends.com/lib/map?id=541020610) for the [Duku](https://maplelegends.com/lib/monster?id=9420519) set. I did a little peeking around to see if anyone was giving Duku leech, but it seems that it may be even less popular than Montrecer leech. But that was okay — although these things do have 90k(!!) HP a piece, and 820 WDEF, a quick `@epm 4` test was enough to see that this was pretty decent EPH anyways. So I didn’t feel so bad grinding these grumpy trees for quite a while:
+
+![Duku card get!](capre-duku-card-get.webp "Duku card get!")
+
+Speaking of EPH, killing Dukus was enough to level up capreolina to level 125~!:
+
+![capreolina hits level 125~](capre-125.webp "capreolina hits level 125~")
+
+And eventually, I did finish the set. Check out the [Montrecer ETC](https://maplelegends.com/lib/etc?id=4000433)s and [Duku ETC](https://maplelegends.com/lib/etc?id=4000434)s that I was left with:
+
+![capre’s Montrecer & Duku ETCs](capre-montrecer-and-duku-etcs.webp "capre’s Montrecer & Duku ETCs")
+
+_W h e w ._
+
+And, much to my delight, finishing the Duku set (and thus finishing all Singapore sets, with the exceptions of [Capt. Latanica](https://maplelegends.com/lib/monster?id=9420513) — who I can come back for — and [Krexel](https://maplelegends.com/lib/monster?id=9420522) — who I plan on being 0/5 on forever…) was enough to get me [the T8 Monster Book ring](https://maplelegends.com/lib/equip?id=01119010)!!!:
+
+![T8 ring get!!!](capre-t8.webp "T8 ring get!!!")
+
+Cool! :D
+
+Next on my route was to do some of the easier [Deep Ludibrium](https://maplelegends.com/lib/map?id=220050300) sets; particularly those that satisfy at least one of the following conditions:
+
+- The set is recommended by the card-hunting guide(s) that I’m referencing.
+- I already have ≥1 card(s) in the set.
+
+So I went to finish up the [Buffy](https://maplelegends.com/lib/monster?id=6130200):
+
+![Buffy card get!](capre-buffy-card-get-1.webp "Buffy card get!")
+
+…and [Lazy Buffy](https://maplelegends.com/lib/monster?id=6230300):
+
+![Lazy Buffy card get!](capre-lazy-buffy-card-get-1.webp "Lazy Buffy card get!")
+
+…card sets, which I had already made some progress on. :)
+
+More card-hunting to come~
 
 ## Levelling up the magelets
 
-![](d33r-54.webp "")
+As I have been chronicling in the past few diary entries, my vicloc [clericlet](https://oddjobs.codeberg.page/odd-jobs.html#magelet) **d33r** has been on the way to her ultimate goal: level 54! For great [Heart Wand](https://maplelegends.com/lib/equip?id=01372033)!! As usual, the grinding spot of choice is [the B2 Subway Depot](https://maplelegends.com/lib/map?id=103000905) (a.k.a. My Favourite Napkin Murder Dungeon™), at the end of the B2 Kerning City JQ. I recorded a few more times for my B2 JQ runs, which you can see appended below:
 
-![](d33r-heart-wand-dmg-test.webp "")
+1. 12.5 minutes
+2. 9.2 minutes
+3. 7.5 minutes
+4. 5.5 minutes
+5. 6.0 minutes
+6. 8.0 minutes
+7. 5.3 minutes
+8. 5.5 minutes
+9. 5.7 minutes
+10. 8.0 minutes
+11. **4.8 minutes**
+12. 5.2 minutes
 
-![](d33r-heart-wand.webp "")
+That’s a new personal best: 4.8 minutes!
 
-![](cervine-109.webp "")
+After long hours of unceasing [napkin](https://maplelegends.com/lib/monster?id=3230101) murder, I finally did it: level 54!!!
+
+![d33r hits level 54~!](d33r-54.webp "d33r hits level 54~!")
+
+With no hesitation, I scrolled my Heart Wand (using all seven [Wand 60%](https://maplelegends.com/lib/use?id=2043701)s in vicloc existence) so that I could test out my new damage:
+
+![d33r testing Heal damage w/ Heart Wand](d33r-heart-wand-dmg-test.webp "d33r testing Heal damage w/ Heart Wand")
+
+o\_o Now that is a serious upgrade. Doing twice as much damage is great — you could say, “but two times zero is still zero…”, and you might be right. But being upgraded from peepee poopoo useless garbage to just ordinary, everyday useless garbage is a huge deal for d33r!! And for me, this kind of represents the culmination of everything I hoped that d33r could be… d33r, my first-ever viclocker~ \<3
+
+Oh, and if you wanted to see the wand itself:
+
+![d33r’s Heart Wand](d33r-heart-wand.webp "d33r’s Heart Wand")
+
+Unfortunately, this is below average scrolling luck. Passing 57% of my scrolls that _supposedly_ have a 60% chance of passing is mildly disappointing, but only mildly. Still absolutely _hooge_ for d33r.
+
+And, speaking of levelling up magelets, you’ll remember my outlander I/L magelet **cervine**. **Level1Crook** (**xXCrookXx**, **Sangatsu**, **Lv1Crook**) promised me that he would help me level up by duoing with me [at CDs](https://maplelegends.com/lib/map?id=742010203). Eventually, he came through on that promise, and lo and behold… cervine is level 109 now!!:
+
+![cervine hits level 109~!](cervine-109.webp "cervine hits level 109~!")
+
+:D
+
+Along the way, we learned that using the `@music` command to put the MapleStory soundtracks on shuffle is a nice feature, but somewhat… dangerous. You see, among the many soundtrack-sounding soundtracks in MapleStory, there is one soundtrack unlike the others: [Bathroom](https://www.youtube.com/watch?v=yRrCGa54Vbo). This is a real in-game soundtrack that you can hear naturally by going into [the Showa bathhouses](https://maplelegends.com/lib/map?id=809000201) (which also lead to [The Secret Spa](https://maplelegends.com/lib/map?id=801000210)). Unlike most soundtracks in the game, this one is supposed to sound like some kind of [field recording](https://en.wikipedia.org/wiki/Field_recording) of a bathroom… in reality, it’s a handful of clumsily pasted-together [Foley][foley] effects of dripping water, toilets flushing, and so on. The overall effect is… uncomfortable. But you don’t have to take it from me — poor Level1Crook randomly had this “soundtrack” come up during his shuffled `@music` command, mid-grind. Not wanting to lose EPM, Level1Crook persisted through the entire soundtrack (which is thankfully only 56 seconds in length), but shortly later confessed that the experience had psychologically disturbed him. Hopefully his suggestion to add curated playlists to the `@music` command comes to fruition…
+
+[foley]: https://en.wikipedia.org/wiki/Foley_(filmmaking)
 
 ## d34rventures
 
-![](going-to-leafre.webp "")
+As usual, I’ve been doing some [APQ](https://maplelegends.com/lib/map?id=670010100)s and a few [BPQ](https://maplelegends.com/lib/map?id=970030000)s on my vicloc [dagger spearwoman](https://oddjobs.codeberg.page/odd-jobs.html#dagger-warrior) **d34r**. During one such APQ, my husband **xXCrookXx** told us all a tragic vicloc story of what happened to his father:
 
-![](d34r-75.webp "")
+![going to Leafre](going-to-leafre.webp "going to Leafre")
 
-![](vom-gang.webp "")
+Now with nearly enough EXP for level 75, xXCrookXx and I both headed to [TfoG](https://maplelegends.com/lib/map?id=105040306) to each grind out our level 75s~!:
 
-![](xx17xx-level1crook-and-d34r-vs-franken-lloyd.webp "")
+![d34r hits level 75~!](d34r-75.webp "d34r hits level 75~!")
+
+Very nice!!
+
+And after that, I was honoured to join [permarogue](https://oddjobs.codeberg.page/odd-jobs.html#permarogue) **xX17Xx** and xXCrookXx’s main, Level1Crook, to form VOM GANG:
+
+![VOM GANG](vom-gang.webp "VOM GANG")
+
+By our powers combined, we vomited allllll over BPQ — even BPQ’s most fearsome (not actually, but at least for us) villain: [Franken Lloyd](https://maplelegends.com/lib/monster?id=9300139).
+
+![xX17Xx, Level1Crook, & d34r vs. Franken Lloyd](xx17xx-level1crook-and-d34r-vs-franken-lloyd.webp "xX17Xx, Level1Crook, & d34r vs. Franken Lloyd")
+
+[\<3](https://maplelegends.com/lib/cash?id=5160000)
