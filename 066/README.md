@@ -35,7 +35,7 @@ In §2 of pt. i of this series, I tried to define “odd job” in a way that is
 
 > \[W\]e are still imposing the restrictions that our finite set of odd jobs is indeed finite, has a [cardinality](https://en.wikipedia.org/wiki/Cardinality) of at least two, and that — importantly — each member of the set is a well-defined “odd job” that exists on the same conceptual level as, but is distinct from, every other member of the set, in a way that is more or less analogous to [the biological notion of “species”](https://en.wikipedia.org/wiki/Species).
 
-…Then we need a way to chop down our ontology into a single conceptual level, with the understanding that there can always be “subjobs, subsubjobs, etc.” below that level, and possibly even “superjobs” above it. Ultimately, we want our taxonomical structure to co-occupy this upper level alongside where the “superjobs” (c/w)ould be, because we don’t want to organise odd jobs based on their definition (and therefore simply on which definitions are strictly more general, or less general, than some others) and nothing else. It’s pretty clear to me (and should become even more clear when we really start nailing down (a) taxonom(y/ies)) that defining a taxonomy based on the subjob relation is certainly _possible_, but pretty much misses the point, and leaves a lot (most?) of odd jobs stranded, somehow completely unrelated to every other job. So flattening things out gives us a simple and easy starting point (again, as elaborated in §1 of this part), and in doing so, we don’t want to flatten out our beginners to the point of asphyxiation.
+…Then we need a way to chop down our ontology into a single conceptual level, with the understanding that there can always be “subjobs, subsubjobs, etc.” below that level, and possibly even “superjobs” above it. Ultimately, we want our taxonomic structure to co-occupy this upper level alongside where the “superjobs” (c/w)ould be, because we don’t want to organise odd jobs based on their definition (and therefore simply on which definitions are strictly more general, or less general, than some others) and nothing else. It’s pretty clear to me (and should become even more clear when we really start nailing down (a) taxonom(y/ies)) that defining a taxonomy based on the subjob relation is certainly _possible_, but pretty much misses the point, and leaves a lot (most?) of odd jobs stranded, somehow completely unrelated to every other job. So flattening things out gives us a simple and easy starting point (again, as elaborated in §1 of this part), and in doing so, we don’t want to flatten out our beginners to the point of asphyxiation.
 
 If we — to use just one example — wanted to separate besinners from STRginners, it seems that we could easily float out some arguments that justify doing so, even given our definition of “odd job” expounded in pt. i of this series. A [natural-language](https://en.wikipedia.org/wiki/Natural_language) definition of these two jobs can still, arguably, satisfy our “simplicity” and “naturalness” requirements. For example:
 
@@ -139,7 +139,7 @@ As it turns out, [Jr. Wraith](https://maplelegends.com/lib/monster?id=3230101)s 
 
 ur welcome. Good luck with those. :)
 
-Speaking of which, xXCrookXx was kind enough to help me towards finishing d33r’s [Sauna Robe](https://maplelegends.com/lib/equip?id=01051017) and [cape](https://maplelegends.com/lib/equip?id=01102099)! This included two more [OA INT 60%](https://maplelegends.com/lib/use?id=2040513)s from [casey](https://maplelegends.com/lib/monster?id=5220000), both of which I passed!!:
+Speaking of which, xXCrookXx was kind enough to help me towards finishing d33r’s [Sauna Robe](https://maplelegends.com/lib/equip?id=01051017) and [cape](https://maplelegends.com/lib/equip?id=01102099)! This included two more [OA INT 60%](https://maplelegends.com/lib/use?id=2040513)s from [Casey](https://maplelegends.com/lib/monster?id=5220000), both of which I passed!!:
 
 ![d33r’s 11/2 Sauna Robe](d33r-sauna-robe-11-2.webp "d33r’s 11/2 Sauna Robe")
 
@@ -188,7 +188,7 @@ And finally, I also did some MPQs in a party with Espontanea, hermit **xChouri**
 
 ![xChouri, panolia, Espontanea, and SirAmik vs. Angy Fanky](xchouri-panolia-espontanea-and-siramik-vs-angy-fanky.webp "xChouri, panolia, Espontanea, and SirAmik vs. Angy Fanky")
 
-Unfortunately, this last string of runs was cursed. It was quite a long and continuous session of MPQing, and during that single session alone, we botched not one, not two, not three, but _four_ of the MPQs after having completed the large majority of the PQ!!! One was due to Espontanea dying in the mage portal as we were finishing up stage 4, and the others were due to MPQ bugs/crashes (as usual). One such crash even occured after we had gotten [Angy Fanky](https://maplelegends.com/lib/monster?id=9300140) down to 10% HP or so :(
+Unfortunately, this last string of runs was cursed. It was quite a long and continuous session of MPQing, and during that single session alone, we botched not one, not two, not three, but _four_ of the MPQs after having completed the large majority of the PQ!!! One was due to Espontanea dying in the mage portal as we were finishing up stage 4, and the others were due to MPQ bugs/crashes (as usual). One such crash even occurred after we had gotten [Angy Fanky](https://maplelegends.com/lib/monster?id=9300140) down to 10% HP or so :(
 
 Usually, these bugs occur swiftly and with violence — but one of them, we were able to see from a mile away:
 
@@ -219,7 +219,7 @@ From there, a hidden portal took me to [Unbalanced Time](https://maplelegends.co
 
 ![Dual Ghost Pirate card get!](capre-dual-ghost-pirate-card-get.webp "Dual Ghost Pirate card get!")
 
-Somewhat surprisingly given their name, Dual Ghost Pirates are not really the “dual” of Ghost Pirates in any discernable way, unless you count green as the “dual” of blue… Ghost Pirates are weak to fire and strong to ice, so you might expect Dual Ghost Pirates to be the opposite. But nope, their elemental interactions are identical. But, while I was at Dual Ghost Pirates, I came across something unusual:
+Somewhat surprisingly given their name, Dual Ghost Pirates are not really the “dual” of Ghost Pirates in any discernible way, unless you count green as the “dual” of blue… Ghost Pirates are weak to fire and strong to ice, so you might expect Dual Ghost Pirates to be the opposite. But nope, their elemental interactions are identical. But, while I was at Dual Ghost Pirates, I came across something unusual:
 
 ![capre finds an Unknown Letter~](capre-finds-an-unknown-letter.webp "capre finds an Unknown Letter~")
 
@@ -289,7 +289,7 @@ But it wasn’t enough to finish the set yet, so I came back just one more time 
 
 Very nice! This set was much easier to finish than it was to start, back when I was actually doing Magatia cards…
 
-And now, it was time to move back to where I wanted to card-hunt next: Victoria Island. There, I harrassed the only area bosses / anti-bot monsters that I could hunt on my own:
+And now, it was time to move back to where I wanted to card-hunt next: Victoria Island. There, I harassed the only area bosses / anti-bot monsters that I could hunt on my own:
 
 ![Shade card get!](capre-shade-card-get.webp "Shade card get!")
 
