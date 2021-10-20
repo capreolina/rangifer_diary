@@ -1,12 +1,12 @@
 [package]
 name = "rangifer_diary_062"
 version = "0.0.0"
-authors = ["deer <capreolina@protonmail.com>"]
+authors = ["deer <capreolina@protonmail.ch>"]
 edition = "2018"
 description = "Additional material for rangifer’s diary: pt. lxiii"
 homepage = "https://codeberg.org/deer/rangifer_diary"
 repository = "https://codeberg.org/deer/rangifer_diary"
-license = "MIT OR Apache-2.0"
+license = "Apache-2.0 OR MIT"
 keywords = ["fubini", "ordered-bell", "bigint", "maplestory", "rangifer"]
 categories = ["algorithms"]
 publish = false

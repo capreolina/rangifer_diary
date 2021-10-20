@@ -1,0 +1,1014 @@
+{
+    "camper": Job(
+        classes: [Beginner, Noblesse, AranBeginner],
+        location: Camp,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([OneHandedSword, OneHandedAxe, OneHandedMace]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "STRlander": Job(
+        classes: [Beginner],
+        location: MapleIsland,
+        stats: Stats(
+            primary: [STR, DEX],
+            secondary: [],
+            constraints: [
+                [Pure(STR)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword, OneHandedAxe, OneHandedMace, Dagger, Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "DEXlander": Job(
+        classes: [Beginner],
+        location: MapleIsland,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [STR],
+            constraints: [
+                [Pure(DEX)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword, OneHandedAxe, OneHandedMace, Dagger, Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "magelander": Job(
+        classes: [Beginner],
+        location: MapleIsland,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [INT, LUK, STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Wand, Staff]),
+            canonical: WepTypes([Wand]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "LUKlander": Job(
+        classes: [Beginner],
+        location: MapleIsland,
+        stats: Stats(
+            primary: [LUK, DEX, STR],
+            secondary: [],
+            constraints: [
+                [Pure(LUK)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Claw]),
+            canonical: WepTypes([Claw]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "hybridlander": Job(
+        classes: [Beginner],
+        location: MapleIsland,
+        stats: Stats(
+            primary: [DEX, STR, LUK],
+            secondary: [],
+            constraints: [
+                [Ful(STR), Ful(DEX)],
+                [Ful(DEX), Ful(LUK)],
+                [Ful(LUK), Ful(STR)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedAxe,
+                OneHandedMace,
+                Dagger,
+                Polearm,
+                Claw,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "STRginner": Job(
+        classes: [Beginner, Noblesse, AranBeginner],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX],
+            constraints: [
+                [Ful(STR)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword, OneHandedMace, Dagger, TwoHandedSword, Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "DEXginner": Job(
+        classes: [Beginner, Noblesse, AranBeginner],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX, STR],
+            secondary: [],
+            constraints: [
+                [Pure(DEX)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword, OneHandedMace, Dagger, TwoHandedSword, Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "wandginner": Job(
+        classes: [Beginner, Noblesse, AranBeginner],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX, INT, LUK],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Wand, Staff]),
+            canonical: WepTypes([Wand]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "LUKginner": Job(
+        classes: [Beginner, Noblesse, AranBeginner],
+        location: Outland,
+        stats: Stats(
+            primary: [LUK],
+            secondary: [DEX, STR],
+            constraints: [
+                [Ful(LUK)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Claw]),
+            canonical: WepTypes([Claw]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "permawarrior": Job(
+        classes: [Swordman, DawnWarrior1st],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedAxe,
+                OneHandedMace,
+                Dagger,
+                TwoHandedSword,
+                TwoHandedAxe,
+                TwoHandedMace,
+                Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "HP warrior": Job(
+        classes: [Swordman, Fighter, Page, Spearman],
+        location: Outland,
+        stats: Stats(
+            primary: [MAXHP],
+            secondary: [],
+            constraints: [
+                [Pure(MAXHP)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: All,
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "wand warrior": Job(
+        classes: [
+            Swordman,
+            Fighter,
+            Page,
+            Spearman,
+            DawnWarrior1st,
+            DawnWarrior,
+            Aran1st,
+            Aran,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX, INT, LUK],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Wand, Staff]),
+            canonical: WepTypes([Wand]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "DEX warrior": Job(
+        classes: [
+            Swordman,
+            Fighter,
+            Page,
+            Spearman,
+            DawnWarrior1st,
+            DawnWarrior,
+            Aran1st,
+            Aran,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX, STR],
+            secondary: [],
+            constraints: [
+                [Pure(DEX)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedAxe,
+                OneHandedMace,
+                TwoHandedSword,
+                TwoHandedAxe,
+                TwoHandedMace,
+                Spear,
+                Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "LUK warrior": Job(
+        classes: [
+            Swordman,
+            Fighter,
+            Page,
+            Spearman,
+            DawnWarrior1st,
+            DawnWarrior,
+            Aran1st,
+            Aran,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [LUK, STR],
+            secondary: [DEX],
+            constraints: [
+                [Pure(LUK)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedAxe,
+                OneHandedMace,
+                TwoHandedSword,
+                TwoHandedAxe,
+                TwoHandedMace,
+                Spear,
+                Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "dagger warrior": Job(
+        classes: [
+            Swordman,
+            Fighter,
+            Page,
+            Spearman,
+            DawnWarrior1st,
+            DawnWarrior,
+            Aran1st,
+            Aran,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Dagger]),
+            canonical: WepTypes([Dagger]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "permamagician": Job(
+        classes: [Magician, BlazeWizard1st, Evan1st],
+        location: Outland,
+        stats: Stats(
+            primary: [INT],
+            secondary: [LUK],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Wand, Staff]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "STR mage": Job(
+        classes: [
+            Magician,
+            FP,
+            IL,
+            Cleric,
+            BlazeWizard1st,
+            BlazeWizard,
+            Evan1st,
+            Evan,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX],
+            constraints: [
+                [Ful(STR)],
+                [Less(INT)],
+                [Less(LUK)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword, OneHandedMace, Dagger, TwoHandedSword, Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "DEX mage": Job(
+        classes: [
+            Magician,
+            FP,
+            IL,
+            Cleric,
+            BlazeWizard1st,
+            BlazeWizard,
+            Evan1st,
+            Evan,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX, STR],
+            secondary: [],
+            constraints: [
+                [Pure(DEX)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword, OneHandedMace, Dagger, TwoHandedSword, Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "magelet": Job(
+        classes: [
+            Magician,
+            FP,
+            IL,
+            Cleric,
+            BlazeWizard1st,
+            BlazeWizard,
+            Evan1st,
+            Evan,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [LUK, INT],
+            secondary: [],
+            constraints: [
+                [Pure(LUK)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Wand, Staff, Claw]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "gish": Job(
+        classes: [
+            Magician,
+            FP,
+            IL,
+            Cleric,
+            BlazeWizard1st,
+            BlazeWizard,
+            Evan1st,
+            Evan,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [STR, INT],
+            secondary: [DEX, LUK],
+            constraints: [
+                [Ful(STR), Ful(DEX)],
+                [Ful(INT)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedMace,
+                Dagger,
+                Wand,
+                Staff,
+                TwoHandedSword,
+                Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "gishlet": Job(
+        classes: [
+            Magician,
+            FP,
+            IL,
+            Cleric,
+            BlazeWizard1st,
+            BlazeWizard,
+            Evan1st,
+            Evan,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [STR, LUK, INT],
+            secondary: [DEX],
+            constraints: [
+                [Ful(STR), Ful(DEX)],
+                [Ful(LUK)],
+                [Less(INT)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedMace,
+                Dagger,
+                Wand,
+                Staff,
+                TwoHandedSword,
+                Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "permarcher": Job(
+        classes: [Archer, WindArcher1st],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Bow, Crossbow]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "woods(wo)man": Job(
+        classes: [Archer, Hunter, Crossbowman, WindArcher1st, WindArcher],
+        location: Outland,
+        stats: Stats(
+            primary: [STR, DEX],
+            secondary: [],
+            constraints: [
+                [Pure(STR)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedMace,
+                Dagger,
+                TwoHandedSword,
+                TwoHandedAxe,
+                TwoHandedMace,
+                Polearm,
+                Bow,
+                Crossbow,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "bow-whacker": Job(
+        classes: [Archer, Hunter, Crossbowman, WindArcher1st, WindArcher],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Bow, Crossbow]),
+            canonical: WepTypes([Bow, Crossbow]),
+        ),
+        ammo: false,
+        skills: None,
+    ),
+    "bowginner": Job(
+        classes: [Archer, Hunter, Crossbowman, WindArcher1st, WindArcher],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Bow, Crossbow]),
+        ),
+        ammo: true,
+        skills: Some([3000002]),
+    ),
+    "permarogue": Job(
+        classes: [Rogue, NightWalker1st],
+        location: Outland,
+        stats: Stats(
+            primary: [LUK],
+            secondary: [DEX, STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Dagger, Claw]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "blood dit": Job(
+        classes: [Bandit],
+        location: Outland,
+        stats: Stats(
+            primary: [MAXHP, LUK],
+            secondary: [DEX, STR],
+            constraints: [
+                [Pure(MAXHP)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Dagger]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "brigand": Job(
+        classes: [Bandit],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX],
+            constraints: [
+                [Less(LUK)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([
+                OneHandedSword,
+                OneHandedAxe,
+                OneHandedMace,
+                Wand,
+                Staff,
+                TwoHandedSword,
+                TwoHandedAxe,
+                TwoHandedMace,
+                Spear,
+                Polearm,
+                Bow,
+                Crossbow,
+                Claw,
+                Knuckler,
+                Gun,
+            ]),
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedMace,
+                TwoHandedSword,
+                TwoHandedAxe,
+                TwoHandedMace,
+                Polearm,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "LUKless sin": Job(
+        classes: [Assassin, NightWalker1st, NightWalker],
+        location: Outland,
+        stats: Stats(
+            primary: [STR, LUK],
+            secondary: [DEX],
+            constraints: [
+                [Less(LUK)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedMace,
+                Dagger,
+                TwoHandedSword,
+                Polearm,
+                Claw,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "LUKless dit": Job(
+        classes: [Bandit],
+        location: Outland,
+        stats: Stats(
+            primary: [LUK],
+            secondary: [DEX, STR],
+            constraints: [
+                [Less(LUK)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Dagger]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "grim reaper": Job(
+        classes: [
+            Rogue, Assassin, Bandit, DualBlade, NightWalker1st, NightWalker,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX, LUK],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepIds([1312002]),
+            canonical: WepIds([1312002]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "carpenter": Job(
+        classes: [
+            Rogue, Assassin, Bandit, DualBlade, NightWalker1st, NightWalker,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepIds([1302001]),
+            canonical: WepIds([1302001]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "dagger sin": Job(
+        classes: [Assassin, NightWalker1st, NightWalker],
+        location: Outland,
+        stats: Stats(
+            primary: [LUK],
+            secondary: [DEX, STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Dagger]),
+            canonical: WepTypes([Dagger]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "claw-puncher": Job(
+        classes: [
+            Rogue, Assassin, Bandit, DualBlade, NightWalker1st, NightWalker,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX, STR],
+            secondary: [LUK],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Claw]),
+            canonical: WepTypes([Claw]),
+        ),
+        ammo: false,
+        skills: None,
+    ),
+    "clawginner": Job(
+        classes: [
+            Rogue, Assassin, Bandit, DualBlade, NightWalker1st, NightWalker,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [LUK],
+            secondary: [DEX, STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Claw]),
+        ),
+        ammo: true,
+        skills: Some([4000001]),
+    ),
+    "permapirate": Job(
+        classes: [Pirate, ThunderBreaker1st],
+        location: Outland,
+        stats: Stats(
+            primary: [STR, DEX],
+            secondary: [],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Knuckler, Gun]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "DEX brawler": Job(
+        classes: [Brawler, ThunderBreaker1st, ThunderBreaker],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX, STR],
+            secondary: [],
+            constraints: [
+                [Pure(DEX)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Knuckler, Gun]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "LUK bucc": Job(
+        classes: [Brawler, ThunderBreaker1st, ThunderBreaker],
+        location: Outland,
+        stats: Stats(
+            primary: [LUK, STR],
+            secondary: [DEX],
+            constraints: [
+                [Pure(LUK)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Knuckler]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "swashbuckler": Job(
+        classes: [Gunslinger],
+        location: Outland,
+        stats: Stats(
+            primary: [STR, DEX],
+            secondary: [],
+            constraints: [
+                [Pure(STR)],
+            ],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword, Dagger, TwoHandedSword, Spear, Knuckler, Gun,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "pugilist": Job(
+        classes: [
+            Pirate, Brawler, Gunslinger, ThunderBreaker1st, ThunderBreaker,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepIds([0]),
+            canonical: WepIds([0]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "bullet bucc": Job(
+        classes: [Brawler, ThunderBreaker1st, ThunderBreaker],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Gun]),
+            canonical: WepTypes([Gun]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "punch slinger": Job(
+        classes: [Gunslinger],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Knuckler]),
+            canonical: WepTypes([Knuckler]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "armed brawler": Job(
+        classes: [Brawler, ThunderBreaker1st, ThunderBreaker],
+        location: Outland,
+        stats: Stats(
+            primary: [STR],
+            secondary: [DEX],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([
+                OneHandedSword,
+                OneHandedAxe,
+                OneHandedMace,
+                Dagger,
+                Wand,
+                Staff,
+                TwoHandedSword,
+                TwoHandedAxe,
+                TwoHandedMace,
+                Spear,
+                Polearm,
+            ]),
+            canonical: WepTypes([
+                OneHandedSword, Dagger, TwoHandedSword, Spear,
+            ]),
+        ),
+        ammo: true,
+        skills: None,
+    ),
+    "pistol-whipper": Job(
+        classes: [
+            Pirate, Brawler, Gunslinger, ThunderBreaker1st, ThunderBreaker,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: WepTypes([Gun]),
+            canonical: WepTypes([Gun]),
+        ),
+        ammo: false,
+        skills: None,
+    ),
+    "bombadier": Job(
+        classes: [Gunslinger],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Gun]),
+        ),
+        ammo: true,
+        skills: Some([
+            5000000,
+            5001005,
+            5200000,
+            5201002,
+            5201003,
+            5201005,
+            5211001,
+            5211002,
+            1121000,
+            5220002,
+            5221003,
+            5221009,
+            1121011,
+        ]),
+    ),
+    "summoner": Job(
+        classes: [Gunslinger],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Gun]),
+        ),
+        ammo: true,
+        skills: Some([
+            5000000,
+            5001005,
+            5200000,
+            5201003,
+            5201005,
+            5211001,
+            5211002,
+            1121000,
+            5220002,
+            5221009,
+            1121011,
+        ]),
+    ),
+    "begunner": Job(
+        classes: [
+            Pirate, Brawler, Gunslinger, ThunderBreaker1st, ThunderBreaker,
+        ],
+        location: Outland,
+        stats: Stats(
+            primary: [DEX],
+            secondary: [STR],
+            constraints: [],
+        ),
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([Gun]),
+        ),
+        ammo: true,
+        skills: Some([]),
+    ),
+}
