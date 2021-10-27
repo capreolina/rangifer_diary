@@ -2,11 +2,12 @@
 
 A MapleStory diary.
 
-This diary is duplicated across two forum threads:
-
-- On the **Oddjobs** forum: <https://oddjobs.flarum.cloud/d/4-rangifers-diary>
-- On the **MapleLegends** forum:
-  `https://forum.maplelegends.com/index.php?threads/odd-jobs-community-thread.36495/`
+This diary is duplicated — with significant loss incurred by the fact that the
+**MapleLegends** forum only supports
+[XenForo](https://en.wikipedia.org/wiki/XenForo)-style
+[BBCode](https://en.wikipedia.org/wiki/BBCode) as a message format — on the
+MapleLegends forum:
+<https://forum.maplelegends.com/index.php?threads/odd-jobs-community-thread.36495/>
 
 ## legal
 
