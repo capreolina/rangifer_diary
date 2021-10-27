@@ -123,7 +123,12 @@
         weaponry: Weaponry(
             allowed: All,
             canonical: WepTypes([
-                OneHandedSword, OneHandedMace, Dagger, TwoHandedSword, Polearm,
+                OneHandedSword,
+                OneHandedMace,
+                Dagger,
+                TwoHandedSword,
+                TwoHandedMace,
+                Polearm,
             ]),
         ),
         ammo: true,
@@ -668,8 +673,9 @@
             canonical: WepTypes([
                 OneHandedSword,
                 OneHandedMace,
-                Dagger,
                 TwoHandedSword,
+                TwoHandedAxe,
+                TwoHandedMace,
                 Polearm,
                 Claw,
             ]),

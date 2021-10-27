@@ -2,6 +2,287 @@
 
 ## Taxonomising odd jobs, pt. iv: Microtaxonomy & encodings. §6
 
+In the previous section (§5) of this part (pt. iv), I finally fleshed out a [set][set] of all odd jobs, i.e. the odd job [universe][universe] (version 1.0.0). The universe was expressed using a particular [RON](https://github.com/ron-rs/ron) schema, and I also presented those same data in the form of a giant table. For now, I want to wrap up this part (pt. iv) of the series by commenting on the data that I essentially dumped in the previous section, with only comments on the format of the data, and not on the data themselves. And then, I want to do a little speculation on what can be done next.
+
+But first, an erratum or two…
+
+### Errata (odd job universe, version 1.1.0)
+
+#### STRginner
+
+Version 1.0.0:
+
+```rust
+[…]
+    "STRginner": Job(
+        […]
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword, OneHandedMace, Dagger, TwoHandedSword, Polearm,
+            ]),
+        ),
+        […]
+    ),
+[…]
+```
+
+Version 1.1.0:
+
+```rust
+[…]
+    "STRginner": Job(
+        […]
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedMace,
+                Dagger,
+                TwoHandedSword,
+                TwoHandedMace,
+                Polearm,
+            ]),
+        ),
+        […]
+    ),
+[…]
+```
+
+STRginners (and only STRginners) get access to the [Sake Bottle](https://maplelegends.com/lib/equip?id=01422011), so we add two-handed BW to their list of canonical weapon types. I probably forgot about this because, you know, MapleLegends doesn’t have Sake Bottles.
+
+#### LUKless sin
+
+Version 1.0.0:
+
+```rust
+[…]
+    "LUKless sin": Job(
+        […]
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedMace,
+                Dagger,
+                TwoHandedSword,
+                Polearm,
+                Claw,
+            ]),
+        ),
+        […]
+    ),
+[…]
+```
+
+Version 1.1.0:
+
+```rust
+[…]
+    "LUKless sin": Job(
+        […]
+        weaponry: Weaponry(
+            allowed: All,
+            canonical: WepTypes([
+                OneHandedSword,
+                OneHandedMace,
+                TwoHandedSword,
+                TwoHandedAxe,
+                TwoHandedMace,
+                Polearm,
+                Claw,
+            ]),
+        ),
+        […]
+    ),
+[…]
+```
+
+Daggers were included in the LUKless sin’s canonical weapons, probably because I copy-and-pasted the canonical weapons for STRginner and then added claws. Daggers should not be included, as a result of LUKless sins being LUKless and not getting any dagger skills (besides [Double Stab](https://maplelegends.com/lib/skill?id=4001334)).
+
+And, I forgot two-handed axes and BWs, which should be included for the same reason that they’re included for woods(wo)men and brigands.
+
+### Comments on the odd job universe, version 1.1.0
+
+#### General comments
+
+- You may have noticed the inclusion of many classes that are pre-Big-Bang (pre-BB) but were added after version 62 of GMS (post-v62):
+    - “Cygnus Knights”:
+        - Noblesse
+        - Dawn warrior
+        - Blaze wizard
+        - Wind archer
+        - Night walker
+        - Thunder breaker
+    - Dual blade
+    - “Legends”:
+        - Aran (beginner)
+        - Aran
+        - Evan (beginner)
+        - Evan
+
+  This is in line with what I said in §3 of this part:
+
+  > I came across a few adjustments that I wanted to make to the Oddjobs list (at the very least, for the purpose of this series):
+  >
+  > - More carefully include post-v62-but-pre-BB (“v62” as in version 62 of GMS; “pre-BB” as in pre-Big-Bang) classes, i.e. Cygnus Knights and Legends. The Oddjobs list (at the time of writing) does mention some of these, but only in the aliases and notes for a few jobs like [STR beginner](https://oddjobs.codeberg.page/odd-jobs.html#str-beginner). GunDelHel’s list splits out some of the Cygnus-based and Legend-based odd jobs into their own jobs, but none of them are radically different enough from their pre-v63 counterparts to fall outside of their counterparts’ original definitions. That being said, in the interest of generality, I want to ensure that these later versions are incorporated explicitly into the odd jobs’ definitions.
+
+- The “Evan (beginner)” (a.k.a. evanginner) class is not actually used in any of the odd job definitions. This class has its own ID (2001), but isn’t actually materially different from an ordinary (explorer) beginner in any way other than being called an “Evan” in-game. Furthermore, perma-evanginners were only able to be created for a very short amount of time due to a bug in GMS’s implementation of Evan. I also couldn’t find any evidence of Evan equivalents of islanders nor of campers. If you know more about evanginner-based jobs, please let me know.
+- It should be noted that dual blades are explorers; they have a second-grade ID of 430 (compare to 400 for rogues, 410 for assassins, and 420 for bandits), and can only be created by initially advancing to rogue (as an ordinary explorer rogue would) and then advancing to dual blade for second-grade advancement. The main twist of this dual blade advancement is that it’s done at level 20, and not at level 30 as you would expect.
+- You also may have noticed that some class names end in “`1st`”. This is because the names of Cygnus Knight classes do not distinguish between grades, from first grade onwards. “Noblesse” is zeroth grade (i.e. a Cygnus Knight beginner) for all Cygnus Knights, but there are no grade distinctions reflected in class names beyond that point. Nevertheless, each of the first grade classes (all five of them: dawn warrior, blaze wizard, etc.) is pretty clearly analogous to the corresponding first-grade explorer class, with the addition of those little summon skills (Soul, Flame, etc.).
+
+  Nevertheless, although we do the same for legends as well (`AranBeginner` → `Aran1st` → `Aran`; `EvanBeginner` → `Evan1st` → `Evan`), the situation there is somewhat different. We consider first-grade Arans to effectively be second grade or higher. The reason is that, although Aran class grades seem to correspond nicely to their explorer counterparts (0th, 1st, 2nd, 3rd, and finally 4th), Arans already have all of the following at first grade:
+    - A multi-target attack that hits up to 12(!) monsters at once,
+    - A [Flash-Jump](https://maplelegends.com/lib/skill?id=4111006)-like skill,
+    - [Polearm Booster](https://maplelegends.com/lib/skill?id=1301005),
+    - and a WATK/WDEF/MDEF buff.
+
+  Although this leaves them [mastery](https://maplelegends.com/lib/skill?id=1300001)less until second grade (like their explorer counterparts), I think it’s fair to say that this should at least disqualify them from being “[permawarriors](https://oddjobs.codeberg.page/odd-jobs.html#permawarrior)” _per se_. That’s not to say that perma-1st Aran can’t be an odd job — rather, it’s just that if they can be considered odd, it’s not because they are permawarriors.
+
+  On the other hand, perma-1st Evans play more like stripped-down [permamagicians](https://oddjobs.codeberg.page/odd-jobs.html#permamagician), as a result of Evan grades being less spread out (they go all the way up to 10th(!) grade). They only get [Magic Claw](https://maplelegends.com/lib/skill?id=2001005) (although it’s called “Magic Missile” for them, the spell is otherwise identical), and a passive +20 MATK. Perhaps most interesting is that perma-1st Evans never get [Magic Guard](https://maplelegends.com/lib/skill?id=2001002)!
+
+  And, when it comes to dual blades, there is no such thing as “`DualBlade1st`”. A “first-grade dual blade” is the same class as a “first-grade assassin” or “first-grade bandit” — namely, rogue (ID 400).
+
+#### Comments on specific odd jobs
+
+Not all of the entries are covered below; the others should be self-explanatory.
+
+- **Camper**
+    - As you can see by the inclusion of noblesses and aranginners, this definition includes roadies and snowlanders (respectively) as well.
+- **STRlander**
+    - As you can see from the class set being {beginner}, only explorers can be islanders, as Maple Island is the only geographical region of its kind.
+    - Like all `STAT`landers, STRlanders are pure in their respective `STAT` (STR, in this case). Islanders are, naturally enough, difficult to categorise, as their builds are naturally more flexible than those of outlanders. So, although we define a STRlander as “**Pure**(STR)”, this constraint should be taken more impressionistically than it is for outlander builds that use the same [predicate][predicate]. For islander builds that are truly mixed, we have the “hybridlander”.
+    - Although one-handed swords and polearms are obviously canonical weapon types for non-magelander melee islanders (one-handed swords being a common weapon type for islander-friendly event-only weapons like [Maplemas Lights](https://maplelegends.com/lib/equip?id=01302080), [The Stars and Stripes](https://maplelegends.com/lib/equip?id=01302057), [Lifeguard Saver](https://maplelegends.com/lib/equip?id=01302095), [Maple Sword](https://maplelegends.com/lib/equip?id=01302020), etc., and polearms including our old friend the [Gold Surfboard](https://maplelegends.com/lib/equip?id=01442029), as well as Valentine Roses (e.g. [White](https://maplelegends.com/lib/equip?id=01442050)), etc.), the others here might require some justification. The existence of the [Razor](https://maplelegends.com/lib/equip?id=01332066) and, particularly, the [Fruit Knife](https://maplelegends.com/lib/equip?id=01332007) on-island is, in my opinion, enough to justify the inclusion of daggers. The [Wooden Club](https://maplelegends.com/lib/equip?id=01322005) and [Leather Purse](https://maplelegends.com/lib/equip?id=01322007) justify the inclusion of one-handed BWs, and while we’re at it, I added one-handed axes as well, so that all starter weapons ([Sword](https://maplelegends.com/lib/equip?id=01302000), [Hand Axe](https://maplelegends.com/lib/equip?id=01312004), and Wooden Club) are represented. Although representing starter weapons might seem a little weird, I think it’s justified, even if the only justification is being general enough to reflect any & all pre-BB versions of the game — even ones that have more or less limited availability of islander weapons.
+- **DEXlander**
+    - See the comments on STRlander.
+- **Magelander**
+    - It might seem a bit strange that we allow magelanders to use staves, but remember that the “allowed” things are merely spiritual — even those who cannot _de facto_ use the thing may still be allowed to use it. In this case, staves don’t generally exist in any form on Maple Island; but we like to group wands and staves together, so that any job capable of using one may use the other. A magelander (hypothetically) using a staff still maintains the “mage” in “magelander”.
+- **LUKlander**
+    - See the comments on STRlander.
+- **Hybridlander**
+    - Hybridlanders have, somewhat ironically, perhaps the most verbose stat constraints of all odd jobs in our universe. But the idea is simple: out of {STR, DEX, LUK}, the hybridlander picks at least two. This is what makes them “hybrid”. This definition thus includes (but is not limited to) so-called “perfectlanders”.
+    - Hybridlanders don’t have wands as part of their canonical weapons. Instead, we consider wands to be the exclusive domain of magelanders; adding wands to the canonical weapon set here would result in complicating the primary/secondary stats of hybridlander even further.
+- **STRginner**
+    - Notice that the stat constraint for STRginner is **Ful**(STR), and not **Pure**(STR). While **Pure**(STR) might be expected by analogy to STRlander, the situation for outland beginners is different. Because outlanders care so much about [expected](https://en.wikipedia.org/wiki/Expected_value) damage, STR is quite a bit… well… STRonger than DEX. For the STRginner, DEX is still useful; it adds more to their WACC than any other stat (certainly more than STR, which gives no WACC whatsoever), and contributes to their damage as well. But besides the need for WACC to hit their targets, the STRginner is trying to pour as much AP into STR as possible. This means that STRginners may have varying levels of base DEX, depending on their needs. Nevertheless, what unites STRginners is being STR-_based_, even if not necessarily being _pure_ STR. Instead, we define _DEXginners_ as being **Pure**(DEX) so that they can be totally distinguished from STRginners.
+- **DEXginner**
+    - See the comments on STRginner.
+- **Wandginner**
+    - See the comments on magelander.
+- **LUKginner**
+    - Because LUKginners are given a weapon constraint (they can only use claws), and because outlanders care so much more about expected damage, we don’t need to characterise the LUKginner’s stat constraint as “**Pure**(LUK)” (as we did for LUKlanders), and instead opt for the looser “**Ful**(LUK)”.
+- **Permawarrior**
+    - As mentioned above, we consider first-grade Cygnus Knights to be essentially equivalent to their explorer counterparts, so perma-1st dawn warriors are included here. And, also as mentioned above, we do _not_ consider first-grade Arans to be essentially equivalent to their explorer counterparts, so they are excluded here.
+    - The canonical weapons should look pretty straightforward here, with two minor exceptions:
+        - Daggers are considered canonical weapons for permawarriors. Although this may seem unusual (as they are not canonical for non-odd warriors), the reality is that, _ceteris paribus_, daggers and one-handed swords are (for non-rogues) identical. The only reason that this isn’t true for ordinary warriors is that ordinary warriors get access to weapon-type-specific skills, e.g. booster and mastery skills. Obviously, permawarriors never get any such skills, so daggers and one-handed swords are equivalent to them.
+        - Spears are not considered canonical weapons for permawarriors. The reasoning here is that spears are not canonical weapons for ordinary warriors either, with the exception of 3rd-grade-or-higher spear(wo)men (i.e. dragon knights and dark knights). In the absence of DK skills, spears simply have an unusually low average PSM (primary stat multiplier) when using attacks that animate like basic-attacks (e.g. [Power Strike](https://maplelegends.com/lib/skill?id=1001004) and [Slash Blast](https://maplelegends.com/lib/skill?id=1001005)), thus making them undesirable for permawarriors.
+- **HP warrior**
+    - Defining blood warriors and blood dits in this format proves to be difficult. I decided to take two different routes for these two different jobs, on the basis that blood dits don’t get their “killer skill(s)” until third grade, whereas HP warriors already have them by second. So, for HP warriors, I’ve de-emphasised traditional warrior fighting methods (i.e. melee), considering them to only be “secondary”. So, their ability to melee is not reflected in their primary/secondary stats, and not reflected in their canonical weapons either. Having all weapons as canonical is meant to imply that they don’t use their weapons to fight, so what weapon they have equipped is incidental (they might choose, for example, weapons that look cooler, or that grant MAXHP).
+- **Wand warrior**
+    - See the comments on magelander.
+- **DEX warrior**
+    - See the comments on permawarrior.
+- **LUK warrior**
+    - See the comments on permawarrior.
+- **Permamagician**
+    - As mentioned above, first-grade blaze wizards and Evans are considered to be close enough to magicians (or restricted versions thereof) to qualify for being permamagicians.
+- **STR mage**
+    - Analogously to STRginners, STR mages have the **Ful**(STR) stat constraint. Because of this, we also need to specify **Less**(INT) and **Less**(LUK) in order to distinguish them from gish(let)s.
+- **DEX mage**
+    - Analogously to DEXginners, DEX mages have the **Pure**(DEX) stat constraint. Because of this, we don’t need to specify **Less**(INT) and **Less**(LUK) to distinguish them from gish(let)s — these constraints are implied by **Pure**(DEX).
+- **Magelet**
+    - You’ll notice that claws are included as a canonical weapon type for magelets. This is a result of magelets being defined by their class and stat constraints alone. With no weapon constraints, they can use claws just as well as LUKginners can. A magelet that only uses claws is a subjob of magelet called a “claw magelet”, or sometimes just “claw mage”.
+- **Gish**
+    - For the physical-attacking side of gishes, we only constrain them to be **Ful** of STR or DEX ([or both](https://en.wikipedia.org/wiki/Logical_disjunction)), by analogy with STR mages or DEX mages (or both).
+    - Gishes, unlike STR mages and DEX mages, have wands and staves as part of their canonical weaponry. This reflects their (half-)proficiency with magical damage-dealing spells.
+- **Gishlet**
+    - See the comments on gish.
+- **Woods(wo)man**
+    - The woods(wo)man’s canonical weapons include two-handed axes and BWs, as a result of classic woods(wo)man weapons like the [Metal Axe](https://maplelegends.com/lib/equip?id=01412001), [Wooden Mallet](https://maplelegends.com/lib/equip?id=01422000), and [Monkey Wrench](https://maplelegends.com/lib/equip?id=01422004).
+- **Blood dit**
+    - See the comments on HP warrior. Unlike the HP warrior, we do emphasise the role of daggers in the blood dit’s functionality. This is, again, a result of blood dits getting their “killer skill(s)” so much later than blood warriors do.
+- **Brigand**
+    - See the comments on woods(wo)man.
+    - The allowed weapons for brigands are just “all weapons that aren’t daggers”.
+- **LUKless sin**
+    - See the comments on woods(wo)man.
+    - Daggers are not canonical for LUKless sins, as a result of being LUKless and not getting any dagger skills (besides [Double Stab](https://maplelegends.com/lib/skill?id=4001334)).
+- **Dagger sin**
+    - We consider night walkers to be closely analogous to assassins/hermits, so they can be dagger sins too.
+- **Claw-puncher**
+    - Although technically any class can be a claw-puncher (in the presence of claws without class requirements, i.e. [Magical Mitten](https://maplelegends.com/lib/equip?id=01472063)), claw-punchers are specifically the _rogue_ version of this concept, which we consider to be conceptually primitive (especially when claws without class requirements are unavailable). Other claw-punching odd jobs can be classified as subjobs of other odd jobs.
+- **DEX brawler**
+    - We consider thunder breakers to be closely analogous to brawlers/marauders, so they can be DEX brawlers too.
+    - Guns are considered canonical weapons for DEX brawlers, as they are pure DEX and have access to the [Double Shot](https://maplelegends.com/lib/skill?id=5001003) skill.
+- **LUK bucc**
+    - See the comments on DEX brawler.
+- **Swashbuckler**
+    - Besides guns, the only canonical weapons for swashbucklers are those that play nicely with [SSK](https://maplelegends.com/lib/skill?id=5001002).
+- **Pugilist**
+    - It should be noted that our definition of pugilist here includes _all_ pirates who restrict themselves from ever using weapons, not just brawlers and closely related classes.
+- **Armed brawler**
+    - The allowed weaponry for armed brawlers is just “any melee weapon that isn’t a knuckler”. Somewhat counterintuitively, this includes wands and staves. But the canonical weaponry only includes those weapons that play nice with SSK.
+- **Pistol-whipper**
+    - See the comments on pugilist.
+- **Bombadier**
+    - One unfortunate side-effect of how we define jobs here is that bombadier requires us to list quite a few skills.
+    - Two of the skills listed ([MW](https://maplelegends.com/lib/skill?id=1121000) and [Hero’s Will](https://maplelegends.com/lib/skill?id=1121011)) use the skill IDs of their hero (i.e. fourth-grade fighter) versions. This is in line with the following sentence, from §4 of this part:
+
+      > Furthermore, we collapse multiple skills that only really differ in what class and/or weapon type they are available to, into a single skill with a single ID.
+
+      The hero versions just so happen to have the lowest (i.e. lowest numerical value) IDs.
+- **Summoner**
+    - See the comments on bombadier.
+    - Notice that the only difference between our definitions of summoner and bombadier is that the summoner can only use a strict subset of the skills that bombadiers can use. This is a result of us allowing bombadiers to freely use summons (even [Octopus](https://maplelegends.com/lib/skill?id=5211001)), on the basis that these are not “attacking skills” _per se_.
+- **Begunner**
+    - See the comments on pugilist.
+    - As pointed out in §5, `Some([])` is our way of representing that a job cannot use any first-grade-or-higher skills.
+
+### Looking ahead
+
+This essentially concludes pt. iv of this series. In pt. v (and beyond), we have some things to look forward to — particularly, actually getting some taxonomies fleshed out! Hopefully!! Even more particularly, here are some things that I have floating around in the back of my mind:
+
+- We can try imposing a [weak ordering](https://en.wikipedia.org/wiki/Weak_ordering) onto this universe that we’ve enumerated, as discussed in §4 and §5 of pt. iii. Or, rather, we might end up with more than one ordering to “try on for size”, considering that determining an ordering is tricky business and, ultimately, just depends on what you want to get out of it.
+
+  From here, it would then be possible to construct, by hand, (a) [rooted forest](https://en.wikipedia.org/wiki/Tree_%28graph_theory%29)(s) of our odd jobs that satisfy the condition laid out in §4–5 of pt. iii:
+
+  > \[…\] [∀](https://en.wikipedia.org/wiki/Universal_quantification)𝑖 [∈][element] [ℐ](https://en.wikipedia.org/wiki/Index_set) ∀(𝑜, 𝑝) ∈ 𝑂ᵢ[²](https://en.wikipedia.org/wiki/Cartesian_product) \[𝑜 [≤](https://en.wikipedia.org/wiki/Topological_sorting)ᵢ 𝑝 [→](https://en.wikipedia.org/wiki/Material_conditional) 𝑜 [≲](https://en.wikipedia.org/wiki/Weak_ordering) 𝑝\].
+- We can try to come up with encodings of our odd jobs, based on their definitions from this part (pt. iv) of the series, so that the [clustering](https://en.wikipedia.org/wiki/Cluster_analysis)-oriented techniques discussed in pt. iii of this series can be applied. Again, as mentioned in pt. iii, such an encoding is ideally a [metric space](https://en.wikipedia.org/wiki/Metric_space), or even better, a [vector space](https://en.wikipedia.org/wiki/Vector_space). But it remains to be seen if we can reasonably satisfy these kinds of constraints without throwing away too much information, and without warping the information into an encoding that misrepresents which aspects of each job are relevant. I already have a few things in mind here, but it’s a long way from anything actually usable.
+- Another kind of classification that could reasonably be considered a “taxonomy” — but that was not discussed in pt. iii of this series — is closely related to the notion of a [hypergraph](https://en.wikipedia.org/wiki/Hypergraph). You may remember that, in §5 of pt. iii of this series, I talked a bit about the basics of [graph theory](https://en.wikipedia.org/wiki/Graph_theory) in order to introduce [trees][tree]. Hypergraphs are like graphs where we don’t restrict each edge to be a set of [cardinality](https://en.wikipedia.org/wiki/Cardinality) exactly 2. Instead, we just require that each edge is nonempty. This makes a hypergraph basically just a set _S_, combined with a collection of (nonempty) subsets of _S_. We can impose a hypergraph onto our universe of odd jobs (with each odd job in the universe being a vertex) by grouping odd jobs into relevant categories. Because we aren’t trying to impose any restrictions on this hypergraph (other than that it’s nonempty and simple\*), these categories can be of varying sizes, and can freely overlap with one another. Some hyperedges that might be included:
+    - “Jobbed beginners”: {STR mage, DEX mage, woods(wo)man, brigand, LUKless sin}
+    - “Mixed attackers”: {gish, gishlet}
+    - “Perma-firsts”: {permawarrior, permamagician, permarcher, permarogue, permapirate}
+    - “Islanders”: {STRlander, DEXlander, magelander, LUKlander, hybridlander}
+    - etc.
+
+  As I said, this is already a kind of taxonomy itself, which means that such a hypergraph already offers an answer to the question that motivates this entire series: “what (w/sh)ould a taxonomy of odd jobs look like?”. Furthermore, hypergraphs offer some of their own benefits:
+    - A [hypergraph matching](https://en.wikipedia.org/wiki/Matching_in_hypergraphs) generalises [the notion of a “matching” in a graph][graph-matching]. In our case, we can think of a hypergraph matching as a kind of practical generalisation of a [partition of a set](https://en.wikipedia.org/wiki/Partition_of_a_set) (indeed, a hypergraph matching that is a partition of the vertex set is called a “perfect” matching), in which we don’t necessarily have to include every element of the vertex set.
+    - Assuming that every vertex in our hypergraph has a nonzero [degree][degree], the notion of [set cover](https://en.wikipedia.org/wiki/Set_cover_problem) provides another kind of practical generalisation of a partition of a set, but going in the other direction: instead of not necessarily including every element of the set, we don’t necessarily require that the “partitions” are pairwise [disjoint](https://en.wikipedia.org/wiki/Disjoint_sets). The set cover _problem_, then, asks what is the smallest collection of hyperedges whose [union][union] equals the universe. A set cover that solves this problem can, for some purposes, be a practical substitute for an actual partition (if it isn’t already a partition itself).
+    - If our hypergraph ends up being [disconnected][connectivity], then its [connected components][component] give us a natural partition of the universe, where we interpret two vertices being in different components as the two vertices being “unrelated” in our taxonomy.
+    - Our hypergraph would naturally induce a [line graph](https://en.wikipedia.org/wiki/Line_graph_of_a_hypergraph), which, because we’re working with hypergraphs, is just the same thing as an [intersection graph](https://en.wikipedia.org/wiki/Intersection_graph).
+    - Hypergraphs come with their own handy-dandy visualisation method (much like clustering comes with [dendrograms](https://en.wikipedia.org/wiki/Dendrogram)): [Euler diagrams](https://en.wikipedia.org/wiki/Euler_diagram) (it should be noted that [Venn diagrams](https://en.wikipedia.org/wiki/Venn_diagram) are a special kind of Euler diagram). Also, [rainbow boxes](https://en.wikipedia.org/wiki/Rainbow_box)!
+    - The edges of our hypergraph can also be used as a tool to produce some distances between odd jobs (e.g. [Hamming distance](https://en.wikipedia.org/wiki/Hamming_distance) between the [bit vectors][gf2] that represent which hyperedges the job is, and is not, [incident][incident] to), as well as to generally inform the encodings that we give our odd jobs before trying to feed them into (a) clustering algorithm(s).
+
+<details>
+<summary>Footnotes for “Looking ahead”</summary>
+
+\*A hypergraph is called “simple” [iff](https://en.wikipedia.org/wiki/If_and_only_if) it has no loops and has no repeated edges. Loops in hypergraphs are analogous to [loops in graphs][loop], viz. a hypergraph loop is an edge of cardinality exactly 1. And repeated edges in hypergraphs are analogous to [multi-edges in graphs](https://en.wikipedia.org/wiki/Multiple_edges), viz. multiple edges that are the same set.
+
+</details>
+
+[set]: https://en.wikipedia.org/wiki/Set_(mathematics)
+[universe]: https://en.wikipedia.org/wiki/Universe_%28mathematics%29
+[predicate]: https://en.wikipedia.org/wiki/Predicate_(mathematical_logic)
+[element]: https://en.wikipedia.org/wiki/Element_(mathematics)
+[tree]: https://en.wikipedia.org/wiki/Tree_%28graph_theory%29
+[graph-matching]: https://en.wikipedia.org/wiki/Matching_(graph_theory)
+[loop]: https://en.wikipedia.org/wiki/Loop_%28graph_theory%29
+[degree]: https://en.wikipedia.org/wiki/Degree_%28graph_theory%29
+[union]: https://en.wikipedia.org/wiki/Union_(set_theory)
+[connectivity]: https://en.wikipedia.org/wiki/Connectivity_(graph_theory)
+[component]: https://en.wikipedia.org/wiki/Component_%28graph_theory%29
+[gf2]: https://en.wikipedia.org/wiki/GF(2)
+[incident]: https://en.wikipedia.org/wiki/Incidence_(graph)
+
 ## A little light LPQing
 
 I hopped onto my [DEX brawler](https://oddjobs.codeberg.page/odd-jobs.html#dex-brawler) [LPQ](https://maplelegends.com/lib/map?id=221024500) mule **sorts** to do some LPQs with **Flow** neophyte **trishaa**, fellow LPQ mule **Sangatsu** (**Lvl1Crook**, **xXCrookXx**, **Level1Crook**), and [DEX page](https://oddjobs.codeberg.page/odd-jobs.html#dex-warrior) **attackattack** (**xX17Xx**, **partyrock**, **breakcore**, **drainer**, **strainer**, **maebee**)! We were able to do some all-**Suboptimal** (again, ignoring that some of the characters we’re playing here are not actually in the alliance…) runs thanks to attackattack also bringing along her gunslinger, partyrock. Here we are, embattled with [glowy-eyed whale guy](https://maplelegends.com/lib/monster?id=9300012):
