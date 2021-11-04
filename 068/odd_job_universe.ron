@@ -315,6 +315,7 @@
                 TwoHandedMace,
                 Spear,
                 Polearm,
+                Claw,
             ]),
         ),
         ammo: true,
@@ -827,7 +828,7 @@
         ),
         weaponry: Weaponry(
             allowed: All,
-            canonical: WepTypes([Knuckler]),
+            canonical: WepTypes([Claw, Knuckler]),
         ),
         ammo: true,
         skills: None,
