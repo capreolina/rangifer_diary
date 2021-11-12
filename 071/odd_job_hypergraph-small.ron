@@ -1,0 +1,42 @@
+{
+    "jobbed beginner": [
+        "STR mage", "DEX mage", "woods(wo)man", "brigand", "LUKless sin",
+    ],
+    "perma-first": [
+        "permawarrior",
+        "permamagician",
+        "permarcher",
+        "permarogue",
+        "permapirate",
+    ],
+    "melee mage": ["STR mage", "DEX mage", "gish", "gishlet"],
+    "wanded": ["magelander", "wandginner", "wand warrior"],
+    "weaponed warrior": ["wand warrior", "dagger warrior"],
+    "spell user": ["permamagician", "magelet", "gish", "gishlet"],
+    "DEX melee": [
+        "DEXlander",
+        "DEXginner",
+        "DEX warrior",
+        "DEX mage",
+        "DEX brawler",
+    ],
+    "hybrid physical attacker": [
+        "hybridlander",
+        "woods(wo)man",
+        "permarogue",
+        "LUKless sin",
+        "permapirate",
+        "DEX brawler",
+        "swashbuckler",
+    ],
+    "secondary statted": [
+        "DEX warrior",
+        "magelet",
+        "woods(wo)man",
+        "brigand",
+        "LUKless dit",
+        "DEX brawler",
+        "swashbuckler",
+    ],
+    "LUKless thief": ["brigand", "LUKless dit", "LUKless sin"],
+}

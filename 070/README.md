@@ -161,7 +161,6 @@ The two obvious choices here seem to be the vertex list and the adjacency matrix
 [tree]: https://en.wikipedia.org/wiki/Tree_(graph_theory)
 [graph]: https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)
 [loop]: https://en.wikipedia.org/wiki/Loop_%28graph_theory%29
-[element]: https://en.wikipedia.org/wiki/Element_(mathematics)
 [category]: https://en.wikipedia.org/wiki/Category_(mathematics)
 [distance]: https://en.wikipedia.org/wiki/Distance_(graph_theory)
 [connectivity]: https://en.wikipedia.org/wiki/Connectivity_(graph_theory)

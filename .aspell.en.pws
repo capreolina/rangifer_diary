@@ -1,4 +1,4 @@
-personal_ws-1.1 en 760 UTF-8
+personal_ws-1.1 en 815 UTF-8
 ACC
 AFK
 AFKed
@@ -26,6 +26,7 @@ Balrog
 Bandana
 BasilMarket
 Battlesage
+Battlesage's
 Bipp
 Boymoder
 Briggon
@@ -37,6 +38,7 @@ CWKPQ
 CWKPQs
 Cassandro
 Celim
+Cervus
 CokeZeroPill
 Copo
 Cornian's
@@ -54,17 +56,21 @@ DKs
 DPH
 DPM
 DPS
+Daddyo
+Dama
 Destonen
 Dreamscapes
 Dreamscapes's
 Dyle
 EMS
+ENPQ
 EPH
 EPM
 EPQ
 EPQs
 ETCs
 El
+Eld's
 Electrophant
 Ellin
 Ellinia
@@ -73,6 +79,7 @@ Eoka
 Eos
 Ergoth
 Espontanea
+FLTK
 FPoT
 Fausts
 Fino
@@ -89,8 +96,9 @@ GPQ
 GPQs
 GPW
 GPWs
+GSB
+GTK
 Gachapon
-gachapon
 Gambolpuddy
 GangGang
 Gaviota
@@ -120,12 +128,13 @@ Honster
 Horntail
 Horntail's
 Huroid
-hypergraphing
 Hypnotize
 IGN
 INT
 INTless
+ITIS
 IUCN
+Inkscape
 IntelliJ
 JC
 JMS
@@ -175,12 +184,14 @@ MATK
 MAXHP
 MAXMP
 MDEF
+MDTs
 MLGPQ
 MLGPQs
 MMORPG
 MMORPGs
 MP
 MPQ
+MPQ'd
 MPQing
 MPQs
 MST
@@ -228,6 +239,7 @@ Numidium
 OA
 OAs
 OPQ
+OPQing
 OPQs
 Octopi
 OmokTeacher
@@ -252,6 +264,7 @@ Permanovice
 Permanovice's
 Pianus
 Qubert
+RGB
 RON's
 RWG
 Rav
@@ -259,6 +272,7 @@ Ravana
 Ravana's
 Reddit
 Roid
+Rucervus
 SPEED
 SPQ
 SPQs
@@ -274,6 +288,7 @@ STRless
 STRlessness
 STRonger
 SVG
+SVGO
 Sabitrama
 Saught
 Seruf
@@ -310,6 +325,7 @@ WK
 WKs
 WPoT
 Wetbottom's
+Wikimedia
 Wizet
 Wulin
 Wyvern
@@ -321,6 +337,8 @@ ZMM
 ZMMs
 Zakum
 Zakum's
+aaaand
+aftermodifier
 aggro
 aggroed
 aggroing
@@ -345,6 +363,7 @@ arboreally
 archmagelet
 atemporality
 attackattack
+backends
 badass
 banan
 begunner
@@ -371,12 +390,15 @@ breakcore
 bucc
 buccs
 bugginess
+cairo
+candela
 capre
 capre's
 capreolina
 capreolina's
 cardhunting
 cardinality
+cd
 centric
 cervid
 cervid's
@@ -387,6 +409,7 @@ clawginners
 clericlet
 clericlets
 clocktower
+colourimetric
 completionism
 cornians
 counterintuitively
@@ -404,6 +427,7 @@ de
 definitionally
 dendrograms
 dep
+deserialise
 dino
 discontiguous
 disjunction
@@ -421,8 +445,10 @@ duku
 dukus
 duoed
 duoing
+eldii
 elementless
 encodings
+equippable
 evan
 evanginner
 evanginners
@@ -435,6 +461,7 @@ formalisations
 franken
 funsies
 gacha
+gachapon
 ginner
 ginners
 gish
@@ -446,8 +473,10 @@ golem
 golems
 grats
 guildless
+hacky
 haha
 handwavingly
+heh
 hehe
 hidey
 hoggo
@@ -461,6 +490,7 @@ hydropotina
 hyperedge
 hyperedges
 hypergraph
+hypergraphing
 hypergraphs
 iff
 impressionistically
@@ -483,6 +513,7 @@ kerning
 knuckler
 knucklers
 kookiechan
+kookietann
 krew
 krex
 krexel
@@ -499,17 +530,21 @@ levelup
 levelups
 lil
 liu
+lm
 locative
 lol
 lookups
 luckiest
 ludi
 ludibrium
+luma
+luminance
 lv
 lvl
 lxviii
 lxx
 lxxi
+lxxii
 mae
 maebee
 magatia
@@ -527,6 +562,8 @@ meso
 mesos
 microtaxonomies
 microtaxonomy
+minigame
+minigames
 mithril
 moar
 monke
@@ -552,6 +589,7 @@ oddjobs
 oddjobs's
 oiler
 ok
+omok
 onwards
 oooh
 ossyria
@@ -622,6 +660,8 @@ prequest
 prequests
 priestlet
 priestlets
+programmatically
+pseudocode
 quester
 questline
 questline's
@@ -641,12 +681,14 @@ relooted
 relooting
 respawning
 rimy
+rms
 romanise
 rox
 rusa
 rusa's
 sader
 sadgrind
+sadsadgrind
 sadsadgrinding
 sangatsu
 se
@@ -655,6 +697,7 @@ shadower
 shadowers
 shads
 shieldless
+shite
 shooty
 shotting
 showa
@@ -664,6 +707,7 @@ sinlander
 sinlanders
 skele
 skeptical
+skillbooks
 slinger
 slingers
 slygie
@@ -677,6 +721,8 @@ snowlanders
 spearwoman
 spearwomen
 spheniscid
+sr
+stanceless
 statted
 storyline
 storylines
@@ -686,11 +732,15 @@ stronk
 structureless
 subjob
 subjobs
+sublinear
 sublist
+substring
+substrings
 subsubjob
 subsubjobs
 superjob
 superjobs
+superpolynomial
 takedowns
 taxonomise
 taxonomised
@@ -699,6 +749,7 @@ technopagan
 teleported
 teleporter
 teleporters
+tewoo
 th
 throughclass
 tidbits
@@ -738,6 +789,7 @@ wo
 woodsmaster
 woodsmasters
 woodswoman
+woosa
 wowie
 wowow
 wz
@@ -748,12 +800,14 @@ xXCrookXx
 xXCrookXx's
 xlvi
 yay
+yayyy
 yeeting
 yey
 yulete
 zenumist
 zenumist's
 zerk
+zerk's
 zerked
 zerking
 zeroths

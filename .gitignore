@@ -5,3 +5,4 @@ scrap/
 
 # Rust stuff
 Cargo.lock
+target/
