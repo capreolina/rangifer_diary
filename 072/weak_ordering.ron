@@ -1,0 +1,44 @@
+[
+    // Pre-historic ’ginners
+    ["STRginner", "STRlander", "DEXlander", "hybridlander"],
+    // The other original odd jobs
+    ["camper", "HP warrior", "STR mage", "gish", "brigand", "woods(wo)man"],
+    // Induced or slightly-later-than-original jobs
+    [
+        "dagger warrior",
+        "grim reaper",
+        "carpenter",
+        "LUKless sin",
+        "magelander",
+        "DEX warrior",
+    ],
+    // Jobs with isolated (non-compiled) historical evidence AFAIK
+    ["blood dit", "LUK warrior", "bow-whacker"],
+    // Jobs that rely on common claws
+    ["LUKginner", "LUKlander"],
+    // Present in both GunDelHel’s and Alyssaur’s lists
+    [
+        "permawarrior",
+        "permamagician",
+        "permarcher",
+        "permarogue",
+        "permapirate",
+    ],
+    ["LUKless dit", "swashbuckler", "wand warrior", "magelet", "DEX brawler"],
+    // Definition-wrangling jobs
+    ["DEX mage", "DEXginner", "gishlet"],
+    // Present in GunDelHel’s list, but not Alyssaur’s
+    ["wandginner", "pugilist", "armed brawler"],
+    ["clawginner", "begunner", "bowginner"],
+    ["summoner"],
+    // Present in neither GunDelHel’s nor Alyssaur’s lists
+    ["claw-puncher"],
+    [
+        "dagger sin",
+        "bullet bucc",
+        "LUK bucc",
+        "pistol-whipper",
+        "bombadier",
+        "punch slinger",
+    ],
+]
