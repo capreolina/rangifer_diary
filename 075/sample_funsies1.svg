@@ -1,0 +1,26 @@
+<svg class="toyplot-canvas-Canvas" xmlns="http://www.w3.org/2000/svg" width="350" height="310" style="background-color:transparent;border-color:#292724;border-style:none;border-width:1;fill:#292724;fill-opacity:1;font-family:Helvetica;font-size:12px;opacity:1;stroke:#292724;stroke-opacity:1;stroke-width:1">
+  <g class="toyplot-coordinates-Cartesian">
+    <clipPath id="a">
+      <path d="M30 30h290v250H30z"/>
+    </clipPath>
+    <g class="toytree-mark-Toytree" clip-path="url(#a)">
+      <g class="toytree-Edges" style="fill:none;stroke:#262626;stroke-linecap:round;stroke-opacity:1;stroke-width:2">
+        <path d="M213.2 51.3c50.1 0 50.1 0 50.1 18.727M213.2 51.3c-50 0-50 0-50 18.727"/>
+        <path d="M263.3 70c-25.2 0-25.2 0-25.2 93.903M163.2 70c-24.5 0-24.5 0-24.5 9.414m0-.014c-23.6 0-23.6 0-23.6 9.402m0-.002c-22.1 0-22.1 0-22.1 18.777m0 .023c-18.9 0-18.9 0-18.9 37.528M263.3 70c25.3 0 25.3 0 25.3 9.414"/>
+        <path d="M238.1 163.9c25.2 0 25.2 0 25.2 18.778M238.1 163.9v18.778m0-18.778c-25.2 0-25.2 0-25.2 18.778M163.2 70c24.4 0 24.4 0 24.4 56.352M138.7 79.4c23.7 0 23.7 0 23.7 18.79m-47.3-9.39c22 0 22 0 22 18.777M93 107.6c18.9 0 18.9 0 18.9 9.365M74.1 145.1c12.6 0 12.6 0 12.6 18.803M74.1 145.1c-12.7 0-12.7 0-12.7 37.578"/>
+      </g>
+      <g class="toytree-TipLabels" style="fill:#262626;fill-opacity:1;font-family:helvetica;font-size:11px;font-weight:400;stroke:none;white-space:pre">
+        <text x="-66.96" y="2.81" transform="rotate(-90 122.065 60.615)">LUKlander</text>
+        <text x="-73.08" y="2.81" transform="rotate(-90 125.29 38.61)">magelander</text>
+        <text x="-68.19" y="2.81" transform="rotate(-90 114.435 2.525)">DEXlander</text>
+        <text x="-75.52" y="2.81" transform="rotate(-90 122.365 -14.785)">hybridlander</text>
+        <text x="-67.57" y="2.81" transform="rotate(-90 130.285 -32.095)">STRlander</text>
+        <text x="-51.67" y="2.81" transform="rotate(-90 156.985 -30.635)">camper</text>
+        <text x="-71.86" y="2.81" transform="rotate(-90 197.765 -15.085)">wandginner</text>
+        <text x="-68.19" y="2.81" transform="rotate(-90 210.385 -27.705)">DEXginner</text>
+        <text x="-66.96" y="2.81" transform="rotate(-90 223 -40.32)">LUKginner</text>
+        <text x="-67.57" y="2.81" transform="rotate(-90 183.98 -104.57)">STRginner</text>
+      </g>
+    </g>
+  </g>
+</svg>

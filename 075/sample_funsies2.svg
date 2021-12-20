@@ -1,0 +1,23 @@
+<svg class="toyplot-canvas-Canvas" xmlns="http://www.w3.org/2000/svg" width="310" height="275" style="background-color:transparent;border-color:#292724;border-style:none;border-width:1;fill:#292724;fill-opacity:1;font-family:Helvetica;font-size:12px;opacity:1;stroke:#292724;stroke-opacity:1;stroke-width:1">
+  <g class="toyplot-coordinates-Cartesian">
+    <clipPath id="a">
+      <path d="M30 30h250v215H30z"/>
+    </clipPath>
+    <g class="toytree-mark-Toytree" clip-path="url(#a)">
+      <path d="M50 111.7V78h19.8M50 111.7v33.8h19.8m0-67.5v17h98.9m-98.9 50.5v16.4h9.9m0 0v16h9.9m0 0v14.8h19.7m0 0v12.8h39.6M69.8 78V61h9.9m89 34V78h19.7m-19.7 17h19.7m-19.7 0v17h19.7M69.8 145.5V129h59.3m-49.4 32.9V146h19.7m-9.8 31.9V163h19.7m0 29.7V180h9.9m29.7 25.5V197h19.8m-19.8 8.5v8.5h39.5" class="toytree-Edges" style="fill:none;stroke:#262626;stroke-linecap:round;stroke-opacity:1;stroke-width:2"/>
+      <path d="M184.44 209.986h8v8h-8zm-19.777-16.997h8v8h-8zm-49.443-16.997h8v8h-8zm-9.888-16.997h8v8h-8zm-9.889-16.997h8v8h-8zm29.666-16.996h8v8h-8zm59.331-16.997h8v8h-8zm0-16.997h8v8h-8zm0-16.997h8v8h-8zM75.666 57.014h8v8h-8z" class="toytree-Nodes" style="fill:#202224;fill-opacity:1;stroke:None;stroke-width:1"/>
+      <g class="toytree-TipLabels" style="fill:#262626;fill-opacity:1;font-family:helvetica;font-size:11px;font-weight:400;stroke:none;white-space:pre">
+        <text x="15" y="2.81" style="fill:#a06033;fill-opacity:1" transform="translate(188.44 213.99)">LUKlander</text>
+        <text x="15" y="2.81" style="fill:#a06033;fill-opacity:1" transform="translate(168.66 196.99)">magelander</text>
+        <text x="15" y="2.81" style="fill:#a06033;fill-opacity:1" transform="translate(119.22 179.99)">DEXlander</text>
+        <text x="15" y="2.81" style="fill:#a06033;fill-opacity:1" transform="translate(109.33 163)">hybridlander</text>
+        <text x="15" y="2.81" style="fill:#a06033;fill-opacity:1" transform="translate(99.44 146)">STRlander</text>
+        <text x="15" y="2.81" style="fill:#a03333;fill-opacity:1" transform="translate(129.11 129)">camper</text>
+        <text x="15" y="2.81" style="fill:#3360a0;fill-opacity:1" transform="translate(188.44 112)">wandginner</text>
+        <text x="15" y="2.81" style="fill:#3360a0;fill-opacity:1" transform="translate(188.44 95.01)">DEXginner</text>
+        <text x="15" y="2.81" style="fill:#3360a0;fill-opacity:1" transform="translate(188.44 78.01)">LUKginner</text>
+        <text x="15" y="2.81" style="fill:#3360a0;fill-opacity:1" transform="translate(79.67 61.01)">STRginner</text>
+      </g>
+    </g>
+  </g>
+</svg>

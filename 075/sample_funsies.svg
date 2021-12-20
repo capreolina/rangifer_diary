@@ -1,0 +1,42 @@
+<svg class="toyplot-canvas-Canvas" xmlns="http://www.w3.org/2000/svg" width="350" height="310" style="background-color:transparent;border-color:#292724;border-style:none;border-width:1;fill:#292724;fill-opacity:1;font-family:Helvetica;font-size:12px;opacity:1;stroke:#292724;stroke-opacity:1;stroke-width:1">
+  <g class="toyplot-coordinates-Cartesian">
+    <clipPath id="a">
+      <path d="M30 30h290v250H30z"/>
+    </clipPath>
+    <g class="toytree-mark-Toytree" clip-path="url(#a)">
+      <path d="m213.2 54.9 50.1 18.5m-50.1-18.5-50 18.5m100.1 0-25.2 92.2m-74.9-92.2-24.5 9.2m0 0-23.6 9.2m0 0L93 110.3m0 0-18.9 36.8m189.2-73.7 25.3 9.2m-50.5 83 25.2 18.4m-25.2-18.4V184m0-18.4L212.9 184M163.2 73.4l24.4 55.3m-48.9-46.1 23.7 18.4m-47.3-9.2 22 18.5m-44.1 0 18.9 9.2m-37.8 27.6 12.6 18.5m-12.6-18.5L61.4 184" class="toytree-Edges" style="fill:none;stroke:#262626;stroke-linecap:round;stroke-opacity:1;stroke-width:2"/>
+      <g class="toytree-Nodes" style="fill:#66c2a5;fill-opacity:1;stroke:#262626;stroke-opacity:1;stroke-width:1.5">
+        <circle r="4" fill="#6655A0" transform="translate(61.446 184.036)"/>
+        <circle r="4" fill="#6655A0" transform="translate(86.68 165.591)"/>
+        <circle r="4" fill="#6655A0" transform="translate(111.915 119.478)"/>
+        <circle r="4" fill="#6655A0" transform="translate(137.149 110.255)"/>
+        <circle r="4" fill="#6655A0" transform="translate(162.383 101.032)"/>
+        <circle r="4" fill="#6655A0" transform="translate(187.617 128.7)"/>
+        <circle r="4" fill="#6655A0" transform="translate(212.851 184.036)"/>
+        <circle r="4" fill="#6655A0" transform="translate(238.085 184.036)"/>
+        <circle r="4" fill="#6655A0" transform="translate(263.32 184.036)"/>
+        <circle r="4" fill="#6655A0" transform="translate(288.554 82.587)"/>
+        <circle r="4" fill="#3360A0" transform="translate(74.063 147.146)"/>
+        <circle r="4" fill="#3360A0" transform="translate(92.989 110.255)"/>
+        <circle r="4" fill="#3360A0" transform="translate(115.069 91.81)"/>
+        <circle r="4" fill="#3360A0" transform="translate(138.726 82.587)"/>
+        <circle r="4" fill="#3360A0" transform="translate(238.085 165.591)"/>
+        <circle r="4" fill="#3360A0" transform="translate(163.171 73.364)"/>
+        <circle r="4" fill="#3360A0" transform="translate(263.32 73.364)"/>
+        <circle r="4" fill="#3360A0" transform="translate(213.246 54.919)"/>
+      </g>
+      <g class="toytree-TipLabels" style="fill:#262626;fill-opacity:1;font-family:helvetica;font-size:11px;font-weight:400;stroke:none;white-space:pre">
+        <text x="-66.96" y="2.81" transform="rotate(-90 122.745 61.295)">LUKlander</text>
+        <text x="-73.08" y="2.81" transform="rotate(-90 126.135 39.455)">magelander</text>
+        <text x="-68.19" y="2.81" transform="rotate(-90 115.695 3.785)">DEXlander</text>
+        <text x="-75.52" y="2.81" transform="rotate(-90 123.7 -13.45)">hybridlander</text>
+        <text x="-67.57" y="2.81" transform="rotate(-90 131.705 -30.675)">STRlander</text>
+        <text x="-51.67" y="2.81" transform="rotate(-90 158.16 -29.46)">camper</text>
+        <text x="-71.86" y="2.81" transform="rotate(-90 198.445 -14.405)">wandginner</text>
+        <text x="-68.19" y="2.81" transform="rotate(-90 211.065 -27.025)">DEXginner</text>
+        <text x="-66.96" y="2.81" transform="rotate(-90 223.68 -39.64)">LUKginner</text>
+        <text x="-67.57" y="2.81" transform="rotate(-90 185.57 -102.98)">STRginner</text>
+      </g>
+    </g>
+  </g>
+</svg>

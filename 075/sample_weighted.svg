@@ -1,0 +1,22 @@
+<svg class="toyplot-canvas-Canvas" xmlns="http://www.w3.org/2000/svg" width="310" height="275" style="background-color:transparent;border-color:#292724;border-style:none;border-width:1;fill:#292724;fill-opacity:1;font-family:Helvetica;font-size:12px;opacity:1;stroke:#292724;stroke-opacity:1;stroke-width:1">
+  <g class="toyplot-coordinates-Cartesian">
+    <clipPath id="a">
+      <path d="M30 30h250v215H30z"/>
+    </clipPath>
+    <g class="toytree-mark-Toytree" clip-path="url(#a)">
+      <path d="M51.3 111.7V78H71m-19.7 33.7v33.8H71M71 78v17h98.2M71 145.5v16.4h9.8m0 0v16h9.8m0 0v14.8h19.7m0 0v12.8h39.3M71 78V61h9.8m88.4 34V78h19.7m-19.7 17h19.7m-19.7 0v17h19.7M71 145.5V129h58.9m-49.1 32.9V146h19.6m-9.8 31.9V163h19.7m0 29.7V180h9.8m29.5 25.5V197h19.6m-19.6 8.5v8.5h39.3" class="toytree-Edges" style="fill:none;stroke:#262626;stroke-linecap:round;stroke-opacity:1;stroke-width:2"/>
+      <g class="toytree-TipLabels" style="fill:#262626;fill-opacity:1;font-family:helvetica;font-size:11px;font-weight:400;stroke:none;white-space:pre">
+        <text x="15" y="2.81" transform="translate(188.89 213.99)">LUKlander</text>
+        <text x="15" y="2.81" transform="translate(169.23 196.99)">magelander</text>
+        <text x="15" y="2.81" transform="translate(120.1 179.99)">DEXlander</text>
+        <text x="15" y="2.81" transform="translate(110.27 163)">hybridlander</text>
+        <text x="15" y="2.81" transform="translate(100.44 146)">STRlander</text>
+        <text x="15" y="2.81" transform="translate(129.93 129)">camper</text>
+        <text x="15" y="2.81" transform="translate(188.89 112)">wandginner</text>
+        <text x="15" y="2.81" transform="translate(188.89 95.01)">DEXginner</text>
+        <text x="15" y="2.81" transform="translate(188.89 78.01)">LUKginner</text>
+        <text x="15" y="2.81" transform="translate(80.79 61.01)">STRginner</text>
+      </g>
+    </g>
+  </g>
+</svg>

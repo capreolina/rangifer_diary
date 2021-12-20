@@ -6,3 +6,6 @@ scrap/
 # Rust stuff
 Cargo.lock
 target/
+
+# Python stuff
+.venv/
