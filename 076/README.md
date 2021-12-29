@@ -269,8 +269,6 @@ The highest-ACC monster species on Maple Island is the [Orange Mushroom](https:/
 
 > 𝑑 = 𝖠𝖵𝖮𝖨𝖣 ÷ (4\.5 ⋅ 𝖠𝖢𝖢)
 
-    0.98*4.5*acc = avoid
-
 Well, not quite. The result of this arithmetic gets clamped between two values. For thieves, the result gets clamped to the [interval][interval] \[0\.05, 0\.95\]. For everyone else (including beginners), the result gets clamped to the interval \[0\.20, 0\.98\]. So, the _ultimate_ goal is to achieve a dodge rate of 0\.98 versus Orange Mushrooms.
 
 As mentioned before, Orange Mushrooms have 42 ACC. So the above formula simplifies to:
