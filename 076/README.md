@@ -341,7 +341,7 @@ Oh, and rusa is on the same account as my undead [daggermit](https://oddjobs.cod
 
 ![rusa finishes the Henesys pet JQ](rusa-finishes-pet-jq.webp "rusa finishes the Henesys pet JQ")
 
-Well, I got two more [Rudolph](https://maplelegends.com/lib/cash?id=5000014)s (in addition to the one that rusa already had), and it turns out that these get a set affect too, if you have three of them:
+Well, I got two more [Rudolph](https://maplelegends.com/lib/cash?id=5000014)s (in addition to the one that rusa already had), and it turns out that these get a set effect too, if you have three of them:
 
 ![rusa has 3 pets now…](rusa-has-3-pets-now.webp "rusa has 3 pets now…")
 
