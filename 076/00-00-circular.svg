@@ -1,0 +1,80 @@
+<svg class="toyplot-canvas-Canvas" xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" style="background-color:transparent;border-color:#292724;border-style:none;border-width:1;fill:#292724;fill-opacity:1;font-family:Helvetica;font-size:12px;opacity:1;stroke:#292724;stroke-opacity:1;stroke-width:1">
+  <g class="toyplot-coordinates-Cartesian">
+    <clipPath id="a">
+      <path d="M30 30h964v964H30z"/>
+    </clipPath>
+    <g class="toytree-mark-Toytree" clip-path="url(#a)">
+      <g class="toytree-Edges" style="fill:none;stroke:#262626;stroke-linecap:round;stroke-opacity:1;stroke-width:2">
+        <path d="M611.4 532.8 512 512m222.2 115L512 512m82.2 80.8L512 512m90.5 229.4L512 512m-23.5 187.6L512 512m-74.3 88.9L512 512m-112.2 9.7L512 512m-5.5-22.9L512 512m81.7 97.8-9.5-11.4a112.6 112.6 0 0 0 10-5.6M409 584.3l10.8-7.6a112.6 112.6 0 0 0 17.9 24.2m-49-101.6 11.3 1.1a112.6 112.6 0 0 0-.2 21.3m80.2-43 16.4 17.1a22.5 22.5 0 0 1 10.1-6.7m18.5-22.4-6.8 23.7a22.5 22.5 0 0 0-11.7-1.3m-96.1 116.4 10.5-9.6a123.9 123.9 0 0 1-11.9-11.6m-38.4.9L402 569a123.9 123.9 0 0 0 7 15.3m-189.2-92.4 168.6 11.6a123.9 123.9 0 0 1 .3-4.2m-3.2-37.3 11.3 4.5a123.9 123.9 0 0 0-8.1 32.8m88.7-33.9 7.7 10.4a45 45 0 0 0-5.1 2.9m52.6-130.8-15 119.4a45 45 0 0 1 7.4-.6m39.1.1L546 482.5a45 45 0 0 0-21-15.8M380.7 444l11.3 5.9a135.1 135.1 0 0 0-6.5 12.1m91.8-10.8 6.8 11.9a56.3 56.3 0 0 0-6.7 2.3"/>
+        <path d="m561.8 406-21.1 44.8a67.6 67.6 0 0 1 23.4 16"/>
+        <path d="m579.7 449.6-18 16.6a67.6 67.6 0 0 1 2.4.6m68.2 14.3-54.9 14.1a67.6 67.6 0 0 0-13.3-28.4m-84.6-30.2 5.7 13.4a67.6 67.6 0 0 0-7.9 1.2M578.8 432l-9 10.9a90.1 90.1 0 0 1 9.9 6.7"/>
+        <path d="m596.3 452.9-10.5 7.4a90.1 90.1 0 0 0-6.1-10.7m78.4 52.3-22.5 1.6a123.9 123.9 0 0 0-3.3-22.4M468.6 377.6l19.1 59.4a78.8 78.8 0 0 0-8.2-.4M634.8 529l-22.4-3.1a101.4 101.4 0 0 1-1 6.9m52.9 22-54.7-15.4a101.4 101.4 0 0 0 1.8-6.6m150.3 87.8-22.5-9.8a247.8 247.8 0 0 1-5 16.2m50.9 50.5-61.2-37.1a247.8 247.8 0 0 0 10.3-13.4m28 86.5L599.7 582.7a112.6 112.6 0 0 1-5.5 10.1m45.2 53-42-44.1a123.9 123.9 0 0 1-3.7 8.1"/>
+        <path d="M676.5 737.1 585.1 612a123.9 123.9 0 0 0 8.6-2.2m47.8 137.7L626 719.2a236.5 236.5 0 0 1-23.5 22.2"/>
+        <path d="M611.1 763.2 598.8 732a236.5 236.5 0 0 0 3.7 9.4"/>
+        <path d="m582 786.1-11.5-44.9a236.5 236.5 0 0 0 32 .2m-64-18.4-4.1-32.2a180.2 180.2 0 0 1-45.9 8.8"/>
+        <path d="M512 724.8v-32.6a180.2 180.2 0 0 1-23.5 7.4"/>
+        <path d="m485.5 723 4.1-32.2a180.2 180.2 0 0 1-1.1 8.8"/>
+        <path d="m459.5 717.6 7.9-31a180.2 180.2 0 0 0 21.1 13"/>
+        <path d="m434.4 708.6 11.5-29a180.2 180.2 0 0 0 42.6 20m-77.9-3.3 47.1-85.6a112.6 112.6 0 0 1-20-9.8"/>
+        <path d="m388.6 680.8 56.9-77.9a112.6 112.6 0 0 1-7.8-2M400.5 629l18.3-19.1a135.1 135.1 0 0 1-8.4-4.4"/>
+        <path d="m351.2 641.6 55.6-44.8a135.1 135.1 0 0 0 3.6 8.7m-54.5 1.1 21.3-12.9a157.7 157.7 0 0 1-6.6-8.5m-129.1 44.4 125.9-54.7a157.7 157.7 0 0 0 3.2 10.3m-108.8-2.8 141.8-39.9a112.6 112.6 0 0 1-3.8-20.8"/>
+        <path d="M255.2 547.5 389.3 529a123.9 123.9 0 0 1-.6-29.7m-192 12.7h22.5a292.8 292.8 0 0 1 .6-20.1"/>
+        <path d="m199.4 468.8 22.5 3.1a292.8 292.8 0 0 0-2.1 20m96.4-35 65.7 18.5a135.1 135.1 0 0 1 3.6-13.4m-19.2-13.3 11.4 4.9a146.4 146.4 0 0 1 3-9.6m-102.8-73.9 108.9 66a146.4 146.4 0 0 0-6.1 7.9m42-4 54.2 43.7a45 45 0 0 1 3.1-5m-23.7-25.2 16.9 17.7a56.3 56.3 0 0 1 4.2-5.8M457.2 437l14.9 20.4a67.6 67.6 0 0 1 5.2-6.2m-16-31.4 12.7 23.1a78.8 78.8 0 0 1 5.5-6.3m-27.8-77.5 10.7 27.2a135.1 135.1 0 0 1 6.2-8.7m-3.2-48.3 13.2 51.8a135.1 135.1 0 0 0-10-3.5m36.1 75.8 1.7 13.9a45 45 0 0 1 18.6-.6m-13-143.9v31.5a157.7 157.7 0 0 1 20.6-6.4"/>
+        <path d="m541.4 277.6-9.8 78a157.7 157.7 0 0 1 1-7.7"/>
+        <path d="M576.1 260.7 551 359.2a157.7 157.7 0 0 0-18.4-11.3m31.1 33-10.4 26.3a112.6 112.6 0 0 1 8.5-1.2"/>
+        <path d="m613.4 327.7-47.1 85.6a112.6 112.6 0 0 0-4.5-7.3m18.8 12.2-8.8 12a101.4 101.4 0 0 1 7 1.8m92.5-87.2-89.4 93.8a101.4 101.4 0 0 0-3.1-6.6m31.5.8-19.4 15.6a101.4 101.4 0 0 1 5.4 4.5m101-53.2-98.6 59.8a101.4 101.4 0 0 0-2.4-6.6m40.6 4.8-11.3 4.9a123.9 123.9 0 0 1 6.7 18.5"/>
+        <path d="m653.4 472.2-22.1 6.3a123.9 123.9 0 0 1 1 2.6m36 9.3L657 492a146.4 146.4 0 0 1 1.1 9.9m11.6 10.1h-11.3a146.4 146.4 0 0 0-.3-10.1"/>
+      </g>
+      <g class="toytree-TipLabels" style="fill:#262626;fill-opacity:1;font-family:helvetica;font-size:11px;font-weight:400;stroke:none;white-space:pre">
+        <text x="15" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="translate(669.67 512)">carpenter</text>
+        <text x="15" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-7 4343.063 -5218.273)">grim reaper</text>
+        <text x="15" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-15 2120.144 -2245.499)">LUKless sin</text>
+        <text x="15" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-22 1495.761 -1409.33)">brigand</text>
+        <text x="15" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-30 1094.468 -1101.358)">gishlet</text>
+        <text x="15" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-37 951.936 -695.552)">gish</text>
+        <text x="15" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-45 751.833 -637.9)">DEX mage</text>
+        <text x="15" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-52 718.999 -386.062)">STR mage</text>
+        <text x="15" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-60 590.468 -367.34)">swashbuckler</text>
+        <text x="15" y="2.81" style="fill:#1f8040;fill-opacity:1" transform="rotate(-68 564.229 -227.415)">woods(wo)man</text>
+        <text x="15" y="2.81" style="fill:#080808;fill-opacity:1" transform="rotate(-75 457.973 -245.039)">wandginner</text>
+        <text x="15" y="2.81" style="fill:#080808;fill-opacity:1" transform="rotate(-82 430.342 -172.63)">DEXginner</text>
+        <text x="15" y="2.81" style="fill:#080808;fill-opacity:1" transform="rotate(-90 417.41 -94.59)">LUKginner</text>
+        <text x="-67.57" y="2.81" style="fill:#080808;fill-opacity:1" transform="rotate(83 -3.907 511.897)">STRginner</text>
+        <text x="-66.96" y="2.81" style="fill:#383838;fill-opacity:1" transform="rotate(75 18.123 467.87)">LUKlander</text>
+        <text x="-73.08" y="2.81" style="fill:#383838;fill-opacity:1" transform="rotate(68 -40.342 514.342)">magelander</text>
+        <text x="-68.19" y="2.81" style="fill:#383838;fill-opacity:1" transform="rotate(60 -132.932 609.435)">DEXlander</text>
+        <text x="-75.52" y="2.81" style="fill:#383838;fill-opacity:1" transform="rotate(53 -209.628 676.93)">hybridlander</text>
+        <text x="-67.57" y="2.81" style="fill:#383838;fill-opacity:1" transform="rotate(45 -319.269 777.495)">STRlander</text>
+        <text x="-51.67" y="2.81" style="fill:#686868;fill-opacity:1" transform="rotate(38 -427.63 833.742)">camper</text>
+        <text x="-66.36" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(30 -551.693 703.666)">dagger sin</text>
+        <text x="-85.91" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(22 -970.887 1166.627)">dagger warrior</text>
+        <text x="-77.95" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(15 -1577.231 1429.31)">wand warrior</text>
+        <text x="-80.42" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(8 -3252.325 1659.885)">punch slinger</text>
+        <text x="-67.58" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="translate(196.66 512)">bullet bucc</text>
+        <text x="-85.29" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-8 4042.402 -1550.944)">armed brawler</text>
+        <text x="-49.23" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-15 2342.708 -703.094)">pugilist</text>
+        <text x="-62.69" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-22 1740.348 -306.333)">LUK bucc</text>
+        <text x="-73.06" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(-30 1309.887 -360.917)">LUK warrior</text>
+        <text x="-76.73" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-37 1134.295 -203.988)">DEX brawler</text>
+        <text x="-74.28" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(-45 959.586 -168.933)">DEX warrior</text>
+        <text x="-54.13" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-52 892.26 -57.944)">magelet</text>
+        <text x="-70.63" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-60 808.342 -7.47)">LUKless dit</text>
+        <text x="-73.69" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-67 752.514 26.141)">permapirate</text>
+        <text x="-74.3" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-75 697.343 59.35)">permarogue</text>
+        <text x="-71.23" y="2.81" style="fill:#1f8040;fill-opacity:1" transform="rotate(-82 658.628 82.225)">permarcher</text>
+        <text x="15" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(90 -106.41 618.41)">permamagician</text>
+        <text x="15" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(82 -146.628 671.214)">permawarrior</text>
+        <text x="15" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(75 -221.253 772.263)">begunner</text>
+        <text x="15" y="2.81" style="fill:#1f8040;fill-opacity:1" transform="rotate(68 -260.21 834.639)">bowginner</text>
+        <text x="15" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(60 -326.608 929.319)">clawginner</text>
+        <text x="15" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(53 -400.957 1047.03)">claw-puncher</text>
+        <text x="15" y="2.81" style="fill:#1f8040;fill-opacity:1" transform="rotate(45 -459.803 1094.733)">bow-whacker</text>
+        <text x="15" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(38 -655.05 1463.521)">pistol-whipper</text>
+        <text x="15" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(30 -871.743 1803.763)">bombadier</text>
+        <text x="15" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(22 -1215.474 2269.624)">summoner</text>
+        <text x="15" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(15 -1775.064 2800.35)">blood dit</text>
+        <text x="15" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(8 -3464.973 4803.664)">HP warrior</text>
+      </g>
+    </g>
+  </g>
+</svg>
