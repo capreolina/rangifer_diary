@@ -1,0 +1,63 @@
+(
+    (
+        (
+            (clawginner:1, bowginner:1, begunner:1.5):9,
+            (
+                (
+                    (STR_mage:0.5, DEX_mage:5.5):0.5,
+                    (gish:1, gishlet:5):0.5
+                ):1,
+                (
+                    brigand:0.5,
+                    LUKless_sin:1,
+                    (grim_reaper:0.5, carpenter:0.5):1
+                ):2.5,
+                (woods[wo]man:1, swashbuckler:4):2
+            ):1.5,
+            (
+                (LUKginner:1, DEXginner:3, wandginner:4):5,
+                STRginner:0.5
+            ):0.5
+        ):0.5,
+        (
+            (
+                hybridlander:1.5,
+                (STRlander:0.5, DEXlander:1.5):0.5,
+                (magelander:1, LUKlander:2):3.5
+            ):0.5,
+            camper:3
+        ):1
+    ):1,
+    (HP_warrior:1, blood_dit:2.5):4.5,
+    (
+        (
+            (
+                (dagger_warrior:0.5, dagger_sin:5.5):0.5,
+                wand_warrior:3
+            ):0.5,
+            armed_brawler:6,
+            (bullet_bucc:1, punch_slinger:1):7.5
+        ):0.5,
+        pugilist:6.5
+    ):5,
+    (
+        (
+            (DEX_warrior:1, DEX_brawler:3):0.5,
+            (LUK_warrior:1, LUK_bucc:6):1.5
+        ):0.5,
+        LUKless_dit:4,
+        magelet:4
+    ):5,
+    (
+        (bow-whacker:2.5, claw-puncher:6.5):0.5,
+        pistol-whipper:9
+    ):5,
+    (
+        permawarrior:1,
+        permamagician:1,
+        permarcher:1,
+        permarogue:1,
+        permapirate:1
+    ):8,
+    (summoner:1, bombadier:3):11
+);

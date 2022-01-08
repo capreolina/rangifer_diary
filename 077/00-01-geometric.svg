@@ -1,0 +1,141 @@
+<svg class="toyplot-canvas-Canvas" xmlns="http://www.w3.org/2000/svg" width="1024" height="512" style="background-color:transparent;border-color:#292724;border-style:none;border-width:1;fill:#292724;fill-opacity:1;font-family:Helvetica;font-size:12px;opacity:1;stroke:#292724;stroke-opacity:1;stroke-width:1">
+  <g class="toyplot-coordinates-Cartesian">
+    <clipPath id="a">
+      <path d="M30 30h964v452H30z"/>
+    </clipPath>
+    <g class="toytree-mark-Toytree" clip-path="url(#a)">
+      <path d="m740.5 55.8 211.7 96.7M740.5 55.8l173.4 236.3M740.5 55.8l130.3 107.4M740.5 55.8l49 171.9m-49-171.9-37.1 107.4m37.1-107.4L590.9 163.2M740.5 55.8 363 77.3m507.8 85.9L856.5 174m-153.1-10.8L665.1 174m-74.2-10.8L564.6 174M363 77.3l94.8 21.5M363 77.3l-94.8 10.8M665.1 174l19.1 10.7M665.1 174 646 206.2M564.6 174l4.8 161m-4.8-161-38.2 10.7m-68.6-85.9-25.5 10.7M268.2 88.1l81.1 193.3M268.2 88.1l23.7 10.7m-23.7-10.7-104.9 32.2m363.1 64.4L512 195.4m-79.7-85.9 3.1 10.8m-3.1-10.8-35.1 75.2M291.9 98.8l-19.1 107.4m-109.5-85.9 61.6 42.9m-61.6-42.9 4.2 21.4m-4.2-21.4L97.4 174m70.1-32.3 19.2 10.8m-19.2-10.8-19.1 10.8m-51 21.5-25.6 21.4m880.4-42.9 9.5 21.5m-9.5-21.5-9.6 53.7m-28.7 85.9 9.6 21.5m-9.6-21.5-9.6 64.4m-33.5-193.3 14.4 193.3M856.5 174l9.5 53.7m-9.5-53.7-9.6 139.6m-57.4-85.9 38.3 21.4m-38.3-21.4 19.1 21.4m-19.1-21.4v21.4m0-21.4-19.1 21.4m19.1-21.4-38.3 21.4m-47.8-85.9 28.7 85.9m-28.7-85.9 9.5 85.9m-28.7-64.4 9.6 21.5m-9.6-21.5-9.5 64.4M646 206.2l9.5 21.5m-9.5-21.5L636.4 335m-45.5-171.8 26.4 139.6M564.6 174l33.5 128.8M569.4 335l9.6 21.5m-9.6-21.5-9.6 21.5m-33.4-171.8 14.3 64.4M512 195.4l9.6 10.8m-9.6-10.8-9.6 118.2M457.8 98.8l25.5 64.4m-51-53.7 31.9 32.2m-28.8-21.4L445 131m-9.6-10.7-9.5 32.2m-28.7 32.2 9.5 21.5m-9.5-21.5-9.6 43m-38.3 53.7 19.2 21.4m-19.2-21.4v21.4m0-21.4-19.1 32.2M291.9 98.8l19.2 10.7m-38.3 96.7 19.1 21.5m-19.1-21.5v64.4m0-64.4-19.2 85.9m-28.7-128.9 9.6 21.5m-9.6-21.5-9.5 85.9m-28.7-96.6 9.5 10.7m-9.5-10.7-9.6 118.1m-28.7-118.1L158 174m-9.6-21.5-9.6 107.4M97.4 174l22.3 10.7M97.4 174l3.1 21.4m-28.7 0 9.6 10.8m-9.6-10.8-9.5 10.8" class="toytree-Edges" style="fill:none;stroke:#262626;stroke-linecap:round;stroke-opacity:1;stroke-width:2"/>
+      <g class="toytree-Nodes" style="fill:#66c2a5;fill-opacity:1;stroke:#262626;stroke-opacity:1;stroke-width:1.5">
+        <circle r="4" fill="#304860" transform="translate(62.265 206.18)"/>
+        <circle r="4" fill="#304860" transform="translate(81.403 206.18)"/>
+        <circle r="4" fill="#304860" transform="translate(100.541 195.441)"/>
+        <circle r="4" fill="#304860" transform="translate(119.678 184.703)"/>
+        <circle r="4" fill="#304860" transform="translate(138.816 259.873)"/>
+        <circle r="4" fill="#304860" transform="translate(157.954 173.964)"/>
+        <circle r="4" fill="#304860" transform="translate(177.091 270.612)"/>
+        <circle r="4" fill="#304860" transform="translate(196.229 163.225)"/>
+        <circle r="4" fill="#304860" transform="translate(215.367 249.135)"/>
+        <circle r="4" fill="#304860" transform="translate(234.504 184.703)"/>
+        <circle r="4" fill="#304860" transform="translate(253.642 292.089)"/>
+        <circle r="4" fill="#304860" transform="translate(272.78 270.612)"/>
+        <circle r="4" fill="#304860" transform="translate(291.917 227.657)"/>
+        <circle r="4" fill="#304860" transform="translate(311.055 109.532)"/>
+        <circle r="4" fill="#304860" transform="translate(330.192 313.567)"/>
+        <circle r="4" fill="#304860" transform="translate(349.33 302.828)"/>
+        <circle r="4" fill="#304860" transform="translate(368.468 302.828)"/>
+        <circle r="4" fill="#304860" transform="translate(387.605 227.657)"/>
+        <circle r="4" fill="#304860" transform="translate(406.743 206.18)"/>
+        <circle r="4" fill="#304860" transform="translate(425.881 152.487)"/>
+        <circle r="4" fill="#304860" transform="translate(445.018 131.009)"/>
+        <circle r="4" fill="#304860" transform="translate(464.156 141.748)"/>
+        <circle r="4" fill="#304860" transform="translate(483.294 163.225)"/>
+        <circle r="4" fill="#304860" transform="translate(502.431 313.567)"/>
+        <circle r="4" fill="#304860" transform="translate(521.569 206.18)"/>
+        <circle r="4" fill="#304860" transform="translate(540.706 249.135)"/>
+        <circle r="4" fill="#304860" transform="translate(559.844 356.522)"/>
+        <circle r="4" fill="#304860" transform="translate(578.982 356.522)"/>
+        <circle r="4" fill="#304860" transform="translate(598.119 302.828)"/>
+        <circle r="4" fill="#304860" transform="translate(617.257 302.828)"/>
+        <circle r="4" fill="#304860" transform="translate(636.395 335.044)"/>
+        <circle r="4" fill="#304860" transform="translate(655.532 227.657)"/>
+        <circle r="4" fill="#304860" transform="translate(674.67 249.135)"/>
+        <circle r="4" fill="#304860" transform="translate(693.808 206.18)"/>
+        <circle r="4" fill="#304860" transform="translate(712.945 249.135)"/>
+        <circle r="4" fill="#304860" transform="translate(732.083 249.135)"/>
+        <circle r="4" fill="#304860" transform="translate(751.22 249.135)"/>
+        <circle r="4" fill="#304860" transform="translate(770.358 249.135)"/>
+        <circle r="4" fill="#304860" transform="translate(789.496 249.135)"/>
+        <circle r="4" fill="#304860" transform="translate(808.633 249.135)"/>
+        <circle r="4" fill="#304860" transform="translate(827.771 249.135)"/>
+        <circle r="4" fill="#304860" transform="translate(846.909 313.567)"/>
+        <circle r="4" fill="#304860" transform="translate(866.046 227.657)"/>
+        <circle r="4" fill="#304860" transform="translate(885.184 356.522)"/>
+        <circle r="4" fill="#304860" transform="translate(904.322 356.522)"/>
+        <circle r="4" fill="#304860" transform="translate(923.459 313.567)"/>
+        <circle r="4" fill="#304860" transform="translate(942.597 206.18)"/>
+        <circle r="4" fill="#304860" transform="translate(961.735 173.964)"/>
+        <circle r="4" fill="#101820" transform="translate(71.834 195.441)"/>
+        <circle r="4" fill="#101820" transform="translate(148.385 152.487)"/>
+        <circle r="4" fill="#101820" transform="translate(186.66 152.487)"/>
+        <circle r="4" fill="#101820" transform="translate(97.351 173.964)"/>
+        <circle r="4" fill="#101820" transform="translate(167.523 141.748)"/>
+        <circle r="4" fill="#101820" transform="translate(224.935 163.225)"/>
+        <circle r="4" fill="#101820" transform="translate(272.78 206.18)"/>
+        <circle r="4" fill="#101820" transform="translate(397.174 184.703)"/>
+        <circle r="4" fill="#101820" transform="translate(435.449 120.271)"/>
+        <circle r="4" fill="#101820" transform="translate(512 195.441)"/>
+        <circle r="4" fill="#101820" transform="translate(163.27 120.271)"/>
+        <circle r="4" fill="#101820" transform="translate(291.917 98.793)"/>
+        <circle r="4" fill="#101820" transform="translate(349.33 281.351)"/>
+        <circle r="4" fill="#101820" transform="translate(432.26 109.532)"/>
+        <circle r="4" fill="#101820" transform="translate(526.353 184.703)"/>
+        <circle r="4" fill="#101820" transform="translate(569.413 335.044)"/>
+        <circle r="4" fill="#101820" transform="translate(645.963 206.18)"/>
+        <circle r="4" fill="#101820" transform="translate(684.239 184.703)"/>
+        <circle r="4" fill="#101820" transform="translate(268.172 88.055)"/>
+        <circle r="4" fill="#101820" transform="translate(457.777 98.793)"/>
+        <circle r="4" fill="#101820" transform="translate(564.629 173.964)"/>
+        <circle r="4" fill="#101820" transform="translate(665.101 173.964)"/>
+        <circle r="4" fill="#101820" transform="translate(856.477 173.964)"/>
+        <circle r="4" fill="#101820" transform="translate(362.974 77.316)"/>
+        <circle r="4" fill="#101820" transform="translate(590.943 163.225)"/>
+        <circle r="4" fill="#101820" transform="translate(703.376 163.225)"/>
+        <circle r="4" fill="#101820" transform="translate(789.496 227.657)"/>
+        <circle r="4" fill="#101820" transform="translate(870.831 163.225)"/>
+        <circle r="4" fill="#101820" transform="translate(913.89 292.089)"/>
+        <circle r="4" fill="#101820" transform="translate(952.166 152.487)"/>
+        <circle r="4" fill="#101820" transform="translate(740.525 55.839)"/>
+      </g>
+      <g class="toytree-TipLabels" style="fill:#262626;fill-opacity:1;font-family:helvetica;font-size:11px;font-weight:400;stroke:none;white-space:pre">
+        <text x="-61.46" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-90 134.225 71.955)">carpenter</text>
+        <text x="-71.23" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-90 143.79 62.39)">grim reaper</text>
+        <text x="-73.07" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-90 147.99 47.45)">LUKless sin</text>
+        <text x="-51.68" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-90 152.19 32.51)">brigand</text>
+        <text x="-46.79" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-90 199.345 60.525)">gishlet</text>
+        <text x="-35.17" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-90 165.955 8.005)">gish</text>
+        <text x="-68.19" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-90 223.85 46.76)">DEX mage</text>
+        <text x="-67.57" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-90 179.73 -16.5)">STR mage</text>
+        <text x="-81.63" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 232.25 16.88)">swashbuckler</text>
+        <text x="-89.57" y="2.81" style="fill:#1f8040;fill-opacity:1" transform="rotate(-90 209.6 -24.9)">woods(wo)man</text>
+        <text x="-71.86" y="2.81" style="fill:#080808;fill-opacity:1" transform="rotate(-90 272.865 19.225)">wandginner</text>
+        <text x="-68.19" y="2.81" style="fill:#080808;fill-opacity:1" transform="rotate(-90 271.695 -1.085)">DEXginner</text>
+        <text x="-66.96" y="2.81" style="fill:#080808;fill-opacity:1" transform="rotate(-90 259.79 -32.13)">LUKginner</text>
+        <text x="-67.57" y="2.81" style="fill:#080808;fill-opacity:1" transform="rotate(-90 210.29 -100.76)">STRginner</text>
+        <text x="-61.47" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 321.88 -8.31)">begunner</text>
+        <text x="-65.74" y="2.81" style="fill:#1f8040;fill-opacity:1" transform="rotate(-90 326.08 -23.25)">bowginner</text>
+        <text x="-67.57" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-90 335.65 -32.82)">clawginner</text>
+        <text x="-66.96" y="2.81" style="fill:#383838;fill-opacity:1" transform="rotate(-90 307.635 -79.975)">LUKlander</text>
+        <text x="-73.08" y="2.81" style="fill:#383838;fill-opacity:1" transform="rotate(-90 306.46 -100.28)">magelander</text>
+        <text x="-68.19" y="2.81" style="fill:#383838;fill-opacity:1" transform="rotate(-90 289.185 -136.695)">DEXlander</text>
+        <text x="-67.57" y="2.81" style="fill:#383838;fill-opacity:1" transform="rotate(-90 288.015 -157.005)">STRlander</text>
+        <text x="-75.52" y="2.81" style="fill:#383838;fill-opacity:1" transform="rotate(-90 302.955 -161.205)">hybridlander</text>
+        <text x="-51.67" y="2.81" style="fill:#686868;fill-opacity:1" transform="rotate(-90 323.26 -160.03)">camper</text>
+        <text x="-66.36" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-90 408 -94.43)">dagger sin</text>
+        <text x="-85.91" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(-90 363.875 -157.695)">dagger warrior</text>
+        <text x="-77.95" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(-90 394.92 -145.79)">wand warrior</text>
+        <text x="-80.42" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 458.18 -101.66)">punch slinger</text>
+        <text x="-67.58" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 467.75 -111.23)">bullet bucc</text>
+        <text x="-85.29" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 450.475 -147.645)">armed brawler</text>
+        <text x="-49.23" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 460.045 -157.215)">pugilist</text>
+        <text x="-62.69" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 485.715 -150.675)">LUK bucc</text>
+        <text x="-73.06" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(-90 441.595 -213.935)">LUK warrior</text>
+        <text x="-76.73" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 461.9 -212.77)">DEX brawler</text>
+        <text x="-74.28" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(-90 449.995 -243.815)">DEX warrior</text>
+        <text x="-54.13" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-90 481.04 -231.91)">magelet</text>
+        <text x="-70.63" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-90 490.605 -241.475)">LUKless dit</text>
+        <text x="-73.69" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 500.175 -251.045)">permapirate</text>
+        <text x="-74.3" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-90 509.745 -260.615)">permarogue</text>
+        <text x="-71.23" y="2.81" style="fill:#1f8040;fill-opacity:1" transform="rotate(-90 519.315 -270.185)">permarcher</text>
+        <text x="-90.19" y="2.81" style="fill:#0d438c;fill-opacity:1" transform="rotate(-90 528.88 -279.75)">permamagician</text>
+        <text x="-79.78" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(-90 538.45 -289.32)">permawarrior</text>
+        <text x="-80.41" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-90 580.24 -266.67)">claw-puncher</text>
+        <text x="-79.79" y="2.81" style="fill:#1f8040;fill-opacity:1" transform="rotate(-90 546.855 -319.195)">bow-whacker</text>
+        <text x="-82.85" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 620.85 -264.33)">pistol-whipper</text>
+        <text x="-66.96" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 630.42 -273.9)">bombadier</text>
+        <text x="-66.95" y="2.81" style="fill:#9b59b6;fill-opacity:1" transform="rotate(-90 618.515 -304.945)">summoner</text>
+        <text x="-56.58" y="2.81" style="fill:#905f0a;fill-opacity:1" transform="rotate(-90 574.39 -368.21)">blood dit</text>
+        <text x="-66.94" y="2.81" style="fill:#a8221d;fill-opacity:1" transform="rotate(-90 567.845 -393.885)">HP warrior</text>
+      </g>
+    </g>
+  </g>
+</svg>
