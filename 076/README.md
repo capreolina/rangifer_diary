@@ -265,17 +265,19 @@ Hmmm… Well, it looks like cervine is going to have to do some more investigati
 
 ## Dodging snails, avoiding mushrooms
 
+**NOTE:** A previous version of this essay used the dodge-rate clamping figures from “[Nise’s Formula Compilation](https://forum.maplelegends.com/index.php?threads/nises-formula-compilation.36234/)”. These figures were incorrect, so the calculations that you see here have since been adjusted to use the correct figures.
+
 The highest-ACC monster species on Maple Island is the [Orange Mushroom](https://maplelegends.com/lib/monster?id=1210102). Orange Mushrooms have 42 ACC. The dodge rate (𝑑) against monsters’ physical attacks is:
 
 > 𝑑 = 𝖠𝖵𝖮𝖨𝖣 ÷ (4\.5 ⋅ 𝖠𝖢𝖢)
 
-Well, not quite. The result of this arithmetic gets clamped between two values. For thieves, the result gets clamped to the [interval][interval] \[0\.05, 0\.95\]. For everyone else (including beginners), the result gets clamped to the interval \[0\.20, 0\.98\]. So, the _ultimate_ goal is to achieve a dodge rate of 0\.98 versus Orange Mushrooms.
+Well, not quite. The result of this arithmetic gets clamped between two values. For thieves, the result gets clamped to the [interval][interval] \[0\.05, 0\.95\]. For everyone else (including beginners), the result gets clamped to the interval \[0\.02, 0\.80\]. So, the _ultimate_ goal is to achieve a dodge rate of 0\.80 versus Orange Mushrooms.
 
 As mentioned before, Orange Mushrooms have 42 ACC. So the above formula simplifies to:
 
 > 𝑑 = 𝖠𝖵𝖮𝖨𝖣 ÷ 189
 
-Then, we can set 𝑑 = 0\.98 and solve for 𝖠𝖵𝖮𝖨𝖣. Doing that, we obtain 𝖠𝖵𝖮𝖨𝖣 = 0\.98 ⋅ 189 = 185\.22. Because we only care about beginners, we know that actual AVOID values are always [integer](https://en.wikipedia.org/wiki/Integer) multiples of 0\.25 (in other words, 𝑛 ÷ 4 for some integer 𝑛). So effectively, the ultimate goal is 𝖠𝖵𝖮𝖨𝖣 ≥ 185\.25.
+Then, we can set 𝑑 = 0\.80 and solve for 𝖠𝖵𝖮𝖨𝖣. Doing that, we obtain 𝖠𝖵𝖮𝖨𝖣 = 0\.80 ⋅ 189 = 151\.2. Because we only care about beginners, we know that actual AVOID values are always [integer](https://en.wikipedia.org/wiki/Integer) multiples of 0\.25 (in other words, 𝑛 ÷ 4 for some integer 𝑛). So effectively, the ultimate goal is 𝖠𝖵𝖮𝖨𝖣 ≥ 151\.25.
 
 Naturally, this leads to the question of “what’s the earliest level at which I can achieve this amount of AVOID?”. Unfortunately for us, this is highly situational, as there are other reasons to allocate AP other than improving AVOID (otherwise all islanders would have 4/4/4/𝑥 base stats). And, worse yet, it depends not just on base stats, but also on items and buffs (e\.g. [White Gomushins](https://maplelegends.com/lib/use?id=2040702), the [Dexterity Potions](https://maplelegends.com/lib/use?id=2002000) from [Myo Myo](https://maplelegends.com/lib/cash?id=5450000), etc.). So we’ll look at a simplified case.
 
@@ -287,26 +289,26 @@ The 4 total DEX grants 4 ⋅ 0\.25 = 1 AVOID. At level 1, our islander has 1
 
 …where 𝖫𝖵𝖫 is the character’s level.
 
-Setting 𝖠𝖵𝖮𝖨𝖣 = 185\.25, we get 𝖫𝖵𝖫 = (185\.25 − 5) ÷ 2\.5 = level 72\.1. Rounding towards [positive infinity](https://en.wikipedia.org/wiki/Extended_real_number_line), we get level 73.
+Setting 𝖠𝖵𝖮𝖨𝖣 = 151\.25, we get 𝖫𝖵𝖫 = (151\.25 − 5) ÷ 2\.5 = level 58\.5. Rounding towards [positive infinity](https://en.wikipedia.org/wiki/Extended_real_number_line), we get level 59.
 
-Level 73 is an _extremely_ impressive level for islanders, so for most practical purposes, islanders who want this kind of avoidability will end up simply adding LUK _ad infinitum_.
+Of course, this is a slightly idealised case, so for most practical purposes, islanders who want this kind of avoidability will likely end up adding LUK beyond level 59.
 
 Or, you can just get GM boofs…:
 
 ![ozotoceros on GM boofs](ozotoceros-on-gm-boofs.webp "ozotoceros on GM boofs")
 
-I’ve been asked, on _multiple_ occasions, about AVOID in the context of [islanders](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#islander). So, this is here as something that I can direct people to, so that they can get a basic rundown. To make things a little more complete, here’s a table of every monster species on Maple Island, along with their ACC values, and the associated AVOID thresholds required to maximise the islander’s dodge rate (𝑑 = 0\.98) against them:
+I’ve been asked, on _multiple_ occasions, about AVOID in the context of [islanders](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#islander). So, this is here as something that I can direct people to, so that they can get a basic rundown. To make things a little more complete, here’s a table of every monster species on Maple Island, along with their ACC values, and the associated AVOID thresholds required to maximise the islander’s dodge rate (𝑑 = 0\.80) against them:
 
 | species                                                            | ACC | AVOID threshold |
 | :----------------------------------------------------------------- | --: | --------------: |
-| [Orange Mushroom](https://maplelegends.com/lib/monster?id=1210102) |  42 |         185\.25 |
-| [Pig](https://maplelegends.com/lib/monster?id=1210100)             |  40 |         176\.50 |
-| [Slime](https://maplelegends.com/lib/monster?id=0210100)           |  35 |         154\.50 |
-| [Red Snail](https://maplelegends.com/lib/monster?id=0130101)       |  35 |         154\.50 |
-| [Stump](https://maplelegends.com/lib/monster?id=0130100)           |  30 |         132\.50 |
-| [Shroom](https://maplelegends.com/lib/monster?id=0120100)          |  30 |         132\.50 |
-| [Blue Snail](https://maplelegends.com/lib/monster?id=0100101)      |  20 |          88\.25 |
-| [Snail](https://maplelegends.com/lib/monster?id=0100100)           |  20 |          88\.25 |
+| [Orange Mushroom](https://maplelegends.com/lib/monster?id=1210102) |  42 |         151\.25 |
+| [Pig](https://maplelegends.com/lib/monster?id=1210100)             |  40 |         144\.00 |
+| [Slime](https://maplelegends.com/lib/monster?id=0210100)           |  35 |         126\.00 |
+| [Red Snail](https://maplelegends.com/lib/monster?id=0130101)       |  35 |         126\.00 |
+| [Stump](https://maplelegends.com/lib/monster?id=0130100)           |  30 |         108\.00 |
+| [Shroom](https://maplelegends.com/lib/monster?id=0120100)          |  30 |         108\.00 |
+| [Blue Snail](https://maplelegends.com/lib/monster?id=0100101)      |  20 |          72\.00 |
+| [Snail](https://maplelegends.com/lib/monster?id=0100100)           |  20 |          72\.00 |
 
 [interval]: https://en.wikipedia.org/wiki/Interval_(mathematics)
 

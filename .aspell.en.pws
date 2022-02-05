@@ -1,4 +1,4 @@
-personal_ws-1.1 en 1284 UTF-8
+personal_ws-1.1 en 1354 UTF-8
 ACC
 AFK
 AFKed
@@ -12,6 +12,7 @@ APRs
 APless
 AVOID
 Abrahamic
+Aff
 Alishar
 Aljamiado
 Alnath
@@ -53,6 +54,7 @@ CBD
 CBs
 CLI
 CMS
+CSPRNG
 CSV
 CWK
 CWKPQ
@@ -63,6 +65,7 @@ Cervus
 Chaac
 Chaac's
 Chichén
+Ching
 Chippage
 Cho
 Cho's
@@ -113,6 +116,7 @@ Dama
 DarkCookie
 DarkCookie's
 Delli
+Denys
 Destonen
 DexDagger
 Dexual
@@ -168,6 +172,8 @@ Franky
 Frod
 Frostprey
 Ful
+Fux
+Fux's
 GDK
 GFD
 GMS
@@ -192,6 +198,7 @@ Goby
 Golem's
 Gomushin
 Gomushins
+Gradus
 Grays
 GreenMidori
 Griffey
@@ -235,6 +242,7 @@ INTless
 IRL
 ITIS
 IUCN
+Iannis
 IceGrinder
 Ichigatsu
 Inkscape
@@ -381,6 +389,8 @@ Muirhat
 Muirhat's
 Mummydog
 Murus
+MuseScore
+MuseScore's
 Musha
 Mushmom
 Mushmoms
@@ -430,6 +440,7 @@ OresPlz
 PDD
 PKB
 PKB's
+PMF
 PPQ
 PPQ'd
 PPQs
@@ -445,6 +456,7 @@ Papu
 Papu's
 Papulatus
 Papulatus's
+Parnassum
 PartyQuest
 Parwen
 Parwen's
@@ -456,6 +468,7 @@ Permanovice
 Permanovice's
 Phylia's
 Pianus
+Picardy
 Plow
 Qubert
 Qur'an
@@ -466,6 +479,7 @@ RNG
 RON's
 RWG
 Rafflesia
+Rahn
 Rapskal
 Rav
 Ravana
@@ -516,6 +530,7 @@ Sharen
 Sharenian
 Shifter
 Shinobi
+Shostakovich
 Shroom
 Shulynch
 ShurikenRonan
@@ -530,6 +545,7 @@ Snel
 SolidState
 Sommer
 Southperry
+Starman
 Stonetooth
 Subcortical
 Suboptimal
@@ -597,7 +613,11 @@ Zakum's
 Zaqqum
 Zenos
 aaaand
+abelian
 acyclic
+additively
+aeolian
+affine
 affricate
 aftermodifier
 aggro
@@ -613,6 +633,9 @@ alcaster
 alcaster's
 alces
 alces's
+aleatoric
+ambiti
+ambitus
 ammoless
 anadrome
 angy
@@ -630,14 +653,19 @@ archeroid
 archgish
 archmage
 archmagelet
+ary
 atemporality
+atm
 attackattack
+automorphism
+automorphisms
 autopot
 avengement
 avoidability
 backends
 badass
 banan
+barftastic
 beginneroid
 beginneroids
 begunner
@@ -650,6 +678,7 @@ besinners
 bezoarticus
 bfuries
 bfury
+bijection
 birdy
 bishlet
 bishlets
@@ -700,9 +729,11 @@ clocktower
 cnvpstdf
 colourimetric
 completionism
+compositional
 cooldown
 coppersan
 coppersan's
+coprime
 cornians
 counterintuitively
 cozy
@@ -724,10 +755,12 @@ das
 datafruits
 de
 debuff
+decrementing
 definitionally
 dendrograms
 dep
 deserialise
+dihedral
 dino
 discontiguous
 disjunction
@@ -735,6 +768,7 @@ dit
 dit's
 dits
 ditsin
+dodecaphonic
 doi
 doiob
 doozy
@@ -747,10 +781,13 @@ duku
 dukus
 duoed
 duoing
+durations
 eldii
 elementless
 em
 encodings
+endomorphism
+endomorphisms
 epm
 equippable
 erm
@@ -769,6 +806,7 @@ fierry
 fishies
 fm
 formalisations
+fortiori
 framerate
 franken
 frontend
@@ -791,6 +829,7 @@ glowy
 glyphs
 golem
 golems
+gon
 grats
 gratz
 grinded
@@ -809,6 +848,7 @@ heh
 hehe
 hidey
 hmmm
+hoc
 hoggo
 hoggos
 homies
@@ -821,6 +861,7 @@ hydropotina
 hydropotina's
 hyperedge
 hyperedges
+hyperfactorial
 hypergraph
 hypergraphing
 hypergraphs
@@ -831,6 +872,7 @@ iff
 impressionistically
 incentivises
 incomparability
+incrementing
 infinitum
 ing
 inlanders
@@ -840,8 +882,12 @@ instakiller
 instakilling
 instakills
 intslinger
+invertibility
+invertible
+involutions
 ish
 islanding
+isomorphisms
 itty
 iunno
 jerkass
@@ -884,6 +930,7 @@ lil
 liu
 lm
 lmao
+lmfao
 locative
 lol
 lookin
@@ -909,6 +956,7 @@ lxxv
 lxxvi
 lxxvii
 lxxviii
+lxxx
 macrolanguage
 mae
 maebee
@@ -938,6 +986,7 @@ mithril
 moar
 moly
 monke
+monoid
 monotypic
 montrecer
 montrecers
@@ -946,6 +995,7 @@ moreso
 muahahaha
 multiclient
 multiedges
+musipedia
 mutae
 nametag
 nametagged
@@ -964,6 +1014,7 @@ nitty
 noblesse
 noblesses
 nonlocal
+nonpositive
 nother
 oddie
 oddjobs
@@ -1065,6 +1116,8 @@ priestlets
 primitivenesses
 programmatically
 pseudocode
+pseudorandom
+pseudorandomness
 puppeteering
 pushback
 py
@@ -1090,6 +1143,7 @@ repo
 repot
 respawned
 respawning
+retrogradation
 rimy
 rms
 romanise
@@ -1103,6 +1157,8 @@ sadsadgrinding
 sangatsu
 se
 sed
+semiperfect
+serialist
 sesh
 shad
 shadowban
@@ -1142,6 +1198,8 @@ smegas
 smol
 snowlander
 snowlanders
+softsynth
+spatio
 spearwoman
 spearwomen
 spellcasting
@@ -1152,6 +1210,8 @@ stanceless
 statless
 statted
 steelwoman
+stochastically
+stochasticity
 storyline
 storylines
 stronglander
@@ -1186,20 +1246,28 @@ teleported
 teleporter
 teleporters
 teleslash
+tempi
+tetranacci
 tewoo
 th
 throughclass
 tidbits
 tis
+tonicises
+torsor
 toytree
 toytree's
 tradeable
+transformational
+triadic
 trigram
 trigrams
 trilemma
 trioed
 trioing
 trishaa
+tritone
+tuplets
 tv
 uhm
 ultimates
@@ -1283,3 +1351,5 @@ zhelms
 zkgui
 zombification
 zombified
+æon
+æther

@@ -5,7 +5,9 @@
   "MD026": { "punctuation": ".,:。，；：" },
   "MD029": { "style": "ordered" },
   "MD033": {
-    "allowed_elements": ["details", "summary"]
+    "allowed_elements": ["details", "summary", "sup", "sub"]
   },
-  "MD035": { "style": "---" }
+  "MD035": { "style": "---" },
+  "MD049": false,
+  "MD050": { "style": "asterisk" }
 }
