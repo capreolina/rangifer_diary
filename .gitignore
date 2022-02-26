@@ -1,4 +1,5 @@
 .vscode/
+.idea/
 scrap/
 *.swp
 *.bak
@@ -9,3 +10,7 @@ target/
 
 # Python stuff
 .venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so

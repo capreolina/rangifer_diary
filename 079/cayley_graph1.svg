@@ -1,0 +1,203 @@
+<svg width="380pt" height="436pt" viewBox="0 0 379.94 436.05" xmlns="http://www.w3.org/2000/svg">
+  <g class="graph">
+    <path fill="transparent" stroke="transparent" d="M0 436.05V0h379.94v436.05H0z"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M84.34 206.95c2.66-9.05 13.76-46.84 19.49-66.34"/>
+      <path fill="orange" d="m106.73 130.76-7.14 8.33 5.61-3.56-1.41 4.79.12.04.12.03 1.41-4.79 2.78 6.03-1.49-10.87z"/>
+    </g>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M261.32 220.91c2.31-10.33 13.03-58.35 18.1-81.03"/>
+      <path fill="orange" d="m281.64 129.94-6.57 8.78 5.36-3.93-1.09 4.88.12.03.12.02 1.09-4.88 3.18 5.84-2.21-10.74z"/>
+    </g>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M211.92 205.43c10.7-1.36 60.64-7.74 83.89-10.71"/>
+      <path fill="orange" d="m305.74 193.45-10.49-3.2 5.51 3.71-4.95.63.01.13.02.12 4.96-.63-4.41 4.97 9.35-5.73z"/>
+    </g>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M176.45 301.34c7.83-1.77 39.85-9.01 57.57-13.02"/>
+      <path fill="orange" d="m244 286.07-10.74-2.19 5.84 3.17-4.88 1.1.03.12.03.12 4.88-1.1-3.92 5.37 8.76-6.59z"/>
+    </g>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M226.92 164.02c10.74 3.88 68.42 24.68 79.14 28.55" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M225.55 165.52c2.54 14.96 17.75 104.41 20.11 118.29" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M160.88 200.64c-10.94 1.18-64.47 6.93-75.23 8.08" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M164.89 200.9c12.76 2.92 81.23 18.61 93.95 21.52" class="edge"/>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M164.86 200.66c7.74.87 35.42 3.96 43.06 4.82" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M163.09 202.55c1.54 13.18 9.81 83.94 11.35 97.09" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M164.64 199.36c7.25-4.3 34.71-20.61 50.04-29.72"/>
+      <path fill="orange" d="m223.5 164.4-10.89 1.24 6.53 1.21-4.3 2.55.07.11.06.1 4.3-2.55-2.07 6.31 6.3-8.97z"/>
+    </g>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M162.3 232.68c-11.14-3.37-65.66-19.86-76.62-23.17" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M166.31 233.07c12.57-1.36 80.02-8.62 92.56-9.97" class="edge"/>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M166.41 233.81c8.1 2 37.11 9.17 45.11 11.14" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M164.54 235.27c1.73 13.86 12.02 96.18 13.78 110.22" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M164.44 231.28c.91-12 5.67-74.67 7.7-101.43"/>
+      <path fill="orange" d="m172.91 119.78-5.25 9.63 4.74-4.65-.37 4.98.12.01.12.01.38-4.98 3.99 5.31-3.73-10.31z"/>
+    </g>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M211.89 244.61c-10.52-5.3-67-33.73-77.49-39.01" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M215.57 245.51c11.14.27 65.66 1.59 76.61 1.85" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M212.23 247.01c-9.44 10.82-65.45 75.05-75 86.01" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M215.58 246.17c12.06 4.29 75.51 26.83 101.79 36.16"/>
+      <path fill="orange" d="m327.08 285.78-7.92-7.58 3.25 5.79-4.71-1.67-.04.12-.05.11 4.72 1.68-6.18 2.45 10.93-.9z"/>
+    </g>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M130.61 204.93c-8.05.69-36.86 3.14-44.81 3.82" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M134.63 204.78c10.67.13 62.91.76 73.41.89" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="m131.25 206.28-67.46 70.26" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M134.57 205.37c12.8 4.25 88.4 29.39 117.69 39.13"/>
+      <path fill="orange" d="m261.86 247.69-8.06-7.42 3.36 5.73-4.75-1.58-.03.12-.04.12 4.74 1.57-6.12 2.58 10.9-1.12z"/>
+    </g>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M292.32 246.09c-5.82-4.29-24.2-17.86-29.81-21.99" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M292.35 246.54c-10.97-5.43-69.79-34.56-80.72-39.98" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M292.77 249.16c-9.45 12.36-65.91 86.22-74.67 97.68" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M296.08 247.23c9-.82 46.45-4.24 66.02-6.03"/>
+      <path fill="orange" d="m372.23 240.28-10.37-3.57 5.38 3.9-4.98.45.01.13.01.12 4.98-.45-4.58 4.81 9.55-5.39z"/>
+    </g>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M95.3 314.81c-1.43-13.08-9.88-90.72-11.33-103.96" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M97.46 316.31c10.96-2.07 64.56-12.18 75.34-14.21" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M97.24 317.32c10.81 4.02 68.83 25.57 79.61 29.57" class="edge"/>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M94.08 315.02c-5.46-6.35-24.98-29.08-30.37-35.35" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M97.05 317.8c9.17 6.67 56.72 41.25 77.67 56.48"/>
+      <path fill="orange" d="m183.06 380.35-5.44-9.52 1.47 6.48-4.04-2.94-.07.1-.08.1 4.05 2.94-6.62.6 10.73 2.24z"/>
+    </g>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M262.18 332.77c-.16-13.57-1.11-94.14-1.28-107.89" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M260.38 334.03c-11.39-4.29-72.51-27.32-83.88-31.6" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M260.14 335.03c-11.57 1.78-68.19 10.45-79.57 12.2" class="edge"/>
+    <path fill="none" stroke="green" stroke-width="1.25" d="m260.26 335.3-41.42 12.47" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M263.87 335.77c5.79 3.69 25.46 16.21 37.81 24.08"/>
+      <path fill="orange" d="m310.36 365.37-6.02-9.17 1.87 6.38-4.22-2.68-.07.1-.07.11 4.22 2.68-6.57 1.01 10.86 1.57z"/>
+    </g>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M176.74 346.98c-7.03-2.13-32.18-9.73-39.12-11.83" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M179.96 349.08c7.23 8.13 41.01 46.04 56.73 63.69"/>
+      <path fill="orange" d="m243.41 420.31-3.29-10.46.05 6.65-3.32-3.74-.09.08-.1.09 3.33 3.73-6.59-.82 10.01 4.47z"/>
+    </g>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M129.41 288.58c9.94-10.24 68.94-71.01 79.01-81.38" class="edge"/>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M130 290.54c7.68 1.93 35.16 8.82 42.74 10.72" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M126.1 289.69c-9.59-1.75-52.68-9.61-61.99-11.31" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M129.54 291.05c10.79 7.08 74.89 49.08 85.83 56.25" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M126.91 291.52c-6.39 8.74-39.38 53.85-54.14 74.04"/>
+      <path fill="orange" d="m66.73 373.82 9.54-5.42-6.49 1.46 2.95-4.04-.1-.07-.1-.08-2.95 4.04-.58-6.62-2.27 10.73z"/>
+    </g>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M63.87 279.24c9.56 7.36 60.9 46.86 70.44 54.2" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M61.15 279.52c-6.09 7.54-34.22 42.36-47.87 59.27"/>
+      <path fill="orange" d="m6.97 346.6 9.79-4.95-6.55 1.14 3.14-3.89-.09-.08-.1-.08-3.14 3.89-.26-6.64-2.79 10.61z"/>
+    </g>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M214.95 348c-11.22-1.9-66.14-11.19-77.17-13.06" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M215.74 349.76c-7.2 8.43-44.53 52.12-60.98 71.37"/>
+      <path fill="orange" d="m148.21 428.79 9.92-4.68-6.58.96 3.25-3.8-.09-.08-.1-.08-3.25 3.8-.07-6.65-3.08 10.53z"/>
+    </g>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M134.57 336.24c-6.64 8.54-37.66 48.38-52.1 66.93"/>
+      <path fill="orange" d="m76.31 411.09 9.69-5.12-6.52 1.26 3.07-3.95-.1-.08-.1-.07-3.07 3.94-.38-6.63-2.59 10.65z"/>
+    </g>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M109.33 129.45c14.44 4.23 100.72 29.51 114.11 33.43" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M109.18 128.53c9.61-1.62 52.78-8.93 62.1-10.51" class="edge"/>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M109.03 127.46c5.7-4.56 23.67-18.94 29.15-23.32" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M107.29 126.94c.02-11.94.14-76.03.16-87.94" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M280.19 129.14c-8.64 5.38-44.27 27.57-53.04 33.04" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M280.19 127.79c-13.23-1.25-91.78-8.63-105.18-9.89" class="edge"/>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M284.18 128.5c6.86 1.73 28.51 7.2 35.11 8.87" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M282.16 126.01c.48-12.21 3.09-77.7 3.58-89.88" class="edge"/>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M175.17 118.04c8.04 1.25 36.84 5.7 44.78 6.92" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M173.21 115.91c1.02-12.66 7.1-87.79 8.13-100.61" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M306.31 195.03c-6.79 8.52-35.17 44.16-41.3 51.85" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M309.41 194.35c9.11 6.43 53.33 37.7 62.9 44.46" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M238.85 113.31c-3.23 10.32-18.33 58.45-25.36 80.85"/>
+      <path fill="orange" d="m210.49 203.74 7.29-8.2-5.67 3.46 1.49-4.77-.12-.04-.11-.03-1.5 4.77-2.68-6.08 1.3 10.89z"/>
+    </g>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M238.86 113.58c-2.35 8.56-10.76 39.2-13.07 47.65" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M237.39 111.17c-12.97-1.11-82.6-7.03-95.54-8.13" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M241.49 112c11.31 3.67 66.65 21.62 77.78 25.23" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M239.76 109.38c1.77-12.25 11.29-77.97 13.06-90.18" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M244.9 287.29c-7.44 11.64-51.61 80.72-59.15 92.51" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M247.11 287.03c8.03 9.81 55.66 68.05 63.78 77.99" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M209.61 62.06c1.93 12.52 13.35 86.82 15.3 99.5" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M207.57 59.87c-12.37-2.82-85.78-19.51-98.3-22.36" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M211.23 59.62c10.58-3.61 62.35-21.26 72.76-24.81" class="edge"/>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M210.79 58.84c6.65-6.54 34.06-33.48 40.81-40.12" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M327.18 285.45c-8.91-5.22-52.19-30.57-61.55-36.05" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M330.29 284.85c6.89-7.03 35.29-36.02 42.28-43.15" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M221.84 127.36c-.87 12.54-5.47 78.25-7.41 105.86"/>
+      <path fill="orange" d="m213.73 243.32 5.19-9.66-4.72 4.68.35-4.99-.12-.01-.13-.01-.35 4.99-4.01-5.29 3.79 10.29z"/>
+    </g>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M219.96 124.72c-11.38-3.1-67.03-18.27-78.22-21.32" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M224.06 125.54c12.92 1.64 82.21 10.43 95.09 12.06" class="edge"/>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M222.16 123.33c1.17-13.59 8.13-94.26 9.32-108.03" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M139.63 104.99c-.77 11.19-4.41 63.6-6.07 87.64"/>
+      <path fill="orange" d="m132.86 202.64 5.19-9.67-4.71 4.69.34-4.99-.12-.01-.13-.01-.34 4.99-4.02-5.29 3.79 10.29z"/>
+    </g>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M139.99 100.83c1.3-12.63 8.27-80.41 9.56-93.01" class="edge"/>
+    <g class="edge" stroke="orange" stroke-width="1.25">
+      <path fill="none" d="M320.74 139.76c-2.8 11.33-17.38 70.24-23.7 95.8"/>
+      <path fill="orange" d="m294.59 245.46 6.77-8.63-5.45 3.8 1.2-4.85-.12-.03-.12-.03-1.2 4.85-3.05-5.9 1.97 10.79z"/>
+    </g>
+    <path fill="none" stroke="purple" stroke-width="1.25" d="M321.41 135.88c1.22-12.36 7.76-78.65 8.97-90.97" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M243.05 420.69c-8.78-5.89-48.24-32.37-56.77-38.09" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M246.45 420.49c9.22-7.6 54.07-44.52 63.77-52.5" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M179.66 14.02c-10.24 3.28-60.37 19.29-70.44 22.51" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M183.3 13.8c12.67 2.52 87.83 17.47 100.66 20.02" class="edge"/>
+    <path fill="none" stroke="green" stroke-width="1.25" d="M183.65 13.43c8.25-.02 37.77-.1 45.91-.12M109.27 35.75c6.96-5.15 31.86-23.57 38.72-28.64m139.75 27.45c7.36 1.44 33.71 6.59 40.97 8.01" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M73.6 411.37c-9.01-8.42-57.37-53.58-66.36-61.97" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M76.82 413.15c9.86 2.4 57.8 14.09 68.16 16.62" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M229.63 13.12C218.3 12.08 162.86 7 151.71 5.98" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M233.72 13.93c12.98 3.89 83.16 24.9 95.12 28.49M7.53 348.84c8.58 3.92 46.62 21.27 55.99 25.54" class="edge"/>
+    <path fill="none" stroke="red" stroke-width="1.25" d="M151.55 6c12.55 1.39 87.01 9.63 99.71 11.04" class="edge"/>
+    <path fill="none" stroke="#00f" stroke-width="1.25" d="M145.26 429.1c-10.58-7.14-67.39-45.49-77.95-52.62M328.66 42.3c-10.72-3.55-63.16-20.95-73.71-24.45" class="edge"/>
+    <circle stroke="#000" cx="79.76" cy="-223.12" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="256.88" cy="-209.16" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="205.88" cy="-226.35" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="170.69" cy="-130.31" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="221.19" cy="-268.65" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="158.84" cy="-231.62" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="160.29" cy="-198.77" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="209.58" cy="-186.59" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="128.72" cy="-227.3" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="290.11" cy="-184.64" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="91.5" cy="-115.37" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="258.21" cy="-97.33" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="174.57" cy="-84.52" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="123.99" cy="-142.01" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="58.33" cy="-153.99" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="212.95" cy="-83.71" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="131.84" cy="-97.44" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="103.29" cy="-303.2" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="278.08" cy="-304.09" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="169.06" cy="-314.33" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="303.77" cy="-238.86" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="235.47" cy="-320.71" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="241.97" cy="-146.43" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="205.34" cy="-371.78" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="324.79" cy="-145.66" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="217.99" cy="-306.77" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="259.84" cy="-183.7" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="135.78" cy="-329.19" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="370.14" cy="-191.95" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="317.22" cy="-294.19" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="240.78" cy="-10.19" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="177.49" cy="-418.61" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="180.65" cy="-50.54" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="103.45" cy="-394.95" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="308.07" cy="-65.59" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="281.82" cy="-397.86" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="71.04" cy="-19.33" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="227.65" cy="-418.74" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="1.8" cy="-84" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="145.76" cy="-426.25" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="142.96" cy="-1.8" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="326.58" cy="-389.11" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="61.62" cy="-56.71" r="1.8" class="node" transform="translate(4 432.05)"/>
+    <circle stroke="#000" cx="249.11" cy="-414.81" r="1.8" class="node" transform="translate(4 432.05)"/>
+  </g>
+</svg>

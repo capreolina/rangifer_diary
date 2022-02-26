@@ -1,0 +1,332 @@
+digraph cayley_graph {
+    layout="sfdp";
+    sep="+18";
+    outputorder="edgesfirst";
+    bgcolor="#00000000";
+
+    node [shape="plain",color="#00000000",fontsize=24];
+    edge [arrowhead="vee",style="solid",penwidth=1.5];
+
+    // Generators:
+
+    Rt[label="𝐑ₜ"];
+    Rp[label="𝐑ₚ"];
+    Ip[label="𝐈ₚ"];
+    M5[label="𝐌₅"];
+    T1[label="𝐓¹"];
+    //Ct1[label="𝐂ₜ¹"];
+    //Cp1[label="𝐂ₚ¹"];
+    //S23[label=<𝐒<sub>⅔</sub>>];
+    //S34[label=<𝐒<sub>¾</sub>>];
+    //E2[label="𝐄₂"];
+
+    // Generated:
+
+    I[label="𝓘"];
+
+    R[label="𝐑"];
+
+    RIp[label="𝐑𝐈ₚ"];
+    RtIp[label="𝐑ₜ𝐈ₚ"];
+    RpIp[label="𝐑ₚ𝐈ₚ"];
+
+    RtM5[label="𝐑ₜ𝐌₅"];
+    RpM5[label="𝐑ₚ𝐌₅"];
+    RM5[label="𝐑𝐌₅"];
+    M7[label="𝐌₇"];
+    RtM7[label="𝐑ₜ𝐌₇"];
+    RpM7[label="𝐑ₚ𝐌₇"];
+    RM7[label="𝐑𝐌₇"];
+
+    RtT1[label="𝐑ₜ𝐓¹"];
+    RpT1[label="𝐑ₚ𝐓¹"];
+    RT1[label="𝐑𝐓¹"];
+    IpT1[label="𝐈ₚ𝐓¹"];
+    T1Ip[label="𝐓¹𝐈ₚ"];
+    M5T1[label="𝐌₅𝐓¹"];
+    T1M5[label="𝐓¹𝐌₅"];
+    RIpT1[label="𝐑𝐈ₚ𝐓¹"];
+    RT1Ip[label="𝐑𝐓¹𝐈ₚ"];
+    RtIpT1[label="𝐑ₜ𝐈ₚ𝐓¹"];
+    RtT1Ip[label="𝐑ₜ𝐓¹𝐈ₚ"];
+    RpIpT1[label="𝐑ₚ𝐈ₚ𝐓¹"];
+    RpT1Ip[label="𝐑ₚ𝐓¹𝐈ₚ"];
+    RM5T1[label="𝐑𝐌₅𝐓¹"];
+    RT1M5[label="𝐑𝐓¹𝐌₅"];
+    RtM5T1[label="𝐑ₜ𝐌₅𝐓¹"];
+    RtT1M5[label="𝐑ₜ𝐓¹𝐌₅"];
+    RpM5T1[label="𝐑ₚ𝐌₅𝐓¹"];
+    RpT1M5[label="𝐑ₚ𝐓¹𝐌₅"];
+    RM7T1[label="𝐑𝐌₇𝐓¹"];
+    RT1M7[label="𝐑𝐓¹𝐌₇"];
+    RtM7T1[label="𝐑ₜ𝐌₇𝐓¹"];
+    RtT1M7[label="𝐑ₜ𝐓¹𝐌₇"];
+    RpM7T1[label="𝐑ₚ𝐌₇𝐓¹"];
+    RpT1M7[label="𝐑ₚ𝐓¹𝐌₇"];
+    M7T1[label="𝐌₇𝐓¹"];
+    T1M7[label="𝐓¹𝐌₇"];
+
+    I -> Rt [dir=none,color=red];
+    I -> Rp [dir=none,color=blue];
+    I -> Ip [dir=none,color=green];
+    I -> M5 [dir=none,color=purple];
+    I -> T1 [color=orange];
+
+    //Rt -> I [dir=none,color=red];
+    //Rt -> R [dir=none,color=blue];
+    //Rt -> RtIp [dir=none,color=green];
+    //Rt -> RtM5 [dir=none,color=purple];
+    Rt -> RtT1 [color=orange];
+
+    //Rp -> R [dir=none,color=red];
+    //Rp -> I [dir=none,color=blue];
+    //Rp -> RpIp [dir=none,color=green];
+    //Rp -> RpM5 [dir=none,color=purple];
+    Rp -> RpT1 [color=orange];
+
+    //Ip -> RtIp [dir=none,color=red];
+    //Ip -> RpIp [dir=none,color=blue];
+    //Ip -> I [dir=none,color=green];
+    //Ip -> M7 [dir=none,color=purple];
+    Ip -> IpT1 [color=orange];
+
+    //M5 -> RtM5 [dir=none,color=red];
+    //M5 -> RpM5 [dir=none,color=blue];
+    //M5 -> M7 [dir=none,color=green];
+    //M5 -> I [dir=none,color=purple];
+    M5 -> M5T1 [color=orange];
+
+    //T1 -> RtT1 [dir=none,color=red];
+    //T1 -> RpT1 [dir=none,color=blue];
+    T1 -> IpT1 [dir=none,color=green];
+    T1 -> M5T1 [dir=none,color=purple];
+    //T1 -> T2 [color=orange];
+
+    R -> Rp [dir=none,color=red];
+    R -> Rt [dir=none,color=blue];
+    R -> RIp [dir=none,color=green];
+    R -> RM5 [dir=none,color=purple];
+    R -> RT1 [color=orange];
+
+    RIp -> RpIp [dir=none,color=red];
+    RIp -> RtIp [dir=none,color=blue];
+    //RIp -> R [dir=none,color=green];
+    RIp -> RM7 [dir=none,color=purple];
+    RIp -> RIpT1 [color=orange];
+
+    RtIp -> Ip [dir=none,color=red];
+    //RtIp -> RIp [dir=none,color=blue];
+    RtIp -> Rt [dir=none,color=green];
+    RtIp -> RtM7 [dir=none,color=purple];
+    RtIp -> RtIpT1 [color=orange];
+
+    //RpIp -> RIp [dir=none,color=red];
+    RpIp -> Ip [dir=none,color=blue];
+    RpIp -> Rp [dir=none,color=green];
+    RpIp -> RpM7 [dir=none,color=purple];
+    RpIp -> RpIpT1 [color=orange];
+
+    RtM5 -> M5 [dir=none,color=red];
+    RtM5 -> RM5 [dir=none,color=blue];
+    RtM5 -> RtM7 [dir=none,color=green];
+    RtM5 -> Rt [dir=none,color=purple];
+    RtM5 -> RtM5T1 [color=orange];
+
+    RpM5 -> RM5 [dir=none,color=red];
+    RpM5 -> M5 [dir=none,color=blue];
+    RpM5 -> RpM7 [dir=none,color=green];
+    RpM5 -> Rp [dir=none,color=purple];
+    RpM5 -> RpM5T1 [color=orange];
+
+    //RM5 -> RpM5 [dir=none,color=red];
+    //RM5 -> RtM5 [dir=none,color=blue];
+    RM5 -> RM7 [dir=none,color=green];
+    //RM5 -> R [dir=none,color=purple];
+    RM5 -> RM5T1 [color=orange];
+
+    M7 -> RtM7 [dir=none,color=red];
+    M7 -> RpM7 [dir=none,color=blue];
+    M7 -> M5 [dir=none,color=green];
+    M7 -> Ip [dir=none,color=purple];
+    M7 -> M7T1 [color=orange];
+
+    //RtM7 -> M7 [dir=none,color=red];
+    RtM7 -> RM7 [dir=none,color=blue];
+    //RtM7 -> RtM5 [dir=none,color=green];
+    //RtM7 -> RtIp [dir=none,color=purple];
+    RtM7 -> RtM7T1 [color=orange];
+
+    RpM7 -> RM7 [dir=none,color=red];
+    //RpM7 -> M7 [dir=none,color=blue];
+    //RpM7 -> RpM5 [dir=none,color=green];
+    //RpM7 -> RpIp [dir=none,color=purple];
+    RpM7 -> RpM7T1 [color=orange];
+
+    //RM7 -> RpM7 [dir=none,color=red];
+    //RM7 -> RtM7 [dir=none,color=blue];
+    //RM7 -> RM5 [dir=none,color=green];
+    //RM7 -> RIp [dir=none,color=purple];
+    RM7 -> RM7T1 [color=orange];
+
+    RtT1 -> T1 [dir=none,color=red];
+    RtT1 -> RT1 [dir=none,color=blue];
+    RtT1 -> RtT1Ip [dir=none,color=green];
+    RtT1 -> RtT1M5 [dir=none,color=purple];
+    //RtT1 -> RtT2 [color=orange];
+
+    RpT1 -> RT1 [dir=none,color=red];
+    RpT1 -> T1 [dir=none,color=blue];
+    RpT1 -> RpT1Ip [dir=none,color=green];
+    RpT1 -> RpT1M5 [dir=none,color=purple];
+    //RpT1 -> RpT2 [color=orange];
+
+    //RT1 -> RpT1 [dir=none,color=red];
+    //RT1 -> RtT1 [dir=none,color=blue];
+    RT1 -> RT1Ip [dir=none,color=green];
+    RT1 -> RT1M5 [dir=none,color=purple];
+    //RT1 -> RT2 [color=orange];
+
+    IpT1 -> RtIpT1 [dir=none,color=red];
+    IpT1 -> RpIpT1 [dir=none,color=blue];
+    //IpT1 -> Tm1 [dir=none,color=green];
+    //IpT1 -> M5T7 [dir=none,color=purple];
+    //IpT1 -> IpT2 [color=orange];
+
+    T1Ip -> RtT1Ip [dir=none,color=red];
+    T1Ip -> RpT1Ip [dir=none,color=blue];
+    T1Ip -> T1 [dir=none,color=green];
+    T1Ip -> T1M7 [dir=none,color=purple];
+    T1Ip -> Ip [color=orange];
+
+    M5T1 -> RtM5T1 [dir=none,color=red];
+    M5T1 -> RpM5T1 [dir=none,color=blue];
+    //M5T1 -> M7Tm1 [dir=none,color=green];
+    //M5T1 -> T5 [dir=none,color=purple];
+    //M5T1 -> M5T2 [color=orange];
+
+    T1M5 -> RtT1M5 [dir=none,color=red];
+    T1M5 -> RpT1M5 [dir=none,color=blue];
+    T1M5 -> T1M7 [dir=none,color=green];
+    T1M5 -> T1 [dir=none,color=purple];
+    //T1M5 -> M5T6 [color=orange];
+
+    RIpT1 -> RpIpT1 [dir=none,color=red];
+    RIpT1 -> RtIpT1 [dir=none,color=blue];
+    //RIpT1 -> RTm1 [dir=none,color=green];
+    //RIpT1 -> RM5T7 [dir=none,color=purple];
+    //RIpT1 -> RIpT2 [color=orange];
+
+    RT1Ip -> RpT1Ip [dir=none,color=red];
+    RT1Ip -> RtT1Ip [dir=none,color=blue];
+    //RT1Ip -> RT1 [dir=none,color=green];
+    RT1Ip -> RT1M7 [dir=none,color=purple];
+    RT1Ip -> RIp [color=orange];
+
+    //RtIpT1 -> IpT1 [dir=none,color=red];
+    //RtIpT1 -> RIpT1 [dir=none,color=blue];
+    //RtIpT1 -> RtTm1 [dir=none,color=green];
+    //RtIpT1 -> RtM5T7 [dir=none,color=purple];
+    //RtIpT1 -> RtIpT2 [color=orange];
+
+    //RtT1Ip -> T1Ip [dir=none,color=red];
+    //RtT1Ip -> RT1Ip [dir=none,color=blue];
+    //RtT1Ip -> RtT1 [dir=none,color=green];
+    RtT1Ip -> RtT1M7 [dir=none,color=purple];
+    RtT1Ip -> RtIp [color=orange];
+
+    //RpIpT1 -> RIpT1 [dir=none,color=red];
+    //RpIpT1 -> IpT1 [dir=none,color=blue];
+    //RpIpT1 -> RpTm1 [dir=none,color=green];
+    //RpIpT1 -> RpM5T7 [dir=none,color=purple];
+    //RpIpT1 -> RpIpT2 [color=orange];
+
+    //RpT1Ip -> RT1Ip [dir=none,color=red];
+    //RpT1Ip -> T1Ip [dir=none,color=blue];
+    //RpT1Ip -> RpT1 [dir=none,color=green];
+    RpT1Ip -> RpT1M7 [dir=none,color=purple];
+    RpT1Ip -> RpIp [color=orange];
+
+    RM5T1 -> RpM5T1 [dir=none,color=red];
+    RM5T1 -> RtM5T1 [dir=none,color=blue];
+    //RM5T1 -> RM7Tm1 [dir=none,color=green];
+    //RM5T1 -> RT5 [dir=none,color=purple];
+    //RM5T1 -> RM5T2 [color=orange];
+
+    RT1M5 -> RpT1M5 [dir=none,color=red];
+    RT1M5 -> RtT1M5 [dir=none,color=blue];
+    RT1M5 -> RT1M7 [dir=none,color=green];
+    //RT1M5 -> RT1 [dir=none,color=purple];
+    //RT1M5 -> RM5T6 [color=orange];
+
+    //RtM5T1 -> M5T1 [dir=none,color=red];
+    //RtM5T1 -> RM5T1 [dir=none,color=blue];
+    //RtM5T1 -> RtM7Tm1 [dir=none,color=green];
+    //RtM5T1 -> RtT5 [dir=none,color=purple];
+    //RtM5T1 -> RtM5T2 [color=orange];
+
+    //RtT1M5 -> T1M5 [dir=none,color=red];
+    //RtT1M5 -> RT1M5 [dir=none,color=blue];
+    RtT1M5 -> RtT1M7 [dir=none,color=green];
+    //RtT1M5 -> RtT1 [dir=none,color=purple];
+    //RtT1M5 -> RtM5T6 [color=orange];
+
+    //RpM5T1 -> RM5T1 [dir=none,color=red];
+    //RpM5T1 -> M5T1 [dir=none,color=blue];
+    //RpM5T1 -> RpM7Tm1 [dir=none,color=green];
+    //RpM5T1 -> RpT5 [dir=none,color=purple];
+    //RpM5T1 -> RpM5T2 [color=orange];
+
+    //RpT1M5 -> RT1M5 [dir=none,color=red];
+    //RpT1M5 -> T1M5 [dir=none,color=blue];
+    RpT1M5 -> RpT1M7 [dir=none,color=green];
+    //RpT1M5 -> RpT1 [dir=none,color=purple];
+    //RpT1M5 -> RpM5T6 [color=orange];
+
+    RM7T1 -> RpM7T1 [dir=none,color=red];
+    RM7T1 -> RtM7T1 [dir=none,color=blue];
+    //RM7T1 -> RM5Tm1 [dir=none,color=green];
+    //RM7T1 -> RIpT5 [dir=none,color=purple];
+    //RM7T1 -> RM7T2 [color=orange];
+
+    RT1M7 -> RpT1M7 [dir=none,color=red];
+    RT1M7 -> RtT1M7 [dir=none,color=blue];
+    //RT1M7 -> RT1M5 [dir=none,color=green];
+    //RT1M7 -> RT1Ip [dir=none,color=purple];
+    //RT1M7 -> RM7T8 [color=orange];
+
+    RtM7T1 -> M7T1 [dir=none,color=red];
+    //RtM7T1 -> RM7T1 [dir=none,color=blue];
+    //RtM7T1 -> RtM5Tm1 [dir=none,color=green];
+    //RtM7T1 -> RtIpT5 [dir=none,color=purple];
+    //RtM7T1 -> RtM7T2 [color=orange];
+
+    RtT1M7 -> T1M7 [dir=none,color=red];
+    //RtT1M7 -> RT1M7 [dir=none,color=blue];
+    //RtT1M7 -> RtT1M5 [dir=none,color=green];
+    //RtT1M7 -> RtT1Ip [dir=none,color=purple];
+    //RtT1M7 -> RtM7T8 [color=orange];
+
+    //RpM7T1 -> RM7T1 [dir=none,color=red];
+    RpM7T1 -> M7T1 [dir=none,color=blue];
+    //RpM7T1 -> RpM5Tm1 [dir=none,color=green];
+    //RpM7T1 -> RpIpT5 [dir=none,color=purple];
+    //RpM7T1 -> RpM7T2 [color=orange];
+
+    //RpT1M7 -> RT1M7 [dir=none,color=red];
+    RpT1M7 -> T1M7 [dir=none,color=blue];
+    //RpT1M7 -> RpT1M5 [dir=none,color=green];
+    //RpT1M7 -> RpT1Ip [dir=none,color=purple];
+    //RpT1M7 -> RpM7T8 [color=orange];
+
+    //M7T1 -> RtM7T1 [dir=none,color=red];
+    //M7T1 -> RpM7T1 [dir=none,color=blue];
+    //M7T1 -> M5Tm1 [dir=none,color=green];
+    //M7T1 -> IpT5 [dir=none,color=purple];
+    //M7T1 -> M7T2 [color=orange];
+
+    //T1M7 -> RtT1M7 [dir=none,color=red];
+    //T1M7 -> RpT1M7 [dir=none,color=blue];
+    //T1M7 -> T1M5 [dir=none,color=green];
+    //T1M7 -> T1Ip [dir=none,color=purple];
+    //T1M7 -> M7T8 [color=orange];
+}

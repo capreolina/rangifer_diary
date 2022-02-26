@@ -1,0 +1,26 @@
+[package]
+name = "rangifer_diary_079"
+version = "0.0.0"
+edition = "2021"
+authors = ["deer <capreolina@protonmail.ch>"]
+description = "Additional material for rangifer’s diary: pt. lxxx"
+homepage = "https://codeberg.org/deer/rangifer_diary"
+repository = "https://codeberg.org/deer/rangifer_diary"
+license = "Apache-2.0 OR MIT"
+keywords = ["chacha", "csprng", "aleatory", "stochastic", "indeterminate"]
+publish = false
+
+[dependencies]
+rand = { version = "0.8.4", default-features = false, features = ["alloc"] }
+rand_chacha = { version = "0.3.1", default-features = false }
+
+[profile.release]
+opt-level = 3
+debug = false
+rpath = false
+lto = "fat"
+debug-assertions = false
+codegen-units = 1
+panic = "abort"
+incremental = false
+overflow-checks = false
