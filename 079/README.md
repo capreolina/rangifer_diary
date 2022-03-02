@@ -2,7 +2,869 @@
 
 Welcome to the 80th entry of rangifer’s diary!! Like the previous entry, this is a special entry, albeit for different reasons…
 
-Hopefully this is the **biggest entry of rangifer’s diary ever**, because this took me [approximately](https://en.wikipedia.org/wiki/Exaggeration) one [æon](https://en.wikipedia.org/wiki/Aeon) to complete from start to finish!!!
+This is… the **biggest entry of rangifer’s diary ever**, and this took me [approximately](https://en.wikipedia.org/wiki/Exaggeration) one [æon](https://en.wikipedia.org/wiki/Aeon) to complete from start to finish!!!
+
+## Getting cervid a new helm
+
+My pure [STR bishop](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#str-mage) **cervid** has been using the same 13 STR, 31 DEX [zhelm](https://maplelegends.com/lib/equip?id=1002357) since… well… she was about level ≈55. Now, 31 DEX is pretty respectable, and the main reason that I’ve been using the same zhelm for so long is the rather… personal story behind it. That being said, 13 STR is the worst possible STR (discounting the possibility of [Chaos Scroll](https://maplelegends.com/lib/use?id=2049100)ing), so I’ve been wanting a replacement for a while now. The choice is obvious: a [Scarlion Hat](https://maplelegends.com/lib/equip?id=1003026)! Trouble is, I gotta do the Scarga prequests first.
+
+Luckily for me, I already had most of the ETC items necessary for the various quests in this questline. But I still had to do all of the killing, so I headed to the Fantasy Theme Park to whack some [Vikerola](https://maplelegends.com/lib/monster?id=9420539)s:
+
+![cervid vs. Vikerolas](cervid-scarga-preqs-vikerolas.webp "cervid vs. Vikerolas")
+
+…And some ([Doom](https://maplelegends.com/lib/skill?id=2311005)’d) [Booper Scarlion](https://maplelegends.com/lib/monster?id=9420538)s:
+
+![cervid vs. Booper Scarlions](cervid-scarga-preqs-booper-scarlions.webp "cervid vs. Booper Scarlions")
+
+…Some [Gallopera](https://maplelegends.com/lib/monster?id=9420540)s (better known as “Gallos”; not to be confused with the [Latin](https://en.wikipedia.org/wiki/Latin)/[Romance](https://en.wikipedia.org/wiki/Romance_languages) term meaning “[rooster](https://en.wiktionary.org/wiki/gallo#Latin)”):
+
+![cervid vs. Galloperas](cervid-scarga-preqs-galloperas.webp "cervid vs. Galloperas")
+
+And after all of that whacking — quite a bit of whacking, I must say! — it was time to finish things by recovering [those little thingumabobs](https://maplelegends.com/lib/etc?id=4000471) riding on the backs of the [Rodeo](https://maplelegends.com/lib/monster?id=9420533)s:
+
+![cervid vs. Rodeos](cervid-scarga-preqs-rodeos.webp "cervid vs. Rodeos")
+
+Thankfully, Rodeos are not quite as tough as the other monsters that I’d been fighting, so this didn’t take too long. Plus, [the Rodeo map](https://maplelegends.com/lib/map?id=550000300) isn’t part of the Fantasy Theme Park region, so I didn’t have to put my graphics settings all the way to the minimum \>.\<
+
+Just after I had finished up the prequests, I saw a [smega](https://maplelegends.com/lib/cash?id=5072000) from **MuscleUncle** (**[\*][glob]Uncle**) announcing the sale of some Scarlion Hats, so I jumped on the opportunity:
+
+![u bs sure scar helm?](u-sure-scar-helm.webp "u bs sure scar helm?")
+
+Ah, yeah. So, no, I did _not_ get Scarlion Hats and [Targa Hats](https://maplelegends.com/lib/equip?id=1003023) mixed up. The more STR/DEX, the merrier…
+
+I was fortunate enough to come away from this Scarga run with a perfect (i\.e. 19/17/x/y main stats) Scarlion Hat (STR). My luck with the [helm DEX 60%s](https://maplelegends.com/lib/use?id=2040029) (which, I might add, are a bit pricey…) was a bit mixed at first, and eventually it got to the point where I was at 19 STR, 29 DEX, and 1 slot. I just needed to pass the last slot to make this new helm have the same DEX as my old one (and 6 extra STR, of course), but I wasn’t sure if I had the courage to throw a [70%](https://maplelegends.com/lib/use?id=2040028) at it. I vented about my predicament to **Taima** (**Boymoder**, **Hanyou**, **Nyanners**), and eventually decided to channel my inner not-a-coward and throw a damn 70% at it:
+
+![cervid’s new helm](cervid-s-new-helm.webp "cervid’s new helm")
+
+Yay!! Getting stronker!!!
+
+[glob]: https://en.wikipedia.org/wiki/Glob_(programming)
+
+## Visiting Neo Tokyo for the first time
+
+For those not already familiar, Neo [Tokyo](https://en.wikipedia.org/wiki/Tokyo) is the collective name for a collection of maps found in the far future of [Zipangu](https://en.wikipedia.org/wiki/Japan). The way that the maps are organised is a tad bizarre, and my understanding is that the GMS (Global MapleStory) version of this region went by a different name: [Neo City](https://bbb.hidden-street.net/map/ossyria/neo-city). In fact, Neo City was apparently part of Ossyria\*, divorced from Zipangu entirely. Instead of entering Neo City through the [Mushroom Shrine](https://maplelegends.com/lib/map?id=800000000), Neo City was entered via [Leafre](https://maplelegends.com/lib/map?id=240010900).
+
+In this version (MapleLegends), you can enter Neo Tokyo by completing a quest given by [Asia](https://maplelegends.com/lib/npc?id=9120025) (who can be found tucked away in [Kamuna](https://maplelegends.com/lib/map?id=802000101)), who weaves an _extremely_ long-winded and largely incoherent tale about… uhm… I don’t know, something about how there’s a book that has the entire history of Zipangu written in it, down to the level of every movement ever made by every person (in Zipangu) in history, except that Asia is somehow not in the book (despite being a resident of Zipangu). And she finds out that because(?) she’s not mentioned in the book, she’s the only one who has the power to change the history written in the book, and to communicate with outsiders. She somehow finds out that Zipangu is going to be ruined by some kind of [robot uprising](https://en.wikipedia.org/wiki/AI_takeover) in the distant future, and she’s the only one who can salvage Zipangu’s future by altering the history written in That One Book™. Of course, altering the contents of That One Book™ is tantamount to [rewriting history](https://tvtropes.org/pmwiki/pmwiki.php/Main/YouCantFightFate), and that means [the usual trouble with time travel](https://tvtropes.org/pmwiki/pmwiki.php/Main/TimeyWimeyBall) and all that mess. So all of this means that you, the adventurer — and outsider who is conveniently not mixed up with all of this destiny book stuff — are tasked with… something. That’s the gist of it. But Asia isn’t convinced that you’re tough enough to handle Neo Tokyo (what with the scary robots and all that), so you have to gather up some ETCs to show that you are indeed capable of fighting big bad guys.
+
+In any case, I’d never been to any version of Neo Tokyo, and I didn’t have those ETCs (certainly not [the oil dropped by the big bad Toad](https://maplelegends.com/lib/etc?id=4000343)). But I was assisted by **Gruzz** (**Furca**) and **Harlez**, plus the [Kacchuu Musha fragment](https://maplelegends.com/lib/etc?id=4000342) that I already had from killing [Kacchuu Musha](https://maplelegends.com/lib/monster?id=9400405)! So, I was able to enter the place we call NT for the first time:
+
+![Entering NT for the first time…](entering-nt-for-the-first-time.webp "Entering NT for the first time…")
+
+What in the got damn hell, indeed. I’ve never fought monsters quite this annoying, nor have I had the distinct displeasure of being “zombified”!? Now all healing (including from potions) is reduced to half of its usual efficacy??? How am I supposed to be [zerk](https://maplelegends.com/lib/skill?id=1320006)ed when I’m randomly zombified half of the time? In any case, I talked to the guy in this first map, and did his quests:
+
+![rusa and Gruzz @ NT](rusa-and-gruzz-at-nt.webp "rusa and Gruzz @ NT")
+
+Naturally, the quests ask for bespoke quest-only ETCs, so you can’t buy your way out of this nonsense. Also, just like Asia’s dialogue, this [Ponicher](https://maplelegends.com/lib/npc?id=9120027) guy _loves_ to blab on, with endless dialogue boxes. The problem is, this map _actually has monsters on it_ (and they fly, too), so I didn’t get to read any of it. Instead, I just furiously mashed my keyboard to get through the dialogue as quickly as possible, while Gruzz tried to protect my now-defenceless (as you can’t use potions while NPC chatting) body. Eventually, and with a lot of help from Gruzz, I collected all of these bespoke ETC items, and I was brought to the next map in this subregion of NT (which is, by the way, “[2100 Odaiba](https://maplelegends.com/lib/map?id=802000200)”, i\.e. [Odaiba](https://en.wikipedia.org/wiki/Odaiba) in the year 2100 [AD](https://en.wikipedia.org/wiki/Anno_Domini)):
+
+![2100 Odaiba](odaiba-2100.webp "2100 Odaiba")
+
+It is fun (if you can call being in the same map as [OverLord](https://maplelegends.com/lib/monster?id=9400254)s and [AfterLord](https://maplelegends.com/lib/monster?id=9400253)s “fun”) to romp around in a [post-apocalyptic](https://en.wikipedia.org/wiki/Apocalyptic_and_post-apocalyptic_fiction) Japanese [artificial island](https://en.wikipedia.org/wiki/Artificial_island), but this is actually where my NT journey ends — just as quickly as it started. At this point, the only way to progress (AFAIK) is to fight a superbig superbad guy ([Bergamot](https://maplelegends.com/lib/monster?id=9400263) or something? I don’t know), so I’m gonna need to come back in like… 30 levels. -\_- NT is, after all, the highest-level content in MapleLegends, I think. Except [Pink Bean](https://maplelegends.com/lib/monster?id=8820001), or something. I’m not really sure.
+
+<details>
+<summary>Footnotes for “Visiting Neo Tokyo for the first time”</summary>
+
+\*See pt. lxviii of this diary, where I talk about what is included in the massive continent that is Ossyria.
+
+</details>
+
+## cervine on the home stretch
+
+My I/L [magelet](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#magelet) **cervine** has been closing in on level 120, so I’ve been paying special attention to grinding and questing on her. Speaking of questing, in past diary entries, I did some of the [Magatia](https://maplelegends.com/lib/map?id=261000000) questline (my favourite questline) on cervine. Welp, it’s time to polish that questline off:
+
+<details>
+<summary>cervine on the home stretch~</summary>
+
+![cervine vs. Homunscullo](cervine-vs-homunscullo.webp "cervine vs. Homunscullo")
+
+That’s right. Take that, [Homunsculler](https://maplelegends.com/lib/monster?id=8110300)! Gimme yr [blood](https://maplelegends.com/lib/etc?id=4031737)!! Once I took the Homunsculler Blood to [Alcaster](https://maplelegends.com/lib/npc?id=2020005), he had me hunt down those other three stones and put them into the Black Magician’s special-sauce trigram.
+
+For the [Magic Stone of Trust](https://maplelegends.com/lib/etc?id=4031741), I needed to hunt down some [D. Roy](https://maplelegends.com/lib/monster?id=7110300):
+
+![cervine vs. D. Roy](cervine-vs-d.roy.webp "cervine vs. D. Roy")
+
+And, lucky for me, I already had a [Magic Stone of Honesty](https://maplelegends.com/lib/etc?id=4031740) from the [Homunculi](https://maplelegends.com/lib/monster?id=7110301) that I’d killed earlier in the questline. So I just had to put the stones into said trigram. Of course, doing so means actually walking to the trigram… through treacherous, unlit jumpquests…
+
+![cervine falling on the way to the Black Magician’s Lab](cervine-falling-on-the-way-to-the-black-magician-s-lab.webp "cervine falling on the way to the Black Magician’s Lab")
+
+This was not the only time that I fell while trying to get to the Black Magician’s Lab -\_-
+
+Okay, there we are: the lab. Just gotta put the stones into the trigram in the correct order…
+
+![cervine completes the trigram](cervine-completes-the-trigram.webp "cervine completes the trigram")
+
+And huzzah! Magatia is saved!! Again!!! I don’t know why I keep having to save Magatia over and over again, but it’s pretty fun, so I won’t complain.
+
+Anywho, now that I’m done with all the quests that have decent rewards, I guess I’ll head back to [CDs](https://maplelegends.com/lib/map?id=742010203)…
+
+![Welcome to CDs!](welcome-to-cds.webp "Welcome to CDs!")
+
+I did some CD grinding with **Taima** (**Nyanners**, **Hanyou**, **Boymoder**)\*:
+
+![culo de pollo](culo-de-pollo.webp "culo de pollo")
+
+Including an incident in which I got to 99\.99% EXP and waited for Taima to return (so that I could make another dumb “chicken butt” joke), only to look over a little too late, after Taima had already killed a few CDs and unwittingly levelled me up:
+
+![cervine hits level 118~!](cervine-118.webp "cervine hits level 118~!")
+
+And with not only Taima, but also INTlaw **Lvl1Crook** (**Level1Crook**, **xXCrookXx**, **Macer**, **Lanius**, **Sangatsu**, **Ichigatsu**):
+
+![cervine hits level 119~!](cervine-119.webp "cervine hits level 119~!")
+
+Level 119!!! So close…
+
+So, I came back to CDs later on, to grind my way to 99\.98% EXP. Partway through my sadgrinding session, a mysterious man came along, B\>Leech…
+
+![Selling leech for the first time…?](selling-leech-for-the-first-time.webp "Selling leech for the first time…?")
+
+So, yeah, I did in fact sell one (1) hour of CDs leech to a stranger, as a level 119 I/L magelet. It truly is a bizarre world that we live in…
+
+</details>
+
+<details>
+<summary>Footnotes for “cervine on the home stretch”</summary>
+
+\*_¿Adivina qué?_ is a [literal translation](https://en.wikipedia.org/wiki/Literal_translation) into [Spanish](https://en.wikipedia.org/wiki/Spanish_language) of the [English](https://en.wikipedia.org/wiki/English_language) [_guess what?_](https://www.urbandictionary.com/define.php?term=chicken%20butt), so don’t take it too seriously. Also, _culo_ is probably a bit more [vulgar](https://en.wikipedia.org/wiki/Profanity) than the English _butt_ (cf. English _ass_), but whatever, it [means](https://en.wikipedia.org/wiki/Denotation) the same thing anyways.
+
+</details>
+
+<!-- markdownlint-disable-next-line no-trailing-punctuation -->
+## cervine is an archmagelet.
+
+And now, for the moment you’ve all been waiting for… :)
+
+**cervine**’s level 120 party!!! You can watch a video of the party (including the speech that I gave) on the **Oddjobs** YouTube channel!:
+
+[![cervine is an archmagelet. \[YouTube\]](deerblizzard.webp "cervine is an archmagelet. \[YouTube\]")](https://www.youtube.com/watch?v=2dLmk0ERy0g)
+
+(<https://www.youtube.com/watch?v=2dLmk0ERy0g>)
+
+The music heard in the video is _cervine’s Theme_ \[[CC BY-SA 4\.0](https://creativecommons.org/licenses/by-sa/4.0/)+\]. You can download a recording of _cervine’s Theme_ [here, on my bandcamp page](https://capreolina.bandcamp.com/album/cervine-s-theme). You can also obtain the [score](https://en.wikipedia.org/wiki/Sheet_music) (as a [MuseScore](https://musescore.org/) 3 file) [here](https://codeberg.org/deer/gists/src/branch/master/cervine-s_Theme.mscz). I also talk about _cervine’s Theme_ at length, at the end of this diary entry.
+
+There was also a bit of an afterparty in [Pianus’s cave](https://maplelegends.com/lib/map?id=230040420), where **Taima** (**Nyanners**, **Boymoder**, **Hanyou**), **Harlez**, **Level1Crook** (**Lvl1Crook**, **xXCrookXx**), and I fought this oversized fishy:
+
+![cervine’s level 120 Pianus afterparty](cervine-s-pianus-afterparty.webp "cervine’s level 120 Pianus afterparty")
+
+…And were later joined by **Gruzz** and **2sus4u**, at which point everyone decided to beat me up and loot my corpse. Kind of a weird (and, I might add, rude) “congratulations on level 120” present, but alright…
+
+![Dying and dropping loot](dying-and-dropping-loot.webp "Dying and dropping loot")
+
+(The three frames making up the image above ended up being stitched together the wrong way for an [LTR](https://en.wikipedia.org/wiki/Writing_system#Directionality) language; they should be viewed from the right to the left. I can’t be arsed to fix it.)
+
+Well, at least it’s comforting to know that I drop [something shiny and valuable-looking](https://maplelegends.com/lib/etc?id=4000038) when I die…
+
+## Getting a Horntail Necklace for cervine
+
+Now that cervine is level 120, it’s time to get her the ultimate [magelet](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#magelet) item: a [Horntail Necklace (HTP)](https://maplelegends.com/lib/equip?id=1122000)!! Not only does the HTP pack a real punch when it comes to TMA (which is greatly appreciated!), but it also makes a huge addition to the magelet’s already quite high AVOID.
+
+Of course, it’s not quite so easy as “just buying” one. I need a way to get into the Cave of Life (CoL), _and_ a way to sign for the Horntail (HT) expedition. After all, I do have to, you know, actually attend the HT run — even if I’m not doing any of the HT-fighting work. To get into CoL, I need a [Dragon Elixir](https://maplelegends.com/lib/use?id=2210003) that can turn me into a cornian, so that I can sneak past security. And to sign for the HT expedition, I will need a [Certificate of the Dragon Squad (CotDS)](https://maplelegends.com/lib/etc?id=4001086)! MapleLegends somewhat recently changed both of these things. The Dragon Elixir quest is significantly easier; it doesn’t require finding one of those pesky [Manon](https://maplelegends.com/lib/monster?id=8180000)s, nor even the [Cornian’s Marrow](https://maplelegends.com/lib/etc?id=4001075) or the infamous [Busted Dagger](https://maplelegends.com/lib/etc?id=4001079). I do have to farm some [Tough Dragon Skin](https://maplelegends.com/lib/etc?id=4001077)s though:
+
+<details>
+<summary>In pursuit of the ultimate magelet item!!</summary>
+
+![cervine farming Tough Dragon Skins](cervine-farming-tough-dragon-skins.webp "cervine farming Tough Dragon Skins")
+
+On the other hand, actually signing up for an HT expedition has an additional barrier now: _everyone_ has to have the CotDS, or they can’t even sign. Fortunately, the CotDS quest (which I had already completed before, on my [darksterity knight](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-warrior) **rusa**, just for the heck of it) has been made somewhat easier as well. In particular, you don’t have to do HTPQ (Horntail Party Quest) anymore, which is great. Needing a team of six people inside of CoL just to do HTPQ and scrounge around for those coloured stone thingies was a real pain in the ass. But I still need those pesky certifications, which means killing:
+
+- [Papulatus](https://maplelegends.com/lib/monster?id=8500001),
+- [Zakum](https://maplelegends.com/lib/monster?id=8800002),
+- and [Pianus](https://maplelegends.com/lib/monster?id=8510000).
+
+Damn, if only I had already started this quest before having my level 120 afterparty…
+
+Well, in order to do the first two, I have some prequests to do. Both Papulatus and Zakum have prequests, and I had yet to do _any_ such prequests. **Cortical** (**SussyBaka**, **CokeZeroPill**) also wanted to do the Papulatus prequests, so I headed to Deep Ludi with Cortical and **Taima** (**Nyanners**, **Boymoder**, **Hanyou**) to start killing some [Buffies](https://maplelegends.com/lib/monster?id=6130200):
+
+![Buffy card get!](cervine-buffy-card-get.webp "Buffy card get!")
+
+…And some [Lazy Buffies](https://maplelegends.com/lib/monster?id=6230300):
+
+![Lazy Buffy card get!](cervine-lazy-buffy-card-get.webp "Lazy Buffy card get!")
+
+Once we had enough [Mysterious Powder](https://maplelegends.com/lib/etc?id=4031171) from the Buffies to satisfy everyone, it was time to head to [Lost Time](https://maplelegends.com/lib/map?id=220070201) and collect some mysterious ETCs from the [MDT](https://maplelegends.com/lib/monster?id=7130300)s there. In so doing, I found out something very unsavoury about MDTs…:
+
+![IM EPIC](im-epic.webp "IM EPIC")
+
+I AM epic — so there!!
+
+After a sufficient quantity of MDT-themed torture, we headed to [Forbidden Time](https://maplelegends.com/lib/map?id=220070301) to hunt for pieces of crack from [GPW](https://maplelegends.com/lib/monster?id=8143000)s. I somehow forgot how the Papu prequests work, and mistakenly believed that we had to fight _both_ GPWs and [GSV](https://maplelegends.com/lib/monster?id=8141100)s to get the pieces of crack. We really could have just gone to GSVs, which are weak to lightning and neutral to ice, unlike GPWs, which are neutral to lightning and immune to ice -\_-
+
+![Cortical and cervine vs. GPWs](cort-and-cervine-vs-gpws.webp "Cortical and cervine vs. GPWs")
+
+But we got all of the cracks anyways~
+
+![Two pieces of crack](two-pieces-of-crack.webp "Two pieces of crack")
+
+And, finally, those [Ludibrium Medals](https://maplelegends.com/lib/etc?id=4031172)!
+
+![cervine finishing the Papu prequests](cervine-finishing-papu-preqs.webp "cervine finishing the Papu prequests")
+
+And I fought the Papulatus and took its certification!! But that was actually during Taima’s level 120 party, which is covered in a section below this one.
+
+With the Papulatus prequests out of the way, I also had to do the dreaded Zakum prequests. I figured I’d just do ’em in order, and get it out of the way. So that meant hunting for some keys in some randomly annoying chests (And sometimes, randomly annoying rocks) inside of an [active volcano](https://en.wikipedia.org/wiki/Active_volcano):
+
+![cervine finishes the first Zakum prequest](cervine-finishes-zak-preq-1.webp "cervine finishes the first Zakum prequest")
+
+Excellent! A piece of molten lava rock! I’ll just keep that in my pocket. Sounds safe.
+
+And now, for the part that I truly dread: the Zakum jump quest. Now, at this point, I’ve successfully completed the Zakum jump quest many times, over the course of many characters. So you’d think that I’d be pretty good at it by now. And you know what? By my own standards, I think that I _have_ gotten a lot better at it. _And yet_, I still dread it every… single… time.
+
+So I’ll spare you the images of me sobbing whilst standing upon a tiny rock inexplicably suspended above a bed of [magma](https://en.wikipedia.org/wiki/Magma) and surrounded by countless deadly booby traps. Suffice it to say that I did it. Again. And still yet, [Lira](https://maplelegends.com/lib/npc?id=2032003) refuses to take her smug eyes off of that piece of parchment that she’s holding and acknowledge my achievements!:
+
+![cervine finishes the second Zakum prequest](cervine-finishes-zak-preq-2.webp "cervine finishes the second Zakum prequest")
+
+Ugh.
+
+I guess I’ll take out my angst on some [Miner Zombie](https://maplelegends.com/lib/monster?id=5130108)s. And maybe they’ll give me the [gold teef](https://maplelegends.com/lib/etc?id=4000082)s that I need to complete the final leg of the Zakum prequests:
+
+![cervine farming for gold teefs](cervine-grinding-gold-teef.webp "cervine farming for gold teefs")
+
+And, at last, with 30 golden teefies farmed: the Zakum prequests are complete.
+
+![cervine finished all of the Zakum prequests!](cervine-finished-all-zak-preqs.webp "cervine finished all of the Zakum prequests!")
+
+Almost immediately after I finished the prequests, I saw a [smega](https://maplelegends.com/lib/cash?id=5072000) from a Zakum expedition who were offering to sell a Zakum certificate (amongst other things), so I decided to buy:
+
+![Meeting Verdict](meeting-verdict.webp "Meeting Verdict")
+
+**Verdict** was the bishop of the party, which otherwise consisted of **Matsuri** members. I didn’t have an issue with buying the cert, because I know that in order to get the cert to drop, you have to not only “poke” (read: deal \>0 total damage to) the boss before it dies, but you also have to be in the same party (the “killing party”) as the character who whited. This is unfortunate for someone like me who wants to get a cert without actually contributing, because Zakum parties are customarily six people… and yet, six is the maximum size of a party.
+
+In any case, I did get the cert, as promised:
+
+![cervine got the Zak cert!](cervine-got-the-cert.webp "cervine got the Zak cert!")
+
+Oh, right — and the Pianus cert! I guess it’s time to head back to the afterparty cave. Thankfully, I was assisted by marksman **xBowtjuhNL**, who helped me by dealing much less pathetic DPM than me…:
+
+![cervine and xBowtjuhNL vs. Pianus](cervine-and-xbowtjuhnl-vs-pianus.webp "cervine and xBowtjuhNL vs. Pianus")
+
+And with that, my very own CotDS!!!:
+
+![cervine obtains her CotDS](cervine-gets-her-cotds.webp "cervine obtains her CotDS")
+
+Now with the CotDS and a Dragon Elixir (actually two Dragon Elixirs, as the quest awards two of them now) in hand, I could finally buy an HTP. The question remains of whether I should buy it AFK or not. With cervine’s pitiful MAXHP pool, and even more pitiful MAXMP pool (thanks to being INTless for life), I had to guess that I wouldn’t survive HT’s most powerful attacks. And even more so, Horntail is a big fan of dispelling everyone on the map, which would mean that I have to be quick enough to re-cast my buffs (especially [MG](https://maplelegends.com/lib/skill?id=2001002)) in order to survive. So… yeah, nah. I’m buying AFK.
+
+As it turned out, that AFK HTP run was going to cost me a smol fortune: about 90[M](https://en.wikipedia.org/wiki/Mega-) mesos. Believe it or not, the same person who sold me that Zakum cert also sold me the AFK HTP!:
+
+![Buying an AFK HTP](buying-afk-htp.webp "Buying an AFK HTP")
+
+(You can see Verdict in the image above, although she’s largely obscured by a single [MTK](https://maplelegends.com/lib/use?id=2070019)… god, those things are truly ugly as sin.)
+
+Here I am, nearing the end of the run, getting mass seduced~ Wowee~
+
+![Getting AFK mass sed’d…](getting-afk-mass-sed-d.webp "Getting AFK mass sed’d…")
+
+And I decided to take a screenshot of the drops from the run — looks like they got a [MW20](https://maplelegends.com/lib/use?id=2290096)!!:
+
+![AFK HT drops](afk-ht-drops.webp "AFK HT drops")
+
+You can also see that exactly two HTPs dropped. I picked up the rightmost one, and it had average INT (7) and average LUK (7), but below average on just about everything else. So, I figured that that was a good excuse to reloot, and dropped it to take the other one instead. The other one turned out to be really good, amazing stats on all counts… except for the INT… which was the minimum possible INT (6):
+
+![cervine’s clean HTP](cervine-s-clean-htp.webp "cervine’s clean HTP")
+
+Ouf. They asked me, as we were leaving the run, for the stats on the HTP. One runner commented that “2 INT is nothing to sweat about”, and Verdict commented that “well, we know what your _real_ main stat is ;)”. All true, but I can’t help but feel a _little_ betrayed by [RNG](https://en.wikipedia.org/wiki/Pseudorandom_number_generator)sus here. I need that damage!! Aaaaa!!! Well, it certainly beats a [MoN](https://maplelegends.com/lib/equip?id=1122059), so I won’t cry about it.
+
+In any case, time to [egg](https://maplelegends.com/lib/use?id=2041200) it!:
+
+![cervine awakens the dragon!](cervine-awakens-the-dragon.webp "cervine awakens the dragon!")
+
+![cervine’s HTP](cervine-s-htp.webp "cervine’s HTP")
+
+Still _very_ joocy. :)
+
+</details>
+
+## Victoria-Island-locked
+
+It’s time for a little bit of [vicloc](https://codeberg.org/Victoria) adventures~ Nearing the end of the [X-mas](https://en.wikipedia.org/wiki/Christmas_and_holiday_season) event, I started actually doing some points-grinding on my vicloc [dagger spearwoman](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dagger-warrior) **d34r**. After all, she is high enough level to raffle (level ≥70), and having special-sauce event raffle prizes as a viclocker is pretty exciting stuff. At the end of one such points-grinding sesh, I was so close to levelling that I decided to head back to the ol’ [TfoG](https://maplelegends.com/lib/map?id=105040306) to cap off the level:
+
+![d34r hits level 78~!](d34r-78.webp "d34r hits level 78~!")
+
+Level 78~ Very kewl~
+
+Speaking of X-mas event raffling, I did four such raffles on d34r. And this is what I got:
+
+- [Rudolph’s Shiny Nose](https://maplelegends.com/lib/equip?id=1012161)
+- 10 [Heartstopper](https://maplelegends.com/lib/use?id=2022245)s
+- 10 Heartstoppers
+- [Purple Christmas Sock](https://maplelegends.com/lib/equip?id=1072432) (2 DEX)
+
+Honestly some really nice pulls! 20 Heartstoppers is _insane_ for vicloc — normally, the most powerful WATK buff is [Drake’s Blood](https://maplelegends.com/lib/use?id=2012000)\* (+8 WATK), not to even mention the AVOID that Heartstoppers give! And the Rudolph’s Shiny Nose, as usual, is completely broken for WACC-starved jobs, with +2 allstat and +50 WACC on average; and d34r is the epitome of WACC-starved… a vicloc dagger warrior!
+
+And on my vicloc [clericlet](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#magelet) **d33r**, I decided to do some more [napkin murder dungeon](https://maplelegends.com/lib/map?id=103000905)eering? For some reason?? d33r already reached her goal level of 54, so you might think she’s retired now… but think again!
+
+![d33r, level 54, `@epm 5` test](d33r-lvl-54-epm-test.webp "d33r, level 54, `@epm 5` test")
+
+Look at that GM boofs EPH!! 603k!!!
+
+And would you look at that: a level up for d33r :)
+
+![d33r hits level 55~!](d33r-55.webp "d33r hits level 55~!")
+
+As you can see, [Santa](https://maplelegends.com/lib/npc?id=9209101) has some lovely gifts (read: **⚠️ FREE SHIT ⚠️**) for viclockers who aren’t on his naughty list (read: viclockers who actually log in!!).
+
+I decided to try killing [Wraith](https://maplelegends.com/lib/monster?id=4230102)s (a\.k\.a. big napkins), to test out if I have what it takes to train in [big napkin murder dungeon](https://maplelegends.com/lib/map?id=103000909). And the results are pretty promising!:
+
+![Healing Shade](healing-shade.webp "Healing Shade")
+
+Wait — what’s with [that black napkin with a lock on its head](https://maplelegends.com/lib/monster?id=5090000)? I tried [Heal](https://maplelegends.com/lib/skill?id=2301002)ing it to death (napkins have a well-known [weakness](https://en.wikipedia.org/wiki/Achilles'_heel) to healing), to find out:
+
+![Shade card get!](d33r-shade-card-get.webp "Shade card get!")
+
+Gee whizz. A card _and_ [a stylish cap with the **Victoria** emblem on it](https://maplelegends.com/lib/etc?id=4000413)? Pretty neato.
+
+Oops! Accidentally levelled up again…
+
+![d33r hits level 56~!](d33r-56.webp "d33r hits level 56~!")
+
+<details>
+<summary>Footnotes for “Victoria-Island-locked”</summary>
+
+\*Of course, [APQ](https://maplelegends.com/lib/map?id=670010100) is available in vicloc, which means [Onyx Apple](https://maplelegends.com/lib/use?id=2022179)s. But we’ve always had a [rule (rule 10)](https://codeberg.org/Victoria/resources/src/branch/master/rules.md#vicloc-rules) that prohibits the use of Onyx Apples (and [Victoria’s Amorian Basket](https://maplelegends.com/lib/use?id=2022181)s) that originate from APQs that aren’t all-vicloc. So… yeah, we might still have to “lovingly ignore” that rule if we ever hope to do a vicloc [SPQ](https://maplelegends.com/lib/map?id=990000000) \>.\<
+
+</details>
+
+## The marriage of tb303 &amp; Cassandro
+
+I was honoured to attend the wedding of two odd priests: [gish](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#gish) priest **tb303** (**2sus4u**, **shadowban**) and [claw priestlet](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#magelet) **Cassandro** (**Copo**, **Bipp**, **Celim**, **Fino**, **Sommer**)!
+
+![Blessing tb303 × Cassandro](blessing-tb303-x-cassandro.webp "Blessing tb303 × Cassandro")
+
+During which, tb303 had to come to terms with the fact that she’d just married a snail:
+
+![you married a snail](you-married-a-snail.webp "you married a snail")
+
+Scandalous.
+
+To help assuage tb303’s newfound gastropodophobia, we decorated the wedding cake real nice-like:
+
+![tb303 × Cassandro wedding cake](tb303-x-cassandro-wedding-cake.webp "tb303 × Cassandro wedding cake")
+
+Admittedly, the snail thing made it a bit awkward. But, you know, snails gotta farm [them apples](https://maplelegends.com/lib/use?id=2022179) too, right…?
+
+## Scarlion &amp; Targa, sittin’ in a tree, K-I-S-S-I-N-G
+
+I did a whole bunch of [Scarlion](https://maplelegends.com/lib/monster?id=9420549) and [Targa](https://maplelegends.com/lib/monster?id=9420544) runs on my [darksterity knight](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-warrior) **rusa**, alongside **xBowtjuhNL** and **Harlez**, amongst others. I may have had a rocky start when it comes to Scarga (I was super tired and died during my first two Scarlion run attempts…), but I had more luck avenging myself during later runs.
+
+I did a Scarlion run with **Gruzz** (**Furca**) and **ToasTea**, during which we were visited by GA **Nightzy**:
+
+<details>
+<summary>Scarga</summary>
+
+![Scarlion w/ Gruzz, ToasTea, xBowtjuhNL, Harlez, and Nightzy](scar-with-gruzz-toastea-xbowtjuhnl-harlez-and-nightzy.webp "Scarlion w/ Gruzz, ToasTea, xBowtjuhNL, Harlez, and Nightzy")
+
+During which, I got my first Scarlion card :P
+
+![Scarlion card get!](rusa-scar-card-get.webp "Scarlion card get!")
+
+I had my first-ever encounter with Targa, alongside #mpqcrew. I was told that Targa is a lot more annoying and deadly than Scarlion, so I had to be sure to stay alive to keep everyone [HB](https://maplelegends.com/lib/skill?id=1301007)’d…
+
+![The gang vs. Targa](the-gang-vs-targa.webp "The gang vs. Targa")
+
+As it turns out, Targa _is_ indeed far more annoying than Scarlion. As with Scarlion, the [first](https://maplelegends.com/lib/monster?id=9420542) two [bodies](https://maplelegends.com/lib/monster?id=9420543) can barely do any damage. But the third body hits just about as hard as the third body of Scarlion, but hits more frequently. And it does these insane animations where its hitbox gets yeeted across the map:
+
+![The gang vs. Targa!](the-gang-vs-targa-1.webp "The gang vs. Targa!")
+
+And it can cast control reversal (the debuff with the greenish chomping skull icon with the whirling eyeballs that makes your [arrow keys](https://en.wikipedia.org/wiki/Arrow_keys)’ effects reversed). And… it sux. Strictly speaking, I don’t think that Targa is actually capable of more per-hit damage than Scarlion is (if it is, the difference is minute), but its deadliness (and annoyingness) comes from its much more aggressive behaviour.
+
+![The gang vs. Targa!!](the-gang-vs-targa-2.webp "The gang vs. Targa!!")
+
+Worse yet, the items that Targa drops are generally a bit worse than those dropped by Scarlion. Except that Targa has something special: [Targa](https://maplelegends.com/lib/equip?id=1003023) [Hats](https://maplelegends.com/lib/equip?id=1003024)! [Targa Hats (INT)](https://maplelegends.com/lib/equip?id=1003023) are important for mages, because they have two more INT than [zhelm](https://maplelegends.com/lib/equip?id=1002357)s on average, but the same number of slots. And [Targa Hats (LUK)](https://maplelegends.com/lib/equip?id=1003024) can be useful too, although they are probably the most marginal out of the four types of Scarga hats (including [Scarlion Hats (STR)](https://maplelegends.com/lib/equip?id=01003026) and [Scarlion Hats (DEX)](https://maplelegends.com/lib/equip?id=01003025)). This is because non-odd mages are the only non-odd jobs that use LUK as a secondary stat, and yet, many such mages opt to eschew LUK entirely (“LUKless”). The emphasis on _secondary_ stats is important, because of the existence of [Maple Warrior (MW)](https://maplelegends.com/lib/skill?id=1121000), which grants additional STR/DEX/INT/LUK to the [PC](https://en.wikipedia.org/wiki/Player_character) based on their _base_ stats, thus encouraging the player to optimise for their secondary stats on their _equipment_, so that they can spend more AP on their primary stat(s). Nevertheless, Targa Hats (LUK) can still be optimal for:
+
+- INT-based mages who wear equipment that requires some nontrivial amount of LUK,
+- Thieves that are pure LUK or close to pure LUK (see especially: [permarogues](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#permarogue)),
+- Claw-wielding non-thieves, e\.g. [besinners](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#permabeginner-outland),
+- [Certain](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#lukless-assassin) varieties [of](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#lukless-bandit) LUKless [thieves](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#blood-bandit), when wielding a claw or a dagger.
+
+And, they’re certainly not bad at all for ordinary thieves, either.
+
+![The gang defeats Targa!!!](the-gang-defeats-targa.webp "The gang defeats Targa!!!")
+
+We did another Targa run. But this time, we were doing Targa for the only reason that really makes sense (other than to try it for the first time): selling the hats! Given that Targa gives the same amount of EXP as Scarlion, and that it has somewhat worse drops, and that it’s considerably more difficult/annoying to fight, and that it drains more of your potions and time, and that it drops Targa Hats (INT) — INT being the most valuable out of the four main stats — it’s no wonder that buying Targa Hat service on the market is significantly more expensive than buying Scarlion Hat service.
+
+This time, we were joined by nightlord **BeMyRavebae**:
+
+![BeMyRavebae, xBowtjuhNL, rusa, and Harlez vs. Targa](bemyravebae-xbowtjuhnl-rusa-and-harlez-vs-targa.webp "BeMyRavebae, xBowtjuhNL, rusa, and Harlez vs. Targa")
+
+As I mentioned before, Targa isn’t really capable of higher per-hit damage than Scarlion, but it does behave much more aggressively. This makes it a lot harder for me to [zerk](https://maplelegends.com/lib/skill?id=1320006) against the third body of Targa (compared to the third body of Scarlion): whereas I can, at this point, zerk probably ≈90%–95% of the time against the third body of Scarlion, I probably can do like ≈30%–40% at absolute best against Targa. And even then, that’s pushing it (a\.k\.a. a deathwish).
+
+Here, you can see our half-naked buyer looting some hats:
+
+![Selling my first Targa helms??](selling-my-first-targa-helms.webp "Selling my first Targa helms??")
+
+And I did some more fun Scar runs, with **Odyssea** and Gruzz:
+
+![Odyssea, Harlez, rusa, Gruzz, and xBowtjuhNL vs. Scarlion](odyssea-harlez-rusa-gruzz-and-xbowtjuhnl-vs-scar.webp "Odyssea, Harlez, rusa, Gruzz, and xBowtjuhNL vs. Scarlion")
+
+And with xBowtjuhNL’s guildies **Kiarath** and **doujiang**:
+
+![Kiarath, doujiang, rusa, Harlez, and xBowtjuhNL vs. Scarlion](kiarath-doujiang-rusa-harlez-and-xbowtjuhnl-vs-scar.webp "Kiarath, doujiang, rusa, Harlez, and xBowtjuhNL vs. Scarlion")
+
+As you can see in the image above, I did a `@dpm 25` to capture exactly how much I was actually contributing, damage-wise, to the fight. Note that the “Total Damage” is what we’re looking at here — the “Damage Per Hour” and “Damage Per Minute” are spurious, as I wasn’t actually fighting for the entire duration of the capture. Looking at how much HP Scarlion has:
+
+- 60M in [first body](https://maplelegends.com/lib/monster?id=9420547) +
+- 90M in [second body](https://maplelegends.com/lib/monster?id=9420548) +
+- 150M in [third body](https://maplelegends.com/lib/monster?id=9420549)
+
+…is 300M HP total. That means that I did one damage out of roughly every ≈11\.3 damage dealt to the beast (ignoring healing, which is very slow for Scarlion anyways). That’s obviously less damage than you would expect if we were all contributing an equal amount of average DPM; in the ideal case, I would be dealing one damage out of every **5** damage dealt to the beastie, as we were a party of five. So, in the end, I dealt a factor of roughly ≈2\.267 less than the ideal case. That’s honestly not even bad!! Obviously, I don’t expect to be keeping up with my party members — who are not-so-odd-jobbed, and also higher level than me — in terms of sheer DPM. That being said, this _is_ somewhat optimistic, as I did have [SE](https://maplelegends.com/lib/skill?id=3221002) and [SI](https://maplelegends.com/lib/skill?id=5121009) the entire time…
+
+And, finally, I had the interesting experience of participating in a Scarga (**Scar**lion + T**arga**) run with the same crew, during which we summoned _both_ of these terrifyingly adorable doll-bosses at about the same time:
+
+![rusa, xBowtjuhNL, doujiang, Kiarath, and Harlez vs. Scarga!](rusa-xbowtjuhnl-doujiang-kiarath-and-harlez-scarga.webp "rusa, xBowtjuhNL, doujiang, Kiarath, and Harlez vs. Scarga!")
+
+![rusa, xBowtjuhNL, doujiang, Kiarath, and Harlez vs. Scarga!!](rusa-xbowtjuhnl-doujiang-kiarath-and-harlez-scarga-1.webp "rusa, xBowtjuhNL, doujiang, Kiarath, and Harlez vs. Scarga!!")
+
+During which, I died, because I’m bad:
+
+![I died at Scarga.](i-died-at-scarga.webp "I died at Scarga.")
+
+Fortunately, someone had their bishop tagging along, so they were able to [Resurrect](https://maplelegends.com/lib/skill?id=2321006) me. And we got Targa Hat buyer **Mater** the hats that he was promised:
+
+![Mater w/ the Scarga helm~](mater-with-the-scarga-helm.webp "Mater w/ the Scarga helm~")
+
+</details>
+
+## Pqrti qvqsts
+
+I did some [KPQ](https://maplelegends.com/lib/map?id=103000800)ing, on my [DEX page](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-warrior) KPQ/[SPQ](https://maplelegends.com/lib/map?id=990000000) mule **kinds**, with some interesting characters. Below, you can see me battling [King Slime](https://maplelegends.com/lib/monster?id=9300003) alongside **LvXV** (**Copo**, **Bipp**, **Cassandro**, **Sommer**, **Fino**, **Celim**) — a “perma-level-15” archer who retains the same equipment &amp; skills of a level 15 archer, for life — and **Furca** (**Gruzz**), a claw pirate (and later, clawslinger)!:
+
+![kinds, Furca, and LvXV vs. King Slime](kinds-furca-and-lvxv-vs-king-slime.webp "kinds, Furca, and LvXV vs. King Slime")
+
+And also with [HP page](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#hp-warrior) **AychPea**:
+
+![kinds, AychPea, and Furca vs. King Slime](kinds-aychpea-furca-vs-king-slime.webp "kinds, AychPea, and Furca vs. King Slime")
+
+And later, I did some [LPQ](https://maplelegends.com/lib/map?id=221024500)s on my [DEX brawler](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-brawler) LPQ mule **sorts** with Furca, [STR cleric](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#str-mage) **Godswood**, and fellow LPQ mule **Sangatsu** (**Lvl1Crook**, **Level1Crook**, **xXCrookXx**, **Ichigatsu**, **Macer**, **Lanius**). During which, clawslinger Furca attempted to recreate [“rangifer is ranged” \[YouTube\]](https://www.youtube.com/watch?v=6Aj18ZFaxOU) during [stage 7](https://maplelegends.com/lib/map?id=922010700)…
+
+![Furca is ranged](furca-is-ranged.webp "Furca is ranged")
+
+Here, you can see all of us, fighting [the nipple whale](https://maplelegends.com/lib/monster?id=9300012):
+
+![Furca, sorts, Sangatsu, and Godswood vs. Alishar](furca-sorts-sangatsu-and-godswood-vs-alishar.webp "Furca, sorts, Sangatsu, and Godswood vs. Alishar")
+
+Later, we even did some [EPQ](https://maplelegends.com/lib/map?id=300030100)s, joined by [swashbuckler](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#swashbuckler) **Sommer** and again by Furca and AychPea:
+
+![EPQ krew~](epq-krew.webp "EPQ krew~")
+
+Here, we can see a particularly chaotic snapshot of one fight that we had against [BBRG (Big Bad Rock Guy)](https://maplelegends.com/lib/monster?id=9300182):
+
+![sorts, Furca, AychPea, and Sommer vs. BBRG](sorts-furca-aychpea-sommer-vs-bbrg.webp "sorts, Furca, AychPea, and Sommer vs. BBRG")
+
+Later, when AychPea left, it was down to just me (a DEX brawler), Sommer (a swashbuckler), and Furca (a clawslinger)…:
+
+![Odd pirate trio](pirate-trio.webp "Odd pirate trio")
+
+And later, we were instead joined again by STR cleric Godswood:
+
+![sorts, Furca, and Godswood vs. BBRG](sorts-furca-godswood-vs-bbrg.webp "sorts, Furca, and Godswood vs. BBRG")
+
+As you can see above, I’m either getting shot directly in the eye by BBRG, or I’m about to laser-eye the shit out of BBRG. I guess we’ll never know.
+
+And, finally, I did some [PPQ](https://maplelegends.com/lib/map?id=251010404)s on my [permarogue](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#permarogue) **panolia**, with steelwoman [permawarrior](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#permawarrior) **Nyanners** (**Taima**, **Boymoder**, **Hanyou**, **deerhunter**, **Tacgnol**):
+
+![panolia, ProbablyCrl, Nyanners, Minior, and Diorama vs. the Lord Pirate](panolia-probablycrl-nyanners-minior-and-diorama-vs-lord-pirate.webp "panolia, ProbablyCrl, Nyanners, Minior, and Diorama vs. the Lord Pirate")
+
+During which, I got a [Lord Pirate Chair](https://maplelegends.com/lib/setup?id=3010028)! For my [islander](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#islander), **ozotoceros**!! Hooray for chairs that are also Cash Shop items…!
+
+## Helping Taima farm Leafre ETCs for the Silver Mane
+
+As [STRginner](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#permabeginner-outland) **Taima** was nearing level 120(!), I asked her if she planned on doing the [Silver Mane](https://maplelegends.com/lib/equip?id=1902001) (level 120 mount) quest, or if she’d already done it. She hadn’t thought about it before, but naturally, it’s a worthwhile investment. It is _quite_ the investment:
+
+- 400 [Wooden Shoulder Pad](https://maplelegends.com/lib/etc?id=4000266)s,
+- 400 [Skull Shoulder Pad](https://maplelegends.com/lib/etc?id=4000267)s,
+- 600 [Rexton Leather](https://maplelegends.com/lib/etc?id=4000264)s,
+- and 50M mesos!
+
+But, as a permabeginner, this is as close as it gets to 4th job advancement — plus, the Silver Mane is damn fast! So I set out to help Taima collect the necessary ETC items. First, on my [woodswoman](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#woodswoman) **capreolina**:
+
+![capre helping Taima collect Leafre ETCs](capre-helping-taima-collect-leafre-etcs.webp "capre helping Taima collect Leafre ETCs")
+
+Then, remembering that I had to do the [Dragon Elixir](https://maplelegends.com/lib/use?id=2210003) quest anyways, on my I/L [archmagelet](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#magelet) **cervine**:
+
+![cervine trying to help collect Leafre ETCs…](cervine-trying-to-help-collect-leafre-etcs.webp "cervine trying to help collect Leafre ETCs…")
+
+This didn’t last very long — as you can see in the image above, I wasn’t actually knocking out very much of the [Cornian](https://maplelegends.com/lib/monster?id=8150201)s’ HP pools per [Blizzard](https://maplelegends.com/lib/skill?id=2221007), and casting Blizzard is quite expensive when you have like 7\.3k MAXMP! Plus, I realised that, as mentioned previously, the Dragon Elixir quest doesn’t require [Cornian’s Marrow](https://maplelegends.com/lib/etc?id=4001075)/[Busted Dagger](https://maplelegends.com/lib/etc?id=4001079) anymore…
+
+So I logged onto my [darksterity knight](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-warrior) **rusa** to cheaply dispatch the Cornians:
+
+![rusa helping collect Leafre ETCs](rusa-helping-collect-leafre-etcs.webp "rusa helping collect Leafre ETCs")
+
+After we collected all 1\.4k(!) ETCs, and after Taima hit level 120 during her 120 party (see below), we found out that the Silver Mane quest is unavailable to beginners -\_\_\_\_- #silvermaneforginners
+
+## woosa~
+
+I decided to do a little card-hunting on my [darksterity knight](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-warrior) **rusa**, finishing off the last easy Victoria Island set and moving on to the [Orbis Tower](https://maplelegends.com/lib/map?id=200080100). The last remaining Vic Island one was the humble [Dark Axe Stump](https://maplelegends.com/lib/monster?id=2130100):
+
+<details>
+<summary>woosers</summary>
+
+![Dark Axe Stump card get!](rusa-dark-axe-stump-card-get-1.webp "Dark Axe Stump card get!")
+
+And I had already done some Orbis Tower cards, so I finished off the [Ice Sentinel](https://maplelegends.com/lib/monster?id=5200001) set:
+
+![Ice Sentinel card get!](rusa-ice-sentinel-card-get-1.webp "Ice Sentinel card get!")
+
+…And the [Fire Sentinel](https://maplelegends.com/lib/monster?id=5200002) set:
+
+![Fire Sentinel cards get!](rusa-fire-sentinel-cards-get.webp "Fire Sentinel cards get!")
+
+Did the [Leatty](https://maplelegends.com/lib/monster?id=5300000) set:
+
+![Leatty card get!](rusa-leatty-card-get.webp "Leatty card get!")
+
+…And the [Dark Leatty](https://maplelegends.com/lib/monster?id=5300001) set!:
+
+![Dark Leatty card get!](rusa-dark-leatty-card-get.webp "Dark Leatty card get!")
+
+…And then stopped there. Because I realised that I still benefited more from grinding EXP (at bosses, or at ye olde [7F](https://maplelegends.com/lib/map?id=702070400)) than from getting Monster Book Ring tiers, which kinda killed my motivation. But I will have to grind out those tiers at some point! :P
+
+In other news, I made a new [cape](https://maplelegends.com/lib/equip?id=1102205)!:
+
+![New cape!](new-cape.webp "New cape!")
+
+This cape is an improvement on my old Crimsonheart Cloak, which was essentially the same, but with 17 STR instead. This cape is not just for rusa, though; I also use it on my [daggermit](https://oddjobs.codeberg.page/odd-jobs.html#dagger-assassin) **alces**.
+
+I still had like five [V-day basket](https://maplelegends.com/lib/use?id=2020024)s left sitting on various characters, including rusa, so I made a plan to use one with I/L archmage **Gruzz** (**Furca**). Unfortunately, my grinding spot of choice is 7F, whereas Gruzz’s would be more like [Petris](https://maplelegends.com/lib/map?id=541020500). But Gruzz decided that 7F was the more balanced choice, so away we went:
+
+![rusa and Gruzz doing a V-day basket @ 7F](rusa-and-gruzz-basket.webp "rusa and Gruzz doing a V-day basket @ 7F")
+
+38\.6M EPH! 😬 S H E E S H . That one hour of basket was enough to get me just over ⅓ of a level!!
+
+Later, I finished off that level by doing some 7F duoing with shadower **Harlez**, where I was able to put up some very impressive EPH numbers even without [HS](https://maplelegends.com/lib/skill?id=2311003)!:
+
+![rusa hits level 145~!](rusa-145.webp "rusa hits level 145~!")
+
+And, I finished off the next level also at 7F, but this time just sadgrinding:
+
+![rusa hits level 146~!](rusa-146.webp "rusa hits level 146~!")
+
+I promise rusa doesn’t just get all of her EXP from 7F, though. Here she is, testing her damage range with an [Unripe Apple](https://maplelegends.com/lib/use?id=2012008) during a [Zakum](https://maplelegends.com/lib/monster?id=8800002) run:
+
+![rusa testing damage range on Unripe Apples at Zak](rusa-146-unripes-range.webp "rusa testing damage range on Unripe Apples at Zak")
+
+2340〜3207! Spicy!!
+
+And… again… I finished off another level by sadgrinding at 7F:
+
+![rusa hits level 147~!](rusa-147.webp "rusa hits level 147~!")
+
+But then, I had the distinct privilege of doing some 7F duo with a hero by the name of **Hidesake**, who brought an HS mule along:
+
+![rusa at 7F w/ Hidesake](rusa-at-7f-with-hidesake.webp "rusa at 7F w/ Hidesake")
+
+Yeah… 44\.2M EPH… who knows if I’ll ever see an EPH number larger than that LOL
+
+To finish off this level, I painstakingly tried to whack [7F mobs](https://maplelegends.com/lib/monster?id=9600022) with a [Red Umbrella](https://maplelegends.com/lib/equip?id=1302025) while wearing my INT pyjamas:
+
+![rusa trying to level w/ INTs](rusa-trying-to-level-with-ints.webp "rusa trying to level w/ INTs")
+
+**Harlez** and **xBowtjuhNL** were already trying to recruit me for [Jiaoceng](https://maplelegends.com/lib/monster?id=9600025), so I was getting a little impatient — thankfully, Gruzz came along and helped me get that last 0\.005%:
+
+![rusa hits level 148~!](rusa-148.webp "rusa hits level 148~!")
+
+And, finally, I levelled up again — but this time, while sadsadgrinding [at CDs](https://maplelegends.com/lib/map?id=742010203)…:
+
+![rusa hits level 149~!](rusa-149.webp "rusa hits level 149~!")
+
+Levelling up with INT pyjamas equipped is a lil easier at CDs. Speaking of CDs…
+
+</details>
+
+## Back on the TP101 grind
+
+I did a lil bit of CD grinding on my I/L [archmagelet](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#magelet) **cervine**, alongside **Lvl1Crook** (**Level1Crook**, **xXCrookXx**, **Sangatsu**, **Ichigatsu**, **Macer**, **Lanius**) and **Taima** (**Nyanners**, **Boymoder**, **Hanyou**)…:
+
+<details>
+<summary>Taiwanese shopping mall hell</summary>
+
+![Testing Blizzard @ CDs](testing-blizzard-at-cds.webp "Testing Blizzard @ CDs")
+
+So yeah, [Blizzard](https://maplelegends.com/lib/skill?id=2221007) is pretty broken [at CDs](https://maplelegends.com/lib/map?id=742010203)! Mine not so much, since I can’t even consistently 1-shot the damn things, but still!!
+
+In other news, my [daggermit](https://oddjobs.codeberg.page/odd-jobs.html#dagger-assassin) **alces** is still at it with the [bunny child](https://maplelegends.com/lib/monster?id=9410032) murder!!:
+
+![alces hits level 105~!](alces-105.webp "alces hits level 105~!")
+
+I started doing some KM grinding with [DEX WK](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-warrior) (a\.k\.a. “sex WK”) **Hanyou**, and we were briefly joined by INTlaw Lvl1Crook:
+
+![alces, Hanyou, and Lvl1Crook grinding KMs](alces-hanyou-and-lvl1crook-grinding-kms.webp "alces, Hanyou, and Lvl1Crook grinding KMs")
+
+And after a lot of bunny-child slaying with my new DEX warrior friend, I hit level 106~!:
+
+![alces hits level 106~!](alces-106.webp "alces hits level 106~!")
+
+I did some CD grinding on my [swashbuckler](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#swashbuckler) **hydropotina**, as well. Here I am at CDs, with Taima and **LoneWolf1600**:
+
+![hydropotina, Taima, and LoneWolf1600 grinding CDs](hydropotina-taima-and-lonewolf1600-grinding-cds.webp "hydropotina, Taima, and LoneWolf1600 grinding CDs")
+
+And there’s level 93!!:
+
+![hydropotina hits level 93~!](hydro-93.webp "hydropotina hits level 93~!")
+
+I even did CD grinding on my pure [STR bishop](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#str-mage) **cervid**, and not even the sadsadgrind kind!:
+
+![cervid, Taima, and Lvl1Crook @ CDs](cervid-taima-and-lvl1crook-at-cds.webp "cervid, Taima, and Lvl1Crook @ CDs")
+
+While we were there, Taima switched over to her [STRmit](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#lukless-assassin) **Boymoder** to grind some more CDs, and also to show off some fancy level 1 [SM](https://maplelegends.com/lib/skill?id=4111004)~!:
+
+![Boymoder showing off level 1 SM](boymoder-showing-off-level-1-sm.webp "Boymoder showing off level 1 SM")
+
+These shadowy mesos lie in wait, to be used for boss-shredding one day…
+
+And, once everyone fled the scene, I was left to do some sadsadgrinding with these same CDs… and level up cervid to 129~!!:
+
+![cervid hits level 129~!](cervid-129.webp "cervid hits level 129~!")
+
+Again with the hoarded [V-day basket](https://maplelegends.com/lib/use?id=2020024)s: I decided to finally use hydropotina’s, alongside Lvl1Crook, who was nice enough to grind out my basket without the benefit of [HS](https://maplelegends.com/lib/skill?id=2311003):
+
+![hydropotina and Lvl1Crook grinding a V-day basket](hydro-and-lvl1crook-grinding-a-basket.webp "hydropotina and Lvl1Crook grinding a V-day basket")
+
+After some ¾ or so of my basket was elapsed, Boymoder also came to CDs with us, and used her own basket. So I kept grinding with her to finish off her basket as well, and ended up getting very close to levelling. Boymoder was hiding in the Cash Shop to save the rest of her basket while she was AFK for a bit, so I decided to finish off my level before she came back. That way, I didn’t have to fiddle around with INT pyjamas and all that while Boymoder was trying to use a basket. I got all of my PJs all nice and ready, and went [to KMs](https://maplelegends.com/lib/map?id=742010100) to finish the level off solo. As I was close to levelling, I decided to kill just _one_ more KM before switching to my PJs, so I did a basic-attack with my [spear](https://maplelegends.com/lib/equip?id=1432018)… and it levelled me \>w\<
+
+![hydropotina hits level 94…!](hydro-94.webp "hydropotina hits level 94…!")
+
+</details>
+
+## 武林妖僧
+
+<details>
+<summary>武林妖僧</summary>
+
+I had the distinct privilege of doing my first-ever [Jiaoceng (武林妖僧)](https://maplelegends.com/lib/monster?id=9600025) runs — on my [darksterity knight](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-warrior), **rusa**! Back in pt. lxviii of this diary, I did what was _technically_ my actual first-ever Jiaoceng run. But it wasn’t a real run; we were just goofing around and wanted to see what JC’s lair was like. This time, I was joined (many levels later) by shadower **Harlez**, marksman **xBowtjuhNL**, I/L archmage **Gruzz** (**Furca**), and shadower **Bipp** (**Copo**, **Cassandro**, **Sommer**, **Celim**, **Fino**):
+
+![rusa, Harlez, xBowtjuhNL, Gruzz, and Bipp vs. Jiaoceng](rusa-harlez-xbowtjuhnl-gruzz-and-bipp-vs-jc.png.webp "rusa, Harlez, xBowtjuhNL, Gruzz, and Bipp vs. Jiaoceng")
+
+And, between the five of us, we killed JC in less than 6\.5 minutes!!:
+
+![rusa, Harlez, xBowtjuhNL, Gruzz, and Bipp kill Jiaoceng!](rusa-harlez-xbowtjuhnl-gruzz-and-bipp-kill-jc.webp "rusa, Harlez, xBowtjuhNL, Gruzz, and Bipp kill Jiaoceng!")
+
+Huzzah!
+
+As it turns out, Jiaoceng isn’t actually so bad for me, from a… [zerk](https://maplelegends.com/lib/skill?id=1320006)ing-and-also-not-dying-and-also-not-passing-out-from-exhaustion standpoint. Passing out from exhaustion is somewhat less likely, given that Jiaoceng is defined by the very tight 10-minute timer. Actually having to kill the guy in less than 10 minutes is what makes Jiaoceng so challenging. And although JC is capable of something around the ≈8k damage range per attack, he doesn’t actually manage to hit me with such attacks all that often; some of the attacks do considerably less damage, and my avoidability is enough to dodge a decent number of the attacks entirely, as well. So I can actually maintain a zerk for about ≈98% or so of the time that I’m fighting, which I’m quite satisfied with.
+
+Later, we tried the same thing, but with a reduced party: just me, Harlez, and xBowtjuhNL. I snuck probably half a dozen [Heartstopper](https://maplelegends.com/lib/use?id=2022245)s in my mouth during the first run, and nearly as many the second run, and we were just **_so_** close:
+
+![rusa, xBowtjuhNL, and Harlez — so close to trioing Jiaoceng…](rusa-xbowtjuhnl-and-harlez-so-close-to-trioing-jc.webp "rusa, xBowtjuhNL, and Harlez — so close to trioing Jiaoceng…")
+
+(The above screenshot is courtesy of xBowtjuhNL; I couldn’t capture one in time.)
+
+_SO_ close. v\_v
+
+I did another trio with Harlez and axe hero **5nortin5peed**, in which we barely squeezed through one run! The image that you see below has been edited to crank up the [brightness](https://en.wikipedia.org/wiki/Brightness) and [contrast][contrast] to ridiculously high levels in comparison to the original image, which was taken as the screen was fading to black as we got kicked out of JC’s lair.
+
+![Harlez, rusa, 5nortin5peed barely made it through Jiaoceng…!](harlez-rusa-5nortin5speed-jc-barely-made-it.webp "Harlez, rusa, 5nortin5peed barely made it through Jiaoceng…!")
+
+If you look closely, you can see that the only thing that JC dropped was a single [Elixir](https://maplelegends.com/lib/use?id=2000004)… so I guess we weren’t missing out on anything by finishing so late. In our other run, we unfortunately had no chance of making it, due to the untimely death of 5nortin5peed…:
+
+![R\.I\.P. 5nortin5peed…](rip-5nortin5peed.webp "R.I.P. 5nortin5peed…")
+
+R\.I\.P.
+
+In more optimistic news, I did some quartet runs with Gruzz, Harlez, and xBowtjuhNL, which allowed us to finish with plenty of time to spare, thanks to Gruzz’s [extra DPM](https://maplelegends.com/lib/skill?id=2221006)!:
+
+![Gruzz, rusa, Harlez, and xBowtjuhNL vs. Jiaoceng…](gruzz-rusa-harlez-and-xbowtjuhnl-vs-jc.webp "Gruzz, rusa, Harlez, and xBowtjuhNL vs. Jiaoceng…")
+
+![…Easily done!](jc-easily-done.webp "…Easily done!")
+
+</details>
+
+[contrast]: https://en.wikipedia.org/wiki/Contrast_(vision)
+
+## Getting some EXP w/ capre~
+
+I haven’t been doing much, if any, [CDs](https://maplelegends.com/lib/map?id=742010203) grinding on my [woodsmaster](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#woodswoman) **capreolina**. Once I grinded my last CD and hit the big 120, I kinda said “peace out cya laters” to compact discs. But as capre inches closer to the big 135, it’s time to get back on that grind again. As many readers will know, the big 135 is “big” because it’s the lowest level at which a fledgling archer may competently [SE](https://maplelegends.com/lib/skill?id=3121002) in the general direction of [everyone’s favourite crumbly rock villain](https://maplelegends.com/lib/monster?id=8800000). At level 135, capre will acquire the power to make people regret [smega](https://maplelegends.com/lib/cash?id=5072000)’ing “R\>SE” by showing up to Zak with max SE and [a whole lot of STR](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#woodswoman). Is this a noble goal to aspire to? Maybe. Do I at least _like_ crumbly rock villain guy? Yes, it’s my favourite boss. Will people stop asking me “135 when?” if I get to level 135? Yes. Do I really just want to level up so that I can put more SP into [Hurricane](https://maplelegends.com/lib/skill?id=3121004) because it’s a funny skill and literally goes “brrrrr”? _Also_ yes.
+
+In any case, I’m still leaving CDs behind. Now that I have Big Crits™ (read: SE), I think I’m ready to repeatedly &amp; tirelessly whack a different, more powerful breed of monster: [Gallopera](https://maplelegends.com/lib/monster?id=9420540)s (Gallos)! Sniper **Level1Crook** (**Lvl1Crook**, **xXCrookXx**) had already planned to grind alongside capreolina once my I/L [magelet](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#magelet) **cervine** made it to the honourable ranking of archmagelet. So the time is now, and the SE is making Level1Crook’s damage even more impossibly high:
+
+![capreolina and Level1Crook grinding Galloperas](capre-and-level1crook-grinding-gallos.webp "capreolina and Level1Crook grinding Galloperas")
+
+Unfortunately I didn’t get any screenshots of Level1Crook goofing off with an [Onyx Apple](https://maplelegends.com/lib/use?id=2022179) while enjoying capre’s SE. It was galling to see someone 20 levels below me do 60k damage with a single [Strafe](https://maplelegends.com/lib/skill?id=3211006)…
+
+After some Gallopera-slaying, capreolina has broken into the 13X levels!!:
+
+![capreolina hits level 130~!](capre-130.webp "capreolina hits level 130~!")
+
+Now that capre is level ≥130, she has finally maxed SE. By coincidence — well, only partially coincidence, as channel 6 [FM 9](https://maplelegends.com/lib/map?id=910000009) (6-9) is the HQ for the entire **Suboptimal**/**Dream** meta-alliance, so we tend to be in channel 6 most of the time — some of the folks from the Dream alliance headed to our Gallos map for a different reason: to fight [Scarlion](https://maplelegends.com/lib/monster?id=9420549)! As it just so happened, they were looking for an archer to SE them… and I had just maxed SE! Of course, capre is still not technically high enough level to to Scarlion/[Targa](https://maplelegends.com/lib/monster?id=9420544) yet: the third and final body of these bosses is level 140 (similar to [Zakum](https://maplelegends.com/lib/monster?id=8800002) or [Krexel](https://maplelegends.com/lib/monster?id=9420521)), so you have to be level ≥135 to get EXP normally. That being said, the first two bodies are lower in level, and in any case, I was excited to try out a Scarlion run for the first time on capre! So I obliged:
+
+![capre’s first Scarlion run o\_o](capre-s-first-scar-run.webp "capre’s first Scarlion run o_o")
+
+It was pretty cool! And I actually got decent EXP — somewhere around ≈4%, I think? I’d definitely do it again, and the Dream folks were grateful for my SE :P
+
+## Taima’s level 120 party!!!
+
+I was honoured to attend the epic level 120 party of my good friend and Maple wife **Taima** (**Nyanners**, **Hanyou**, **Boymoder**, **Tacgnol**, **deerhunter**, **Numidium**, **Gambolpuddy**, **Naganohara**, **Spagonia**, **Inugami**), the [STRginner](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#permabeginner-outland)!!! Taima has been an extremely important person and good friend of mine since almost as long as **Oddjobs** has been a public guild (see: [“cervid × Taima” \[YouTube\]](https://www.youtube.com/watch?v=HXGz3t8u9U4)), and she is as “legitginner” as it gets!! For her big level 120 party, we headed to the [Whirlpool of Time](https://maplelegends.com/lib/map?id=220050100) to watch Taima level up to a [Timer](https://maplelegends.com/lib/monster?id=5220003) kill. The use of _time_, _timer_, etc. here is a pun on [the pronunciation of _Taima_ (/ˈtaɪmə/) vs. _Timer_ (virtually /ˈtaɪməɹ/, but non-rhotically /ˈtaɪmə/ in the absence of a linking R) in English](https://en.wikipedia.org/wiki/Rhoticity_in_English). For the occasion of the party, Taima put together a collection of screenshots of herself throughout the ages, from level 0 (literally character creation) onwards! At the end, there are some photos of her freshly-opened Global MapleStory iTCG cards! Fancy!! You can find the images at [TaimaStory](https://taimastory.neocities.org/) ([archived](https://web.archive.org/web/20220206044621/https://taimastory.neocities.org/)).
+
+Here’s Taima, at the Whirlpool of Taima, killing Taima and levelling up to level 120~!!!!:
+
+![Taima hits the HUGE level 120~!!!](taima-120.webp "Taima hits the HUGE level 120~!!!")
+
+Once she hit level 120, it was time to fulfil her destiny as a true pigginner~:
+
+![cervid × Taima-pig](cervid-x-taima-pig.webp "cervid × Taima-pig")
+
+For the occasion (as level 120 is the minimum level to get EXP normally from [Papulatus](https://maplelegends.com/lib/monster?id=8500001)), and because we were nearby anyways, we did two Papu runs to celebrate!:
+
+![Taima’s level 120 party: Papulatus fight!](taima-120-party-papu-fight.webp "Taima’s level 120 party: Papulatus fight!")
+
+![Taima’s level 120 party: Papulatus fight, second body!](taima-120-party-papu-fight-2nd-body.webp "Taima’s level 120 party: Papulatus fight, second body!")
+
+While we were waiting to do a second run, we made an inexplicable bench stack and started [uncontrollably vomiting](https://maplelegends.com/lib/cash?id=5160000):
+
+![BENCH STACK](bench-stack.webp "BENCH STACK")
+
+And although it was quite early in the morning, **OmokTeacher** (**Slime**, **Thinks**) was able to make it in time for the second run~:
+
+![world championship!](world-championship.webp "world championship!")
+
+As a corollary, I was able to get my [Papu cert](https://maplelegends.com/lib/etc?id=4001084) for my I/L [archmagelet](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#magelet) **cervine** :3
+
+Congratulations again to Taima on the big 120~ Your legendary journey &amp; determination is an inspiration!! 🤩
+
+## Bosslike
+
+Speaking of Taima, I’ve started doing somewhat regular bossing with Taima and **Level1Crook** (**Lvl1Crook**, **xXCrookXx**), each weekend around [the scheduled time(s)](https://codeberg.org/deer/gists/src/branch/master/what-s-next-for-oddjobs/odd-job-initiative/runs.md). Here we are, fighting [Rāvaṇa](https://maplelegends.com/lib/monster?id=9420014) (with me on my [darksterity knight](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-warrior) **rusa**)!:
+
+<details>
+<summary>Matando jefes</summary>
+
+![rusa, Taima, and Level1Crook vs. Rav](rusa-taima-level1crook-vs-rav-0.webp "rusa, Taima, and Level1Crook vs. Rav")
+
+![rusa, Taima, and Level1Crook vs. Rav~](rusa-taima-level1crook-vs-rav-1.webp "rusa, Taima, and Level1Crook vs. Rav~")
+
+A single Rav run tends to run for roughly ≈25 minutes, so when we get some nifty loot, we really earned it :P
+
+![Trio Rav loot~!](trio-rav-loot.webp "Trio Rav loot~!")
+
+Unfortunately, although I have opened quite a few MP1s (Mysterious Pouches 1), I have yet to receive more than one Prestigious Coin from the same pouch… -\_-
+
+We were joined by [STRginner](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#permabeginner-outland) **Cortical** for one run:
+
+![Taima, rusa, Level1Crook, and Cortical vs. Rav](taima-rusa-level1crook-and-cort-vs-rav.webp "Taima, rusa, Level1Crook, and Cortical vs. Rav")
+
+(It’s hard to really see Cortical in the above image, but at least you can see the cape balloon with sharp teeth.)
+
+Here’s a screenshot of Ravana dying during another run that I did as a trio (if you look closely, you can spot a [Vifennis](https://maplelegends.com/lib/equip?id=1312015) and a [Devil’s Sunrise](https://maplelegends.com/lib/equip?id=1402016) in flight):
+
+![rusa, Taima, and Level1Crook kill the Ravana!](rusa-taima-and-level1crook-kill-the-ravana.webp "rusa, Taima, and Level1Crook kill the Ravana!")
+
+After this run, we did another — and we were still thirsty for more, so we went and did [Papu](https://maplelegends.com/lib/monster?id=8500001) as well!:
+
+![rusa, Taima, and Level1Crook vs. Papu](rusa-taima-and-level1crook-vs-papu.webp "rusa, Taima, and Level1Crook vs. Papu")
+
+During another regularly-scheduled event (the low-level/area bosses event), I joined forces with [permapirate](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#permapirate) **Copo** (**Cassandro**, **Bipp**, **Sommer**, **Celim**, **Fino**) and Cortical to fight some [Headless Horsemen](https://maplelegends.com/lib/monster?id=9400549), as my fresh new I/L [archmagelet](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#magelet) **cervine**~:
+
+![cervine, Copo, and Cortical vs. The Headless Horseman](cervine-copo-cortical-vs-hh.webp "cervine, Copo, and Cortical vs. The Headless Horseman")
+
+Look at that [CL](https://maplelegends.com/lib/skill?id=2221006) go!!
+
+![cervine, Copo, and Cortical vs. The Headless Horseman~](cervine-copo-cortical-vs-hh-1.webp "cervine, Copo, and Cortical vs. The Headless Horseman~")
+
+![cervine, Copo, and Cortical vs. The Headless Horseman~!](cervine-copo-cortical-vs-hh-2.webp "cervine, Copo, and Cortical vs. The Headless Horseman~!")
+
+Ahhh… Another headless caballero and his fuchsia mare, vanquished!
+
+I’ve also been doing [Capt. Lat](https://maplelegends.com/lib/monster?id=9420513)s with Taima, on my pure [STR bishop](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#str-mage) **cervid** — below, you can see a screenshot from one such run, for which we were joined by Cortical:
+
+![cervid, Cortical, and Taima vs. Capt. Lat](cervid-cort-and-taima-vs-capt-lat.webp "cervid, Cortical, and Taima vs. Capt. Lat")
+
+I noticed that every time that I go to [Resurrect](https://maplelegends.com/lib/skill?id=2321006) someone, it’s usually too nervewracking for me to remember (or consider) to take a screenshot. It’s very easy to screw up Resurrections, as the resurrected(s) are often in a position to die immediately after being brought back to the realm of the living. But I remembered this time, during a Capt. Lat duo with Taima:
+
+![Resurrecting Taima](resing-taima.webp "Resurrecting Taima")
+
+During the same session, we went to do the repeatables for Capt. Latanica (i\.e. the [White Essence](https://maplelegends.com/lib/etc?id=4000381) quest), and I happened to have my INT gear on hand. So partway through the quest, I decided to try using my INT gear for shits &amp; giggles. Behold, the fabled deer[genesis](https://maplelegends.com/lib/skill?id=2321008):
+
+![deergenesis](deergenesis.webp "deergenesis")
+
+Not bad at all!! The damage looks impressive thanks to [Slimy](https://maplelegends.com/lib/monster?id=9420510)s being weak to holy, and I actually was getting a roughly ≈80% hit rate against them! We went to [GS6](https://maplelegends.com/lib/map?id=541010050) to kill [Mr. Anchor](https://maplelegends.com/lib/monster?id=9420512)s, and I tried my Genesis there. Not so impressive; probably more like ≈40% hit rate…
+
+Although my [woodsmaster](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#woodswoman) **capreolina** has had her [T10 ring](https://maplelegends.com/lib/equip?id=1119012) for a while now, I was still pleased to finish her Papu set…
+
+![capre finishes the Papulatus set :P](capre-finishes-papu-set.webp "capre finishes the Papulatus set :P")
+
+…And even more pleased to get a [Papulatus chair](https://maplelegends.com/lib/setup?id=3010026) for cervid!:
+
+![cervid gets the Papulatus chair!](cervid-gets-the-papu-chair.webp "cervid gets the Papulatus chair!")
+
+I kind of refuse to fight Papu on cervid, after a traumatising experience of getting instakilled by a dispel (DP) at the same time as a touch attack… Papulatus just wasn’t made for melee mages, who rely on [Magic Guard](https://maplelegends.com/lib/skill?id=2001002) and/or [Invincible](https://maplelegends.com/lib/skill?id=2301003) to survive touch attacks, and yet must straddle the Papulatus Clock just to hit it! But I had cervid tag along for [HS](https://maplelegends.com/lib/skill?id=2311003) purposes (leaving and rejoining the party as necessary to avoid leeching EXP), so she managed to get a Papu chair anyways :P
+
+During a low-level/area boss event, I stumbled across a [BF](https://maplelegends.com/lib/monster?id=9400575) at [FP](https://maplelegends.com/lib/map?id=610010005), and Copo decided to hop onto their non-odd shadower **Bipp** to come kill it! I took capreolina, so that I could stand back with my bow like a coward and never actually touch the beast:
+
+![capre and Bipp vs. Bigfoot](capre-and-bipp-vs-bf.webp "capre and Bipp vs. Bigfoot")
+
+![capre and Bipp vs. Bigfoot~](capre-and-bipp-vs-bf-1.webp "capre and Bipp vs. Bigfoot~")
+
+In between BFs, I fought an HH alongside Bipp as cervid. You can see my [MR](https://maplelegends.com/lib/skill?id=2321002) going off:
+
+![Bipp and cervid vs. HH](bipp-and-cervid-vs-hh.webp "Bipp and cervid vs. HH")
+
+And I got to fight Rav on cervid, as well!:
+
+![Bipp, cervid, and xBowtjuhNL vs. Ravana](bipp-cervid-xbowtjuhnl-vs-rav.webp "Bipp, cervid, and xBowtjuhNL vs. Ravana")
+
+I like using [Doom](https://maplelegends.com/lib/skill?id=2311005) when Rav starts summoning so that I can turn [those scary goblins](https://maplelegends.com/lib/monster?id=9420013) into [less scary snails](https://maplelegends.com/lib/monster?id=0100101)! Does it actually help? Yes. I just lied… maybe. It’s debatable.
+
+Also with Bipp (but this time as rusa), I got to do some [Krexel](https://maplelegends.com/lib/monster?id=9420521)ling with the crew (this time, as rusa):
+
+![rusa, Gruzz, xBowtjuhNL, Harlez, and Bipp vs. Krexel](rusa-gruzz-xbowtjuhnl-harlez-and-bipp-vs-krex.webp "rusa, Gruzz, xBowtjuhNL, Harlez, and Bipp vs. Krexel")
+
+It’s always nice to do a big boss just with people whom I know :P While I was there, I did a little `@dpm 1` on [stopper](https://maplelegends.com/lib/use?id=2022245)s:
+
+![rusa, `@dpm 1` with Heartstoppers @ Krex](rusa-dpm-1-with-stoppers-at-krex.webp "rusa, `@dpm 1` with Heartstoppers @ Krex")
+
+114[M](https://en.wikipedia.org/wiki/Mega-) DPH ain’t half bad~ Also on rusa, I did a pair of Papu runs with Harlez, xBowtjuhNL, and **Bulgoki**, a shadower whom I met back in [OPQ](https://maplelegends.com/lib/map?id=200080101), and who I haven’t had the chance to play alongside in quite a while!:
+
+![Bulgoki, Harlez, rusa, and xBowtjuhNL vs. Papu](bulgoki-harlez-rusa-and-xbowtjuhnl-vs-papu.webp "Bulgoki, Harlez, rusa, and xBowtjuhNL vs. Papu")
+
+Bulgoki is actually invisible in this screenshot, thanks to [Boomerang Step](https://maplelegends.com/lib/skill?id=4221007)… But you can see that he’s now a member of **Chroma**, and thus of **Dream** (and thus of the **Suboptimal**–Dream meta-alliance). :)
+
+</details>
+
+## Contagion’s level 50 party!!
+
+I was fortunate enough to attend the level 50 party of [islander](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#islander) **Contagion** (**Without**):
+
+![Contagion’s level 50 party!](contagion-level-50-party.webp "Contagion’s level 50 party!")
+
+Hitting level 50 is a pretty huge achievement for any islander, and for Contagion, there was something a little extra special. Although it was very unclear if it was even possible to redeem the level-based (level ≤70) rewards from [Santa](https://maplelegends.com/lib/npc?id=9209101) even after the [X-mas](https://en.wikipedia.org/wiki/Christmas_and_holiday_season) event officially ended (but [Happyville](https://maplelegends.com/lib/map?id=209000000) was still temporarily open), Contagion gave it a shot, and was pleasantly surprised! They were able to get another upgrade to their [Rudolph’s Toy Hat](https://maplelegends.com/lib/equip?id=1002850), which means another +2 to all stats!! While we were there in [Santa’s House](https://maplelegends.com/lib/map?id=209080100) celebrating, we were paid a visit by GA **Nightzy**, who came to congratulate Contagion on their achievement:
+
+![Nightzy visits the level 50 party](nightzy-visits-the-level-50-party.webp "Nightzy visits the level 50 party")
+
+## Cortical’s T10 ring party~!
+
+I was also fortunate enough to attend the [T10 ring](https://maplelegends.com/lib/equip?id=1119012) party of [STRginner](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#permabeginner-outland) **Cortical**, who has — as you’d expect for a permabeginner who farmed their own T10 ring — been impressively dedicated to farming cards for quite a while now! Cort decided on their last (300th) set being the [crog](https://maplelegends.com/lib/monster?id=8150000) set. So, with 299 completed sets, and 4⧸5 crog cards, we flew back &amp; forth between [Ellinia](https://maplelegends.com/lib/map?id=101000300) and [Orbis](https://maplelegends.com/lib/map?id=200000100) in search of crogs &amp; their cards:
+
+![Cortical’s T10 party fighting crogs~](cort-s-t10-party-fighting-crogs.webp "Cortical’s T10 party fighting crogs~")
+
+It took just a few tries before the moment of truth…
+
+![Resing OmokTeacher for Cort’s T10 party](resing-noam-for-cort-s-t10-party.webp "Resing OmokTeacher for Cort’s T10 party")
+
+![Cort loots the 1500th card~](cort-loots-the-1500th-card.webp "Cort loots the 1500th card~")
+
+Congratulations again to Cortical, the first-ever T10 ring permabeginner who’s never been banned!\*
+
+<details>
+<summary>Footnotes for “Cortical’s T10 ring party~!”</summary>
+
+\***Permanovice** (**Battlesage**, **Dreamscapes**, **Paean**, **Hanger**) was the actual first permabeginner to T10, but was briefly banned due to a false autoban…
+
+</details>
+
+## (…cnvpstdf…)
+
+<details>
+<summary>cnvpstdf</summary>
+
+![ur hair smell nice](ur-hair-smell-nice.webp "ur hair smell nice")
+
+![420×69](420x69.webp "420×69")
+
+![cervid × Taima-snail](cervid-x-taima-snail.webp "cervid × Taima-snail")
+
+![waskanda forever](waskanda-forever.webp "waskanda forever")
+
+![deerhunter](deerhunter.webp "deerhunter")
+
+![“Sex WK”](sex-wk.webp "“Sex WK”")
+
+</details>
 
 ## cervine’s theme
 
