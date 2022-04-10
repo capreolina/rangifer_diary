@@ -3,6 +3,7 @@
 scrap/
 *.swp
 *.bak
+*.html
 
 # Rust stuff
 Cargo.lock
