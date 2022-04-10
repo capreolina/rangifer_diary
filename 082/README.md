@@ -391,13 +391,13 @@ As expected, the DK model suffers horribly from WDEF, in a way that the other mo
 
 Also as expected (due to the same effect existing with non-odd fourth job warriors as well), the DK model benefits the most from SE, and also benefits the most from SI. The large benefit from SE is because the DK’s attacks most closely fit the pattern that benefits from SE the most: lots of lines, each with smaller damage multipliers (as opposed to fewer lines, each with larger damage multipliers). And as for SI, the DK model is the only one using a speed ≥6 weapon. The ≥6 threshold is significant because 2 is the smallest (read: fastest) possible speed value, and both booster and SI each subtract 2 from weapon speed values (and they stack with each other). For example, when comparing the DK model with Hero 0 (Stonetooth), the hero’s DPM increases by a factor of &ap;1\.095 due to SI, whereas the DK’s DPM increases by a factor of &ap;1\.148 under the same circumstances.
 
-With respect to what this analysis is measuring (viz. theoretical sustained single-target DPM), the winners are clear: the paladin emerges victorious (even more so when taking into account elementally weak enemies), the hero comes in a respectably close second, and the DK is just painfully bad in comparison. Note that even talking still in terms of sustained DPM, the “single-target” specifier is very important; the attacks used here hit up to three monsters at once (whence “cleave”), with the exception of the paladin’s attack (Blast), which only hits up to one monster at a time. When cleaving, the hero looks even more favourable (benefitting from Brandish hitting up to three monsters at once), and the Paladin’s HH (benefitting from hitting up to 15 monsters at once, and from ignoring the DEXadin’s wonky stats) would become relevant (not to mention [Charged Blow](https://maplelegends.com/lib/skill?id=1211002)).
+With respect to what this analysis is measuring (viz. theoretical sustained single-target DPM), the winners are clear: the paladin emerges victorious (even more so when taking into account elementally weak enemies), the hero comes in a respectably close second, and the DK is just painfully bad in comparison. Note that even talking still in terms of sustained DPM, the “single-target” specifier is very important; the attacks used here hit up to three monsters at once (whence “cleave”), with the exception of the paladin’s attack (Blast), which only hits up to one monster at a time. When cleaving, the hero looks even more favourable (benefiting from Brandish hitting up to three monsters at once), and the Paladin’s HH (benefiting from hitting up to 15 monsters at once, and from ignoring the DEXadin’s wonky stats) would become relevant (not to mention [Charged Blow](https://maplelegends.com/lib/skill?id=1211002)).
 
-When it comes to purely focussing on shredding a single target as quickly as possible, most conventional MapleLegends players reach for nightlord or corsair. The results calculated here suggest that DEXadin is an extremely strong contender for this same position in the odd-jobbed world.
+When it comes to purely focusing on shredding a single target as quickly as possible, most conventional MapleLegends players reach for nightlord or corsair. The results calculated here suggest that DEXadin is an extremely strong contender for this same position in the odd-jobbed world.
 
 ### A personal note
 
-I just want to be clear that, even though DKs come in dead last in this analysis, my intent is in no way to complain about my own DEX warrior (**rusa**), who is a DK. The single-target DPM of DEX DKs is still considerable, and this is not really their specialty anyways; DKs benefit from many powerful things that the other warrior paths do not.
+I just want to be clear that, even though DKs come in dead last in this analysis, my intent is in no way to complain about my own DEX warrior (**rusa**), who is a DK. The single-target DPM of DEX DKs is still considerable, and this is not really their speciality anyways; DKs benefit from many powerful things that the other warrior paths do not.
 
 ## Hunting for roses
 
@@ -417,7 +417,7 @@ Each one of these roses has its own set of monster species that it drops from, b
 
 On my [vicloc](https://codeberg.org/Victoria/resources) characters, I decided to farm White Valentine Roses at [WKA](https://maplelegends.com/lib/map?id=105090301). Although the map is named for its [Wild Kargo](https://maplelegends.com/lib/monster?id=6230100) population (and it is the best map to hunt Wild Kargos, in my opinion), its [Cold Eye](https://maplelegends.com/lib/monster?id=4230100) population is notable for being very dense and quick to respawn. Because Cold Eyes drop White Valentine Roses, and because WKA generally gives pretty good EPH to endgame viclockers, it seemed like the right place to farm. However, it was probably around about &ap;5(!) or so hours of grinding WKA before I found my first white rose. Thankfully, the second one didn’t come _too_ much later, but still. I was starting to really lose faith that Cold Eyes even dropped roses at all… By the end of it, I had a full 5/5 set of Wild Kargo cards (the most difficult set in Victoria Island, in my opinion (not counting [Ergoth](https://maplelegends.com/lib/monster?id=9300028))), and around &ap;600 or so [Wild Kargo Eye](https://maplelegends.com/lib/etc?id=4000027)s.
 
-Outland, I benefitted from having a few roses left over from last year’s V-day event. Nevertheless, I went on a rosehunting crusade on my [darksterity knight](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-warrior) **rusa**, turning it into an opportunity to do some card-hunting at the same time. As you can see in the image above, I went and did the [Straw Target Dummy](https://maplelegends.com/lib/monster?id=5120503) set (and got a yellow rose or two along the way), the [Krip](https://maplelegends.com/lib/monster?id=3000006) and [Mask Fish](https://maplelegends.com/lib/monster?id=3230104) sets (and got a red rose or two along the way), the [Jr. Lioner](https://maplelegends.com/lib/monster?id=3210201) set (and got a yellow rose along the way), the [Red Kentaurus](https://maplelegends.com/lib/monster?id=8140102) set (and got no roses along the way…), and the [Reinforced Mithril Mutae](https://maplelegends.com/lib/monster?id=5110300) set (and also got no roses along the way…). Once the game decided to stop giving me roses entirely, I gave up.
+Outland, I benefited from having a few roses left over from last year’s V-day event. Nevertheless, I went on a rosehunting crusade on my [darksterity knight](https://oddjobs.codeberg.page/guides/introduction-to-odd-jobs/#dex-warrior) **rusa**, turning it into an opportunity to do some card-hunting at the same time. As you can see in the image above, I went and did the [Straw Target Dummy](https://maplelegends.com/lib/monster?id=5120503) set (and got a yellow rose or two along the way), the [Krip](https://maplelegends.com/lib/monster?id=3000006) and [Mask Fish](https://maplelegends.com/lib/monster?id=3230104) sets (and got a red rose or two along the way), the [Jr. Lioner](https://maplelegends.com/lib/monster?id=3210201) set (and got a yellow rose along the way), the [Red Kentaurus](https://maplelegends.com/lib/monster?id=8140102) set (and got no roses along the way…), and the [Reinforced Mithril Mutae](https://maplelegends.com/lib/monster?id=5110300) set (and also got no roses along the way…). Once the game decided to stop giving me roses entirely, I gave up.
 
 </details>
 
@@ -462,7 +462,7 @@ Also amongst the raffle prizes were some new year’s tiger body parts, like thi
 
 Fabulous.
 
-And I’ve already come away fro mthe raffle with two chairs, including this stylish Princess No Chair~:
+And I’ve already come away from the raffle with two chairs, including this stylish Princess No Chair~:
 
 ![cervine’s Princess No Chair](cervine-princess-no-chair.webp "cervine’s Princess No Chair")
 
@@ -487,7 +487,7 @@ Okay, eventually, I did finally get past that part. It’s pretty hard, and I’
 
 ![cervine @ the second part of the Ninja Castle JQ](cervine-2nd-part-of-ninja-castle-jq.webp "cervine @ the second part of the Ninja Castle JQ")
 
-…I didn’t have to start completely from scratch. This next part was so difficult that I was really about to give up. So I looked to YouTube&trade; for guidance. And guidance is exactly what I found: “[Maplestory &ndash; Ninja Castle Jump Quest](https://www.youtube.com/watch?v=JQibi8MSScU)”. This video depicts GMS IGN **Sylvananna** completing the entire JQ in roughly &ap;38(!) seconds. Although I’m not exactly capable of doing the JQ _quite_ that quickly, watching how Sylvananna does it helped me _immensely_ to complete the JQ myself. With that, I was able to bypass the ninja star/blowgun hell, and proceed to the third and final section of the JQ:
+…I didn’t have to start completely from scratch. This next part was so difficult that I was really about to give up. So I looked to YouTube&trade; for guidance. And guidance is exactly what I found: “[MapleStory &ndash; Ninja Castle Jump Quest](https://www.youtube.com/watch?v=JQibi8MSScU)”. This video depicts GMS IGN **Sylvananna** completing the entire JQ in roughly &ap;38(!) seconds. Although I’m not exactly capable of doing the JQ _quite_ that quickly, watching how Sylvananna does it helped me _immensely_ to complete the JQ myself. With that, I was able to bypass the ninja star/blowgun hell, and proceed to the third and final section of the JQ:
 
 ![cervine, ⅔ of the way through the Ninja Castle JQ](cervine-two-thirds-of-the-way-thru-ninja-castle-jq.webp "cervine, ⅔ of the way through the Ninja Castle JQ")
 
@@ -518,7 +518,7 @@ I also had the pleasure of doing a [Chocolate Basket](https://maplelegends.com/l
 
 ![pilk and d33r grinding @ L2A1](pilk-and-d33r-grinding-l2a1.webp "pilk and d33r grinding @ L2A1")
 
-I was getting quite good EPH on d33r, but for pilk, it was even more profitable: she leveled not once, not twice, but thrice in the duration of a simple basket (60 minutes)!!
+I was getting quite good EPH on d33r, but for pilk, it was even more profitable: she levelled not once, not twice, but thrice in the duration of a simple basket (60 minutes)!!
 
 After this excellent grind sesh, we decided that pilk deserves a claw upgrade in the meantime before she hits level 40 and can use the [Adamantium Avarice](https://maplelegends.com/lib/equip?id=1472016)s that Jr. Napkins drop. So I helped her out with a few materials, and she was able to craft the almighty [Meba](https://maplelegends.com/lib/equip?id=1472007)!:
 
@@ -558,7 +558,7 @@ This meant that I was capable of achieving over 1\.7M(!!) EPH while duoing FoG w
 
 ![d34r and xXCrookXx duoing FoG on basket](d34r-and-xxcrookxx-duo-fog-on-basket.webp "d34r and xXCrookXx duoing FoG on basket")
 
-During this session, I temporarily lost track of my EXP bar, and leveled in the middle of chatting in alliance chat…:
+During this session, I temporarily lost track of my EXP bar, and levelled in the middle of chatting in alliance chat…:
 
 ![d34r hits level 81~!](d34r-81.webp "d34r hits level 81~!")
 
@@ -793,7 +793,7 @@ And finally, here’s a screenshot from one of the Zakum runs that I did with Ha
 <details>
 <summary>Footnotes for “woosers”</summary>
 
-\*At least, “ultimate challenge” in the context of version 62 of GMS — nevermind the fact that MapleLegends has added [Neo Tokyo](https://maplelegends.com/lib/map?id=802000200) and [Pink Bean](https://maplelegends.com/lib/monster?id=8820001)…
+\*At least, “ultimate challenge” in the context of version 62 of GMS — never mind the fact that MapleLegends has added [Neo Tokyo](https://maplelegends.com/lib/map?id=802000200) and [Pink Bean](https://maplelegends.com/lib/monster?id=8820001)…
 
 </details>
 
@@ -801,7 +801,7 @@ And finally, here’s a screenshot from one of the Zakum runs that I did with Ha
 
 **xBowtjuhNL** planned/organised &amp; hosted an [HT](https://maplelegends.com/lib/monster?id=8810003) run to be my first HT! We invited basically anyone who I know and who was capable of HTing, and in the end, we were joined by **Harlez** (**VigiI**), **Melokie** (**Skateboard**, **Alrightyo**), **SmallMight** (**SiriusPlaque**), **Soblet**, and others!
 
-This really was my first-ever HT, not just rusa’s first. I never really expected to get so far on, franky, any of my characters — far enough to fight the almighty boss of fourth job land (a\.k\.a. Leafre)!! So I was pretty nervous, as you’d expect, but I think it went pretty well overall. You can watch edited footage of this first run on the **Oddjobs** YouTube channel:
+This really was my first-ever HT, not just rusa’s first. I never really expected to get so far on, frankly, any of my characters — far enough to fight the almighty boss of fourth job land (a\.k\.a. Leafre)!! So I was pretty nervous, as you’d expect, but I think it went pretty well overall. You can watch edited footage of this first run on the **Oddjobs** YouTube channel:
 
 [**rusa’s first Horntail!!!** \[YouTube\]](https://www.youtube.com/watch?v=PcQET2N8YpY)
 
