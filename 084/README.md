@@ -512,7 +512,7 @@ And, during a [JC](https://maplelegends.com/lib/monster?id=9600025) run while ru
 
 ![Level 161 rusa, `@dpm 5` at JC](rusa-161-jc-dpm-5.webp "Level 161 rusa, `@dpm 5` at JC")
 
-Heyo, 180\.8[M](https://en.wikipedia.org/wiki/Mega-) EPH ain’t half bad for [SE](https://maplelegends.com/lib/skill?id=3221002), [Echo](https://maplelegends.com/lib/skill?id=1005), [MW](https://maplelegends.com/lib/skill?id=1321000)9, and a [Cider](https://maplelegends.com/lib/use?id=2022002)! Once the [clone](https://maplelegends.com/lib/monster?id=9600026)s start rolling out, my DPM really goes up ^^
+Heyo, 180\.8[M](https://en.wikipedia.org/wiki/Mega-) DPH ain’t half bad for [SE](https://maplelegends.com/lib/skill?id=3221002), [Echo](https://maplelegends.com/lib/skill?id=1005), [MW](https://maplelegends.com/lib/skill?id=1321000)9, and a [Cider](https://maplelegends.com/lib/use?id=2022002)! Once the [clone](https://maplelegends.com/lib/monster?id=9600026)s start rolling out, my DPM really goes up ^^
 
 ## Meet tara
 
