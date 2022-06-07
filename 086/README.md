@@ -443,7 +443,7 @@ And, now that rusa hit level 168, she finally has that sweet, sweet 30[k](https:
 
 ![rusa finally gets that sweet, sweet 30k MAXHP &#x1f60c;](rusa-30k-maxhp.webp "rusa finally gets that sweet, sweet 30k MAXHP &#x1f60c;")
 
-&#x1f60c; Feels good. Now my [zerk](https://maplelegends.com/lib/skill?id=1320006) threshold will be 16&numsp;500 forever more, instead of changing every time I level up or change gear!! :D
+&#x1f60c; Feels good. Now my [zerk](https://maplelegends.com/lib/skill?id=1320006) threshold will be 16&numsp;500 forevermore, instead of changing every time I level up or change gear!! :D
 
 And, finally, equipped with my new shiny 30k MAXHP, I set out to help Harlez, marksman <b>xBowtjuhNL</b>, hero <b>Mightyboosh</b>, and corsair <b>Dabulator</b> with a pair of [Berga](https://maplelegends.com/lib/monster?id=9400263) runs:
 
