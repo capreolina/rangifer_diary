@@ -453,9 +453,9 @@ I’ve gotten a bit better at surviving Berga runs, although I admit that I cont
 
 In any case, one of the neat things about Neo Tokyo (NT) bosses is that they can give some juicy and interesting drops, in addition to their EXP. Check it out…:
 
-![Filthy Berga lucre… &#x1f926;&#x1f3fd;&#x200d;&#x2640;&#xfe0f;](filthy-berga-lucre.webp "Filthy Berga lucre… &#x1f926;&#x1f3fd;&#x200d;&#x2640;&#xfe0f;")
+![Filthy Berga lucre… F3](filthy-berga-lucre.webp "Filthy Berga lucre… F3")
 
-Oh. Well, you know, you win some, you lose some… F3
+Oh. Well, you know, you win some, you lose some… &#x1f926;&#x1f3fd;&#x200d;&#x2640;&#xfe0f;
 
 ## (…cnvpstdf…)
 
