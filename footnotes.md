@@ -26,6 +26,11 @@ order**, of the sigils that I use:
 | ✤     | U+2724    | heavy four balloon-spoked asterisk |
 | ➿    | U+27bf    | double curly loop                  |
 | ☛     | U+261b    | black right pointing index         |
+| ✍     | U+270d    | writing hand                       |
+| ❄     | U+2744    | snowflake                          |
+| 〽    | U+303d    | part alternation mark              |
+| ♆     | U+2646    | Neptune                            |
+| ⚵     | U+26b5    | Juno                               |
 
 Fun, right…?
 
