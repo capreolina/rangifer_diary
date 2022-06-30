@@ -1061,7 +1061,7 @@ Speaking of miscalculating my EXP, I thought that I wasn’t going to level up f
 
 Ok, well, at least I had like half of my INT pyjamas on this time. Better than nothing, I guess. And hey: level 140~!! :D
 
-One of the great joys of not wearing a [zhelm](https://maplelegends.com/lib/equip?id=1002357) (besides the fact that you don’t smacc yr cranium into solid rock every time that you get hit) is that you can loot a zhelm to sell at an NPC shop for 500[k](https://en.wikipedia.org/wiki/Kilo-) mesos, just about every time you do a Zak run! Unless you have a buyer, but then you get even more money anyways. This one in particular, I had to take a screenshot of before I NPC’s it:
+One of the great joys of not wearing a [zhelm](https://maplelegends.com/lib/equip?id=1002357) (besides the fact that you don’t smacc yr cranium into solid rock every time that you get hit) is that you can loot a zhelm to sell at an NPC shop for 500[k](https://en.wikipedia.org/wiki/Kilo-) mesos, just about every time you do a Zak run! Unless you have a buyer, but then you get even more money anyways. This one in particular, I had to take a screenshot of before I NPC’d it:
 
 ![Purple-glowing clean zhelm](purple-clean-zhelm.webp "Purple-glowing clean zhelm")
 
