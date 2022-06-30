@@ -530,7 +530,7 @@ For [Assembling the Alarm Clock](https://bbb.hidden-street.net/quest/ludus-lake/
 
 ![Weird battery thingamajig… obtained!](tara-weird-battery-get.webp "Weird battery thingamajig… obtained!")
 
-For my efforts, I was awarded with 50 [Fat Sausage](https://maplelegends.com/lib/use?id=2020008)s. Yummy.
+For my efforts, I was awarded 50 [Fat Sausage](https://maplelegends.com/lib/use?id=2020008)s. Yummy.
 
 Oh, and we can’t forget [Nemi](https://maplelegends.com/lib/npc?id=2041005)’s quests, can we? These quests are actually quite low level (28), but I forgot to go out to the [Ludibrium Village](https://maplelegends.com/lib/map?id=220000300) to find her. [Nemi’s First Ingredient](https://bbb.hidden-street.net/quest/ludus-lake/nemis-first-ingredient) had me killing [Ratz](https://maplelegends.com/lib/monster?id=3110102) for their [Savory Cheese](https://maplelegends.com/lib/etc?id=4031129)s:
 
