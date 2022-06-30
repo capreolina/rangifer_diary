@@ -929,7 +929,7 @@ I also really like Lilynouch’s name, so I wondered if perhaps it meant anythin
 
 > A brooch or clasp for fastening a piece of clothing together, especially when valuable or set with jewels.
 
-So it’s possible that the <i>-nouche</i> in <i>Lilynouch</i> is in reference to the chained headpiece that it wears, which appears to be made of [gold](https://en.wikipedia.org/wiki/Gold) (and painted with something of a dark blue colour). And of course, <i>lily</i> just means “flower, particularly of the [genus](https://en.wikipedia.org/wiki/Genus) [<i>Lilium</i>](https://en.wikipedia.org/wiki/Lilium)”, ultimately of [Egyptian](https://en.wikipedia.org/wiki/Egyptian_language) origin (q\.v. [ϩⲗⲏⲣⲓ](https://en.wiktionary.org/wiki/%CF%A9%E2%B2%97%E2%B2%8F%E2%B2%A3%E2%B2%93#Coptic) ⟨<i>hlēri</i>⟩ “flower”).
+So it’s possible that the <i>-nouch</i> in <i>Lilynouch</i> is in reference to the chained headpiece that it wears, which appears to be made of [gold](https://en.wikipedia.org/wiki/Gold) (and painted with something of a dark blue colour). And of course, <i>lily</i> just means “flower, particularly of the [genus](https://en.wikipedia.org/wiki/Genus) [<i>Lilium</i>](https://en.wikipedia.org/wiki/Lilium)”, ultimately of [Egyptian](https://en.wikipedia.org/wiki/Egyptian_language) origin (q\.v. [ϩⲗⲏⲣⲓ](https://en.wiktionary.org/wiki/%CF%A9%E2%B2%97%E2%B2%8F%E2%B2%A3%E2%B2%93#Coptic) ⟨<i>hlēri</i>⟩ “flower”).
 
 With Lilynouch vanquished, I had a meeting with [Sorcerer](https://maplelegends.com/lib/npc?id=2140002), who sold me a single (1) potion for the rather steep price of one million mes0rz. Confident that “you get what you pay for”, I quaffed it immediately:
 
