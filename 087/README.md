@@ -608,7 +608,7 @@ I was motivated to revisit the Ludi JQ by <b>Slime</b> (<b>OmokTeacher</b>, <b>D
 
 ![Toy Factory \<Sector 4\> sux -\_-](toy-factory-sector-4-sux.webp "Toy Factory \<Sector 4\> sux -\_-")
 
-…But to no avail. Game indeed sux. There is at least some excuse for this behaviour: the JQ is completed by having all ten [Machine Parts](https://maplelegends.com/lib/etc?id=4031092) in one’s inventory, but only ten are dropped throughout the JQ, and the Machine Parts are untradeable (and destroyed upon leaving the JQ map). So, if more than one PC were allowed into the JQ map at once, then the JQ would instantly be failed for _both_ PCs as soon as both PCs had \>0 Machine Parts in their inventories. Of course, in our case, this was fine; DamagePer wouldn’t be looting any Machine Parts, so it would work out normally. Unfortunately, however, we had no way to explain this to the game…
+…But to no avail. Game indeed sux. There is at least some excuse for this behaviour: the JQ is completed by having all ten [Machine Parts](https://maplelegends.com/lib/etc?id=4031092) in one’s inventory, but only ten are dropped throughout the JQ, and the Machine Parts are untradeable (and destroyed upon leaving the JQ map). So, if more than one PC were allowed into the JQ map at once, then the JQ would instantly be failed for _all_ PCs as soon as two (or more) PCs each had \>0 Machine Parts in their inventories. Of course, in our case, this was fine; DamagePer wouldn’t be looting any Machine Parts, so it would work out normally. Unfortunately, however, we had no way to explain this to the game…
 
 Anywho, turning in my 1\.1k Toy Drums brought me up to level 48:
 
