@@ -644,7 +644,7 @@ By way of [Nautilus Harbour](https://maplelegends.com/lib/map?id=120000000), I w
 
 ![tara farming Poopa Eggs](tara-farming-poopa-eggs.webp "tara farming Poopa Eggs")
 
-I went on up to Orbis and started wandering around in search of those wooden crates that are inexplicable scattered around the town, trying to find [Empty Potion Bottle](https://maplelegends.com/lib/etc?id=4031198)s for [To the New World](https://bbb.hidden-street.net/quest/victoria-island/to-the-new-world):
+I went on up to Orbis and started wandering around in search of those wooden crates that are inexplicably scattered around the town, trying to find [Empty Potion Bottle](https://maplelegends.com/lib/etc?id=4031198)s for [To the New World](https://bbb.hidden-street.net/quest/victoria-island/to-the-new-world):
 
 ![tara collecting glass bottles around Orbis](tara-collecting-glass-bottles.webp "tara collecting glass bottles around Orbis")
 
